@@ -70,7 +70,7 @@ repository. Βοηθάει πολύ μια φωτογραφία (screenshot) κ�
 
 ---
 
-## In English
+## English
 
 An unofficial, complete Greek translation of **Outer Wilds** and **Echoes of the
 Eye DLC** — 3,715 entries covering all dialogue, the full Ship Log, every wall
