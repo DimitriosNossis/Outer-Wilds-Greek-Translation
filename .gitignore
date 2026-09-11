@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# Machine-specific project settings (contains local OWML path)
+*.user
+
+# Unity asset bundle build output
+AssetBundles/
+AssetBundles.meta
+
+# IDE
+.vs/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "GreekTranslation.dll",
+  "author": "Dimitrios",
+  "name": "Outer Wilds Greek Translation",
+  "uniqueName": "Dimitrios.GreekTranslation",
+  "version": "0.9.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": [ "xen.LocalizationUtility" ]
+}

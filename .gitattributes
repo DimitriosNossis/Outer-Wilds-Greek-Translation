@@ -1,0 +1,11 @@
+# Normalise line endings for text files by default
+* text=auto
+
+# Translation data — keep bytes exactly as written.
+# The import tool rebuilds the XML byte-for-byte from the master, so line
+# endings must not be rewritten on checkout.
+*.xml -text
+*.csv -text
+
+# The font bundle is binary
+GreekTranslation/assets/greekfont binary
