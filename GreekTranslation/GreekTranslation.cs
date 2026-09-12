@@ -32,7 +32,7 @@ public class GreekTranslation : ModBehaviour
 
 		// Uncomment once the Greek font bundle exists. Build it in Unity 2019.4.27f1
 		// as a TMP SDF asset covering Basic Latin + Greek and Coptic (U+0370-U+03FF).
-		api.AddLanguageFont(this, "Ελληνικά", "assets/greekfont", "SpaceMono-Regular");
+		api.AddLanguageFont(this, "Ελληνικά", "assets/greekfont", "RobotoMono-Light");
 
 		ModHelper.Console.WriteLine("Greek translation registered.", MessageType.Success);
 	}
