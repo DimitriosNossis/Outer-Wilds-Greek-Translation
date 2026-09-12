@@ -11,6 +11,13 @@
 
 ## Εγκατάσταση
 
+Πήγαινε στο **[outerwildsmods.com](https://outerwildsmods.com/)** και κατέβασε τον
+**Outer Wilds Mod Manager**. Εγκατάστησέ τον και άνοιξέ τον.
+
+Την πρώτη φορά θα σου ζητήσει να εντοπίσει το Outer Wilds. Συνήθως το βρίσκει
+μόνος του· αν όχι, δείξε του τον φάκελο όπου είναι εγκατεστημένο το παιχνίδι
+(π.χ. `C:\Program Files (x86)\Steam\steamapps\common\Outer Wilds`).
+
 Μέσα από τον **Outer Wilds Mod Manager**:
 
 1. Άνοιξε τον Mod Manager
@@ -66,6 +73,7 @@ repository. Βοηθάει πολύ μια φωτογραφία (screenshot) κ�
 ## Ευχαριστίες
 
 - **Mobius Digital** για το Outer Wilds
+- **Outer Wilds Mod Manager creators** για τη δημιουργία του modding εργαλείου
 - **xen-42** για το [Interplanetary Polyglot](https://github.com/xen-42/outer-wilds-localization-utility),
   που κάνει δυνατή την προσθήκη νέων γλωσσών
 
