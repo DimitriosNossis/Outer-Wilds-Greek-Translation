@@ -11,7 +11,7 @@
 
 ## Εγκατάσταση
 
-Πήγαινε στο **[outerwildsmods.com](https://outerwildsmods.com/)** και κατέβασε τον
+Πήγαινε στο **[outerwildsmods.com](https://outerwildsmods.com/mod-manager/)** και κατέβασε τον
 **Outer Wilds Mod Manager**. Εγκατάστησέ τον και άνοιξέ τον.
 
 Την πρώτη φορά θα σου ζητήσει να εντοπίσει το Outer Wilds. Συνήθως το βρίσκει
