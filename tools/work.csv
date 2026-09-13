@@ -14,10 +14,10 @@ dialogue:12,dialogue,CASSAVA,257,TAGS,"CASSAVA: Is it, though? We’ve tried for
 dialogue:13,dialogue,SPIRE,110,TAGS,SPIRE: Abandoning the <color=orange>Vessel</color>’s warp core and its casing means losing valuable knowledge.,ΣΠΑΪΡ: Το να εγκαταλείψουμε τον πυρήνα στρέβλωσης του <color=orange>Σκάφους</color> και το περίβλημά του σημαίνει ότι χάνουμε πολύτιμη γνώση.
 dialogue:14,dialogue,MITIS,117,,"MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.","ΜΙΤΙΣ: Αυτό ισχύει· ωστόσο, είναι γνώση που ελάχιστες ελπίδες έχουμε να ανακτήσουμε. Καλύτερα να τη μάθουμε ξανά από την αρχή, νομίζω."
 dialogue:15,dialogue,POKE,173,TAGS,"POKE: I would very much like to craft such a powerful core! More relevantly, I believe the <color=orange>Black Hole Forge</color> crew and I could recreate the basic design.","ΠΟΟΥΚ: Θα ήθελα πάρα πολύ να φτιάξω έναν τόσο ισχυρό πυρήνα! Και, το πιο ουσιαστικό, πιστεύω ότι το πλήρωμα του <color=orange>Σφυρηλατείου της Μαύρης Τρύπας</color> κι εγώ μπορούμε να αναδημιουργήσουμε το βασικό σχέδιο."
-dialogue:16,dialogue,CASSAVA,119,,"CASSAVA: I imagine I’ve been hard on Poke, again. This in turn means I’ve made things difficult for her sister (Clary).","ΚΑΣΑΒΑ: Φαντάζομαι ότι φέρθηκα σκληρά στην Πόουκ, ξανά. Πράγμα που σημαίνει ότι δυσκόλεψα και την αδερφή της (την Κλάρι)."
-dialogue:17,dialogue,CASSAVA,187,,"CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).","ΚΑΣΑΒΑ: Αν η Πόουκ κι εγώ είμαστε λάδι και νερό, η Κλάρι είναι ο γαλακτωματοποιητής μας. Σίγουρα μας κάνει καλύτερη ομάδα απ’ ό,τι θα μας έκανε το ανακάτεμα με κούνημα (αν και καμιά φορά θα ήθελα να κουνήσω λίγο την Πόουκ!)."
+dialogue:16,dialogue,CASSAVA,119,,"CASSAVA: I imagine I’ve been hard on Poke, again. This in turn means I’ve made things difficult for her sister (Clary).","ΚΑΣΑΒΑ: Φαντάζομαι ότι φέρθηκα σκληρά στην Πόουκ, ξανά. Πράγμα που σημαίνει ότι δυσκόλεψα και την αδερφή της (την Κλάρυ)."
+dialogue:17,dialogue,CASSAVA,187,,"CASSAVA: If Poke and I are oil and water, Clary is our emulsifier. She certainly makes us a better team than would mixing through shaking (although sometimes I would like to shake Poke!).","ΚΑΣΑΒΑ: Αν η Πόουκ κι εγώ είμαστε λάδι και νερό, η Κλάρυ είναι ο γαλακτωματοποιητής μας. Σίγουρα μας κάνει καλύτερη ομάδα απ’ ό,τι θα μας έκανε το ανακάτεμα με κούνημα (αν και καμιά φορά θα ήθελα να κουνήσω λίγο την Πόουκ!)."
 dialogue:18,dialogue,CASSAVA,153,TAGS,"CASSAVA: Jokes aside, suppose my own fear of never finding the <color=lightblue>Eye</color> prompted my argument with Poke. That would be immature of me.",ΚΑΣΑΒΑ: Αστεία στην άκρη· ας υποθέσουμε ότι ο δικός μου φόβος πως δεν θα βρούμε ποτέ το <color=lightblue>Μάτι</color> προκάλεσε τον καβγά μου με την Πόουκ. Αυτό θα ήταν ανώριμο εκ μέρους μου.
-dialogue:19,dialogue,CASSAVA,75,,"CASSAVA: I should apologize... At least to Clary, who could then tell Poke.","ΚΑΣΑΒΑ: Οφείλω να ζητήσω συγγνώμη... Τουλάχιστον από την Κλάρι, που θα μπορούσε να το πει στην Πόουκ."
+dialogue:19,dialogue,CASSAVA,75,,"CASSAVA: I should apologize... At least to Clary, who could then tell Poke.","ΚΑΣΑΒΑ: Οφείλω να ζητήσω συγγνώμη... Τουλάχιστον από την Κλάρυ, που θα μπορούσε να το πει στην Πόουκ."
 dialogue:20,dialogue,POKE,231,TAGS,"POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the <color=orange>Black Hole Forge</color> to be in my care and not his.","ΠΟΟΥΚ: Νιώθω παράξενα που προσπαθώ να αναδημιουργήσω τον πυρήνα στρέβλωσης του Ανόνα χωρίς εκείνον. Κάποιες φορές μου φαίνεται ακόμη παράξενο που δεν είμαι πια η (πολύ νεαρή) μαθητευόμενή του, και που το <color=orange>Σφυρηλατείο της Μαύρης Τρύπας</color> βρίσκεται στη δική μου φροντίδα και όχι στη δική του."
 dialogue:21,dialogue,POKE,122,,"POKE: Hypothesis: This will always feel strange. Even though my time with him was short, I miss my old mentor, and deeply.","ΠΟΟΥΚ: Υπόθεση: Αυτό θα μου φαίνεται πάντα παράξενο. Παρόλο που ο καιρός μου μαζί του ήταν λίγος, μου λείπει ο παλιός μου δάσκαλος — και μου λείπει βαθιά."
 dialogue:22,dialogue,POKE,200,TAGS,"POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I <i>think</i> I can do this (probably), but what if excitement has clouded my assessment of my own abilities?","ΠΟΟΥΚ: Το να έχω την ευκαιρία να προσπαθήσω είναι συναρπαστικό, αλλά... δεν θέλω να απογοητεύσω κανέναν. <i>Νομίζω</i> ότι μπορώ να το κάνω (μάλλον), αλλά κι αν ο ενθουσιασμός έχει θολώσει την εκτίμηση των ικανοτήτων μου;"
@@ -30,9 +30,8 @@ dialogue:28,dialogue,SOLANUM,149,,"SOLANUM: Since then, space has continued to e
 dialogue:29,dialogue,SOLANUM,124,,"SOLANUM: This universe will keep getting colder and larger, until one day, the stars and the life they support will all die.","ΣΟΛΑΝΟΥΜ: Αυτό το σύμπαν θα συνεχίσει να γίνεται πιο κρύο και πιο μεγάλο, μέχρι κάποια μέρα, τα αστέρια και η ζωή που υποστηρίζουν θα πάψουν να υπάρχουν."
 dialogue:30,dialogue,SOLANUM,143,,"SOLANUM: That’s scary to think about, even though Conoy tells me it won’t happen in our lifetimes. But it’ll happen in someone else’s, someday!","ΣΟΛΑΝΟΥΜ: Είναι τρομακτικό και μόνο στη σκέψη, αν και ο Κόνοϊ μου λέει πως δε θα συμβεί όσο ζούμε εμείς. Αλλά θα συμβεί στη ζωή κάποιου άλλου, κάποια μέρα!"
 dialogue:31,dialogue,LAMI,30,,LAMI: Explanation of Festivals,ΛΑΜΙ: Εξήγηση των Φεστιβάλ
-dialogue:32,dialogue,LAMI,146,,LAMI: All the Nomai clans from all over the universe meet in one place to share what they’ve learned in science and art. It’s called the festival!,ΛΑΜΙ: Όλες οι φυλές των Νομάι από ολόκληρο το σύμπαν συναντώνται σε ένα μέρος για να μοιραστούν όσα έχουν μάθει για τις επιστήμες και τις τέχνες. Αυτή η συναάντηση ονομάζεται το φεστιβάλ! 
-dialogue:33,dialogue,FILIX,54,,"FILIX: Don’t forget, festivals happen every ten years!","ΦΙΛΙΞ: Μην ξεχνάς, τα φεστιβάλ γίνονται κάθε δέκα χρόνια!
-"
+dialogue:32,dialogue,LAMI,146,,LAMI: All the Nomai clans from all over the universe meet in one place to share what they’ve learned in science and art. It’s called the festival!,ΛΑΜΙ: Όλες οι φυλές των Νομάι από ολόκληρο το σύμπαν συναντώνται σε ένα μέρος για να μοιραστούν όσα έχουν μάθει για τις επιστήμες και τις τέχνες. Αυτή η συναάντηση ονομάζεται το φεστιβάλ!
+dialogue:33,dialogue,FILIX,54,,"FILIX: Don’t forget, festivals happen every ten years!","ΦΙΛΙΞ: Μην ξεχνάς, τα φεστιβάλ γίνονται κάθε δέκα χρόνια!"
 dialogue:34,dialogue,LAMI,78,,"LAMI: We can’t go because we’re stuck here. But Filix says we used to go, too.",ΛΑΜΙ: Δεν μπορούμε να πάμε γιατί είμαστε κολλημένοι εδώ. Αλλά η Φίλιξ λέει ότι συνηθίζαμε να πηγαίνουμε κι εμείς.
 dialogue:35,dialogue,LAMI,186,,"LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.","ΛΑΜΙ: Σε ορισμένα φεστιβάλ, η μεγάλη ανακάλυψη μίας φυλής μπορεί να σημάνει πως όλοι οι Νομάι μπορούν να εξελιχθούν. Όπως ο πυρήνας στρέβλωσης του Ανόνα, που επέτρεψε σε όλους να διανύουν μεγάλες αποστάσεις και να ανακαλύπτουν περισσότερα."
 dialogue:36,dialogue,LAMI,97,,LAMI: Each clan has a festival envoy to show their most interesting work. (Our envoy was Thatch!),ΛΑΜΙ: Κάθε φυλή έχει έναν απεσταλμένο στο φεστιβάλ για να δείξει την πιο σημαντική δουλειά της. (Ο απεσταλμένος μας ήταν ο Θατς!)
@@ -42,7 +41,7 @@ dialogue:39,dialogue,,22,,Emergency escape hatch,Πόρτα διαφυγής έ�
 dialogue:40,dialogue,BEGIN FLIGHTLOG,192,TAGS,BEGIN FLIGHTLOG: <color=orange>Escape Pod 1</color>. <color=orange>Vessel</color> has been mortally injured. Emergency sequence activated. Awaiting departure from <color=orange>Vessel</color>.,ΕΝΑΡΞΗ ΗΜΕΡΟΛΟΓΙΟΥ ΠΤΗΣΗΣ: <color=orange>Καψούλα Διαφυγής 1</color>. Το <color=orange>Σκάφος</color> έχει υποστεί θανάσιμες ζημιές. Ενεργοποιήθηκε η διαδικασία έκτακτης ανάγκης. Αναμονή για αναχώρηση από το <color=orange>Σκάφος</color>.
 dialogue:41,dialogue,,145,TAGS,Launching <color=orange>Escape Pod 3</color>... Launching <color=orange>Escape Pod 2</color>... Now launching <color=orange>Escape Pod 1</color>.,Εκτόξευση της <color=orange>Κάψουλας Διαφυγής 3</color>... Εκτόξευση της <color=orange>Κάψουλας Διαφυγής 2</color>... Τώρα εκτόξευση της <color=orange>Κάψουλας Διαφυγής 1</color>.
 dialogue:42,dialogue,,48,,ALERT. Collision imminent. Preparing for impact.,ΕΙΔΟΠΟΙΗΣΗ. Επικείμενη σύγκρουση. Προετοιμασία για πρόσκρουση.
-dialogue:43,dialogue,,180,,"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.
+dialogue:43,dialogue,,181,,"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.
 			Verdict: HOSPITABLE.","Σάρωση του εξωτερικού περιβάλλοντος... Η σάρωση ολοκληρώθηκε. Εντοπίστηκαν μικρές δομικές αστάθειες. Εντοπίστηκαν θύλακες αναπνεύσιμου αέρα. Εντοπίστηκε επαρκής ηλιακή ενέργεια.
 			Συμπέρασμα: ΦΙΛΟΞΕΝΟΣ."
 dialogue:44,dialogue,CONOY,290,TAGS,"CONOY: Cassava’s <color=orange>Construction Yard</color> has been using the cyclones on <color=lightblue>Giant’s Deep</color> to lift <color=orange>Orbital Probe Cannon</color> parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.","ΚΟΝΟΪ: Το <color=orange>Εργοτάξιο</color> του Κασάβα χρησιμοποιεί τους κυκλώνες του <color=lightblue>Τζάιαντς Ντιπ</color> για να ανεβάζει σε τροχιά εξαρτήματα του <color=orange>Τροχιακού Κανονιού Βολίδας</color>, όμως ένα από αυτά ωθήθηκε προς τα κάτω, πέρα από το ρεύμα που κανονικά εμποδίζει οτιδήποτε να βυθιστεί."
@@ -1187,7 +1186,7 @@ dialogue:1182,dialogue,ANNONA,126,,"ANNONA: This is a relief, at least. You have
 dialogue:1183,dialogue,BUR,131,,"BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.","ΜΠΕΡ: Ακούω και τα δύο σήματα κάπου σε αυτό το αστρικό σύστημα, αλλά δεν πιστεύω ότι κάποια από τις δύο κάψουλες συνετρίβη στον ίδιο πλανήτη με εμάς."
 dialogue:1184,dialogue,BEGIN FLIGHTLOG,192,TAGS,BEGIN FLIGHTLOG: <color=orange>Escape Pod 2</color>. <color=orange>Vessel</color> has been mortally injured. Emergency sequence activated. Awaiting departure from <color=orange>Vessel</color>.,ΕΝΑΡΞΗ ΗΜΕΡΟΛΟΓΙΟΥ ΠΤΗΣΗΣ: <color=orange>Κάψουλα Διαφυγής 2</color>. Το <color=orange>Σκάφος</color> έχει υποστεί θανάσιμες ζημιές. Ενεργοποιήθηκε η διαδικασία έκτακτης ανάγκης. Αναμονή για αναχώρηση από το <color=orange>Σκάφος</color>.
 dialogue:1185,dialogue,,97,TAGS,Launching <color=orange>Escape Pod 3</color>... Now launching <color=orange>Escape Pod 2</color>.,Εκτόξευση της <color=orange>Κάψουλας Διαφυγής 3</color>... Τώρα εκτόξευση της <color=orange>Κάψουλας Διαφυγής 2</color>.
-dialogue:1186,dialogue,,156,,"Scanning external environment... Scan complete. External temperature is prohibitively high.
+dialogue:1186,dialogue,,157,,"Scanning external environment... Scan complete. External temperature is prohibitively high.
 			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.","Σάρωση του εξωτερικού περιβάλλοντος... Η σάρωση ολοκληρώθηκε. Η εξωτερική θερμοκρασία είναι απαγορευτικά υψηλή.
 			Συμπέρασμα: ΑΦΙΛΟΞΕΝΟ. Μην αναζητήσετε καταφύγιο στην επιφάνεια του πλανήτη."
 dialogue:1187,dialogue,MELORAE,155,,MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.,ΜΕΛΟΡΕ: Αυτό είναι καταπληκτικό (κοιτάξτε μέσα στη σπηλιά)! Πώς κατέληξε εδώ; Δεν έχουμε συναντήσει άλλα σε αυτές τις σπηλιές· νομίζω ότι είναι σπάνιο εύρημα.
@@ -2421,7 +2420,7 @@ dialogue:2414,dialogue,,12,,Tom Cummings,
 dialogue:2415,dialogue,,27,,"Sean ""sharktemplar"" Farrell",
 dialogue:2416,dialogue,,13,,Steven Ursell,
 dialogue:2417,dialogue,,17,,Ryan / Ohmwrecker,
-dialogue:2418,dialogue,,3331,TAGS ART,"<size=20><color=orange>
+dialogue:2418,dialogue,,3369,TAGS ART,"<size=20><color=orange>
 			. . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
 			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . .
 			. . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
@@ -2460,7 +2459,7 @@ dialogue:2418,dialogue,,3331,TAGS ART,"<size=20><color=orange>
 			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . .
 			. . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . .
 			</color></size>",
-dialogue:2419,dialogue,,756,TAGS ART,"<color=
+dialogue:2419,dialogue,,781,TAGS ART,"<color=
 
 			LOADING...???
 
@@ -2486,7 +2485,7 @@ dialogue:2419,dialogue,,756,TAGS ART,"<color=
 			WWWWWWWWWWWWWWWWWWWW
 			WWWWWWWW
 			</color></size>",
-dialogue:2420,dialogue,,488,TAGS ART,"omg... :O<size=20><color=black>
+dialogue:2420,dialogue,,507,TAGS ART,"omg... :O<size=20><color=black>
 
 			▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 			█░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█
@@ -3133,19 +3132,19 @@ ui:137,ui,,13,,View Ship Log,Προβολή ημερολογίου
 ui:138,ui,,5,,Eject,Εκτίναξη
 ui:139,ui,SUIT,5,CAPS,SUIT:,ΣΤΟΛΗ:
 ui:140,ui,,5,,Leave,Αποχώρηση
-ui:141,ui,,17,,Roast Marshmallow,Ψήσιμο ζαχαρωτού
+ui:141,ui,,17,,Roast Marshmallow,Ψήσε ένα ζαχαρωτό
 ui:142,ui,,4,,Talk,Συνομιλία
 ui:143,ui,,7,,Talk to,Συνομιλία με
 ui:144,ui,,13,,Activate Lift,Ενεργοποίηση ανελκυστήρα
-ui:145,ui,,7,,Suit Up,Ντύσιμο με στολή
+ui:145,ui,,7,,Suit Up,Φόρα τη στολή
 ui:146,ui,,10,,Use Camera,Χρήση κάμερας
 ui:147,ui,,18,,Use Scout Launcher,Χρήση εκτοξευτή ανιχνευτή
 ui:148,ui,,14,,Fly Model Ship,Πτήση μοντέλου σκάφους
 ui:149,ui,,20,,Use Satellite Camera,Χρήση κάμερας δορυφόρου
 ui:150,ui,,18,,Enter Launch Codes,Εισαγωγή κωδικών εκτόξευσης
 ui:151,ui,,21,,Requires Launch Codes,Απαιτεί κωδικούς εκτόξευσης
-ui:152,ui,,14,,Light Campfire,Άναμμα φωτιάς
-ui:153,ui,,11,,Return Suit,Κρέμασμα στολής
+ui:152,ui,,14,,Light Campfire,Άναψε φωτιά
+ui:153,ui,,11,,Return Suit,Κρέμασε τη στολή
 ui:154,ui,,4,,Read,Ανάγνωση
 ui:155,ui,,14,,Play Recording,Αναπαραγωγή ηχογράφησης
 ui:156,ui,,6,,Repair,Επισκευή
@@ -3167,10 +3166,10 @@ ui:171,ui,,8,,Pan View,Μετακίνηση θέασης
 ui:172,ui,,11,,Rotate View,Περιστροφή θέασης
 ui:173,ui,,9,,Zoom View,Ζουμ θέασης
 ui:174,ui,,7,,Observe,Παρατήρηση
-ui:175,ui,,7,,Pick Up,Πιάσιμο
-ui:176,ui,,4,,Drop,Άφημα
-ui:177,ui,,6,,Remove,Αφαίρεση
-ui:178,ui,,6,,Insert,Τοποθέτηση
+ui:175,ui,,7,,Pick Up,Πιάσε
+ui:176,ui,,4,,Drop,Άφησε
+ui:177,ui,,6,,Remove,Αφαίρεσε
+ui:178,ui,,6,,Insert,Τοποθέτησε
 ui:179,ui,,12,,Does Not Fit,Δεν ταιριάζει
 ui:180,ui,,15,,Already Holding,Κρατάς ήδη κάτι
 ui:181,ui,,15,,'Explain' Stone,Πέτρα «Εξήγησε»
@@ -3179,9 +3178,9 @@ ui:183,ui,,16,,'Identify' Stone,Πέτρα «Αναγνώρισε»
 ui:184,ui,,10,,'Me' Stone,Πέτρα «Εγώ»
 ui:185,ui,,20,,'Quantum Moon' Stone,Πέτρα «Κβαντική Σελήνη»
 ui:186,ui,,11,,'You' Stone,Πέτρα «Εσύ»
-ui:187,ui,,6,,Scroll,Πάπυρος
+ui:187,ui,,6,,Scroll,Πάπυρο
 ui:188,ui,,16,,Projection Stone,Πέτρα προβολής
-ui:189,ui,,9,,Warp Core,Πυρήνας στρέβλωσης
+ui:189,ui,,9,,Warp Core,Πυρήνα στρέβλωσης
 ui:190,ui,,10,,Move Stick,Μετακίνηση μοχλού
 ui:191,ui,,12,,Rotate Stick,Περιστροφή μοχλού
 ui:192,ui,,12,,Extend Stick,Προέκταση μοχλού
@@ -3223,19 +3222,19 @@ ui:227,ui,,8,,Swap Tab,Αλλαγή καρτέλας
 ui:228,ui,,16,CAPS,PRESS A TO START,ΠΑΤΑ A ΓΙΑ ΕΝΑΡΞΗ
 ui:229,ui,,5,CAPS,PRESS,ΠΑΤΑ
 ui:230,ui,,8,CAPS,TO START,ΓΙΑ ΕΝΑΡΞΗ
-ui:231,ui,SURFACE INTEGRITY,18,CAPS,SURFACE INTEGRITY:,ΑΚΕΡΑΙΟΤΗΤΑ ΕΠΙΦΑΝΕΙΑΣ:
+ui:231,ui,SURFACE INTEGRITY,18,CAPS,SURFACE INTEGRITY:,ΑΚΕΡΑΙΟΤΗΤΑ:
 ui:232,ui,,19,CAPS,FUEL LEVEL CRITICAL,ΚΡΙΣΙΜΗ ΣΤΑΘΜΗ ΚΑΥΣΙΜΟΥ
 ui:233,ui,,16,CAPS,% FUEL REMAINING,% ΚΑΥΣΙΜΟΥ ΑΠΟΜΕΝΕΙ
-ui:234,ui,,15,CAPS,VITALS CRITICAL,ΚΡΙΣΙΜΑ ΖΩΤΙΚΑ ΣΗΜΕΙΑ
-ui:235,ui,,10,CAPS,VITALS LOW,ΧΑΜΗΛΑ ΖΩΤΙΚΑ ΣΗΜΕΙΑ
-ui:236,ui,,24,CAPS,SECONDS OXYGEN REMAINING,ΔΕΥΤΕΡΟΛΕΠΤΑ ΟΞΥΓΟΝΟΥ ΑΠΟΜΕΝΟΥΝ
-ui:237,ui,,24,CAPS,MINUTES OXYGEN REMAINING,ΛΕΠΤΑ ΟΞΥΓΟΝΟΥ ΑΠΟΜΕΝΟΥΝ
+ui:234,ui,,15,CAPS,VITALS CRITICAL,ΚΡΙΣΙΜΗ ΥΓΕΙΑ
+ui:235,ui,,10,CAPS,VITALS LOW,ΧΑΜΗΛΗ ΥΓΕΙΑ
+ui:236,ui,,24,CAPS,SECONDS OXYGEN REMAINING,ΔΕΥΤΕΡΟΛΕΠΤΑ ΟΞΥΓΟΝΟΥ
+ui:237,ui,,24,CAPS,MINUTES OXYGEN REMAINING,ΛΕΠΤΑ ΟΞΥΓΟΝΟΥ
 ui:238,ui,FREQUENCY,10,CAPS,FREQUENCY:,ΣΥΧΝΟΤΗΤΑ:
-ui:239,ui,,19,CAPS,EXIT SHIP TO REPAIR,ΒΓΕΣ ΑΠΟ ΤΟ ΣΚΑΦΟΣ ΓΙΑ ΕΠΙΣΚΕΥΗ
+ui:239,ui,,19,CAPS,EXIT SHIP TO REPAIR,ΒΓΕΣ ΓΙΑ ΕΠΙΣΚΕΥΗ
 ui:240,ui,,6,CAPS,HAZARD,ΚΙΝΔΥΝΟΣ
 ui:241,ui,ERROR,23,CAPS,ERROR: DUPLICATE SIGNAL,ΣΦΑΛΜΑ: ΔΙΠΛΟ ΣΗΜΑ
 ui:242,ui,,16,CAPS,MULTIPLE MARKERS,ΠΟΛΛΑΠΛΑ ΣΗΜΑΔΙΑ
-ui:243,ui,,16,CAPS,SHIP LOG UPDATED,ΤΟ ΗΜΕΡΟΛΟΓΙΟ ΕΝΗΜΕΡΩΘΗΚΕ
+ui:243,ui,,16,CAPS,SHIP LOG UPDATED,ΝΕΟ ΣΤΟ ΗΜΕΡΟΛΟΓΙΟ
 ui:244,ui,,5,CAPS,(NEW),(ΝΕΟ)
 ui:245,ui,,23,,Launch Codes: --|-..|-.,Κωδικοί εκτόξευσης: --|-..|-.
 ui:246,ui,,16,,Eye Coordinates:,Συντεταγμένες Ματιού:
@@ -3243,17 +3242,17 @@ ui:247,ui,WARNING,51,NL,WARNING: FUEL DEPLETED\\nUSING OXYGEN AS PROPELLANT,ΠΡ
 ui:248,ui,,9,CAPS,REFUELING,ΑΝΕΦΟΔΙΑΣΜΟΣ
 ui:249,ui,,7,CAPS,HEALING,ΕΠΟΥΛΩΣΗ
 ui:250,ui,,21,CAPS,HEALING AND REFUELING,ΕΠΟΥΛΩΣΗ ΚΑΙ ΑΝΕΦΟΔΙΑΣΜΟΣ
-ui:251,ui,,37,CAPS,TREES DETECTED — OXYGEN TANK REFILLED,ΕΝΤΟΠΙΣΤΗΚΑΝ ΔΕΝΤΡΑ — Η ΔΕΞΑΜΕΝΗ ΟΞΥΓΟΝΟΥ ΓΕΜΙΣΕ
-ui:252,ui,,20,CAPS,OXYGEN TANK REFILLED,Η ΔΕΞΑΜΕΝΗ ΟΞΥΓΟΝΟΥ ΓΕΜΙΣΕ
-ui:253,ui,,22,CAPS,SUIT PUNCTURE DETECTED,ΕΝΤΟΠΙΣΤΗΚΕ ΤΡΥΠΑ ΣΤΗ ΣΤΟΛΗ
+ui:251,ui,,37,CAPS,TREES DETECTED — OXYGEN TANK REFILLED,ΔΕΝΤΡΑ — ΔΕΞΑΜΕΝΗ ΓΕΜΑΤΗ
+ui:252,ui,,20,CAPS,OXYGEN TANK REFILLED,ΓΕΜΙΣΕ ΤΟ ΟΞΥΓΟΝΟ
+ui:253,ui,,22,CAPS,SUIT PUNCTURE DETECTED,ΤΡΥΠΑ ΣΤΗ ΣΤΟΛΗ
 ui:254,ui,FREQUENCY DISCOVERED,21,CAPS,FREQUENCY DISCOVERED:,ΕΝΤΟΠΙΣΤΗΚΕ ΣΥΧΝΟΤΗΤΑ:
 ui:255,ui,SIGNAL IDENTIFIED,18,CAPS,SIGNAL IDENTIFIED:,ΑΝΑΓΝΩΡΙΣΤΗΚΕ ΣΗΜΑ:
 ui:256,ui,,27,CAPS,UNABLE TO PINPOINT LOCATION,ΑΔΥΝΑΤΗ Η ΕΥΡΕΣΗ ΤΟΠΟΘΕΣΙΑΣ
-ui:257,ui,,29,CAPS,CONNECTION WITH SCOUT IS LOST,ΧΑΘΗΚΕ Η ΣΥΝΔΕΣΗ ΜΕ ΤΟΝ ΑΝΙΧΝΕΥΤΗ
+ui:257,ui,,29,CAPS,CONNECTION WITH SCOUT IS LOST,ΧΑΘΗΚΕ Ο ΑΝΙΧΝΕΥΤΗΣ
 ui:258,ui,,25,CAPS,RETURNING TO SOLAR SYSTEM,ΕΠΙΣΤΡΟΦΗ ΣΤΟ ΗΛΙΑΚΟ ΣΥΣΤΗΜΑ
-ui:259,ui,,13,CAPS,HEADLIGHTS ON,ΠΡΟΒΟΛΕΙΣ ΑΝΑΜΜΕΝΟΙ
-ui:260,ui,,14,CAPS,HEADLIGHTS OFF,ΠΡΟΒΟΛΕΙΣ ΣΒΗΣΤΟΙ
-ui:261,ui,,23,CAPS,SCOUT LAUNCH OBSTRUCTED,ΕΜΠΟΔΙΖΕΤΑΙ Η ΕΚΤΟΞΕΥΣΗ ΑΝΙΧΝΕΥΤΗ
+ui:259,ui,,13,CAPS,HEADLIGHTS ON,ΟΝ
+ui:260,ui,,14,CAPS,HEADLIGHTS OFF,ΦΩΤΑ ΣΒΗΣΤΑ
+ui:261,ui,,23,CAPS,SCOUT LAUNCH OBSTRUCTED,ΦΡΑΓΜΕΝΗ ΕΚΤΟΞΕΥΣΗ
 ui:262,ui,,14,CAPS,SATELLITE NODE,ΚΟΜΒΟΣ ΔΟΡΥΦΟΡΟΥ
 ui:263,ui,,10,CAPS,UPPER HULL,ΑΝΩ ΚΥΤΟΣ
 ui:264,ui,,7,CAPS,COCKPIT,ΠΙΛΟΤΗΡΙΟ
@@ -3487,12 +3486,12 @@ ui:491,ui,,10,,Loading...,Φόρτωση...
 ui:492,ui,,26,CAPS,UNIDENTIFIED SIGNAL NEARBY,ΑΓΝΩΣΤΟ ΣΗΜΑ ΚΟΝΤΑ
 ui:493,ui,,7,CAPS,UNKNOWN,ΑΓΝΩΣΤΟ
 ui:494,ui,DANGER,36,CAPS,DANGER: GHOST MATTER DETECTED NEARBY,ΚΙΝΔΥΝΟΣ: ΕΝΤΟΠΙΣΤΗΚΕ ΥΛΗ-ΦΑΝΤΑΣΜΑ ΚΟΝΤΑ
-ui:495,ui,,18,CAPS,LOAD PREVIOUS SAVE,ΦΟΡΤΩΣΗ ΠΡΟΗΓΟΥΜΕΝΗΣ ΑΠΟΘΗΚΕΥΣΗΣ
+ui:495,ui,,18,CAPS,LOAD PREVIOUS SAVE,ΦΟΡΤΩΣΗ ΠΡΟΗΓΟΥΜΕΝΗΣ ΣΩΣΗΣ
 ui:496,ui,,47,NL,signed out.\\nPlease sign in again to continue.,αποσυνδέθηκε.\\nΣυνδέσου ξανά για να συνεχίσεις.
 ui:497,ui,,14,CAPS,SWITCH PROFILE,ΑΛΛΑΓΗ ΠΡΟΦΙΛ
 ui:498,ui,,25,CAPS,SHIP HULL BREACH DETECTED,ΕΝΤΟΠΙΣΤΗΚΕ ΡΗΓΜΑ ΣΤΟ ΚΥΤΟΣ
-ui:499,ui,,42,CAPS,UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS,ΑΔΥΝΑΤΗ Η ΑΝΑΚΤΗΣΗ ΑΝΙΧΝΕΥΤΗ: ΠΑΡΑ ΠΟΛΛΟΙ ΣΤΟΧΟΙ
-ui:500,ui,,32,CAPS,EMERGENCY SCOUT RECALL ACTIVATED,ΕΝΕΡΓΟΠΟΙΗΘΗΚΕ Η ΕΠΕΙΓΟΥΣΑ ΑΝΑΚΛΗΣΗ ΑΝΙΧΝΕΥΤΗ
+ui:499,ui,,42,CAPS,UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS,ΑΝΑΚΤΗΣΗ ΑΔΥΝΑΤΗ: ΠΟΛΛΟΙ ΣΤΟΧΟΙ
+ui:500,ui,,32,CAPS,EMERGENCY SCOUT RECALL ACTIVATED,ΕΠΕΙΓΟΥΣΑ ΑΝΑΚΛΗΣΗ ΑΝΙΧΝΕΥΤΗ
 ui:501,ui,,7,CAPS,DAMAGED,ΚΑΤΕΣΤΡΑΜΜΕΝΟ
 ui:502,ui,,13,CAPS,OF 3 REPAIRED,ΑΠΟ 3 ΕΠΙΣΚΕΥΑΣΤΗΚΑΝ
 ui:503,ui,,46,NL,3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE,3 ΑΠΟ 3 ΕΠΙΣΚΕΥΑΣΤΗΚΑΝ\\nΗ ΕΚΠΑΙΔΕΥΤΙΚΗ ΠΡΟΣΟΜΟΙΩΣΗ ΟΛΟΚΛΗΡΩΘΗΚΕ
@@ -3553,7 +3552,7 @@ ui:557,ui,,17,,Cockpit Free Look,Ελεύθερο βλέμμα πιλοτηρί�
 ui:558,ui,,20,,Change Ship Log Mode,Αλλαγή λειτουργίας ημερολογίου
 ui:559,ui,,17,,Mark Entry on HUD,Σήμανση καταχώρισης στο HUD
 ui:560,ui,,20,,Scroll Ship Log Text,Κύλιση κειμένου ημερολογίου
-ui:561,ui,,8,,Doze Off,Κοιμήσου
+ui:561,ui,,8,,Doze Off,Αποκοιμήσου
 ui:562,ui,,11,,Fall Asleep,Ύπνος
 ui:563,ui,,4,CAPS,PS4®,PS4®
 ui:564,ui,,4,,Xbox,Xbox
