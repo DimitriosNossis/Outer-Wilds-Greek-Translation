@@ -9,6 +9,10 @@ public class GreekTranslation : ModBehaviour
 {
 	public static GreekTranslation Instance;
 
+	// Single source of truth - used both to register the language and to detect it at runtime.
+	// Confirmed working: the log shows language=Ελληνικά asInt=13 TOTAL=12.
+	public const string LanguageName = "Ελληνικά";
+
 	public void Awake()
 	{
 		Instance = this;
@@ -28,14 +32,12 @@ public class GreekTranslation : ModBehaviour
 		}
 
 		// The label shown in Options > Language.
-		api.RegisterLanguage(this, "Ελληνικά", "assets/Translation.xml");
+		api.RegisterLanguage(this, LanguageName, "assets/Translation.xml");
 
-		// Uncomment once the Greek font bundle exists. Build it in Unity 2019.4.27f1
-		// as a TMP SDF asset covering Basic Latin + Greek and Coptic (U+0370-U+03FF).
-		api.AddLanguageFont(this, "Ελληνικά", "assets/greekfont", "Assets/Comfortaa-Regular - Greek.ttf");
-		api.AddLanguageFixer("Ελληνικά", s => s);
-		api.SetLanguageDefaultFontSpacing("Ελληνικά", 1.05f);
-		api.SetLanguageFontSizeModifier("Ελληνικά", 0.85f);
+		api.AddLanguageFont(this, LanguageName, "assets/greekfont", "Assets/Comfortaa-Regular - Greek.ttf");
+		api.AddLanguageFixer(LanguageName, s => s);
+		api.SetLanguageDefaultFontSpacing(LanguageName, 1.05f);
+		api.SetLanguageFontSizeModifier(LanguageName, 0.85f);
 
 		ModHelper.Console.WriteLine("Greek translation registered.", MessageType.Success);
 	}

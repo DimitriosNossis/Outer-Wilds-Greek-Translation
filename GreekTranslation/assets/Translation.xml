@@ -972,7 +972,7 @@
 	</entry>
 	<entry>
 		<key>SelfStartAre you me from the last loop?</key>
-		<value>Είσαι εγώ από τον προηγούμενο βρόχο;</value>
+		<value>Είσαι εγώ από την προηγούμενη λούπα;</value>
 	</entry>
 	<entry>
 		<key>SelfStartThis got weird in a hurry.</key>
@@ -1000,11 +1000,11 @@
 	</entry>
 	<entry>
 		<key>Memories1I remember all the time loops, including last loop when I jumped into the black hole in here. What about you?</key>
-		<value>Θυμάμαι όλους τους χρονικούς βρόχους, μαζί και τον προηγούμενο, τότε που πήδηξα μέσα στη μαύρη τρύπα εδώ πέρα. Εσύ;</value>
+		<value>Θυμάμαι όλες τις χρονικές λούπες, μαζί και την προηγούμενη, τότε που πήδηξα μέσα στη μαύρη τρύπα εδώ πέρα. Εσύ;</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Me, too. Sounds like our memories diverge at the start of this loop.</key>
-		<value>Κι εγώ το ίδιο. Άρα οι αναμνήσεις μας χωρίζουν στην αρχή αυτού του βρόχου.</value>
+		<value>Κι εγώ το ίδιο. Άρα οι αναμνήσεις μας χωρίζουν στην αρχή αυτής της λούπας.</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Same, except I woke up at the campfire, like always.</key>
@@ -1056,11 +1056,11 @@
 	</entry>
 	<entry>
 		<key>Excited3BDefinitely no. I just have the same memories as you. ...Except for this loop, I mean.</key>
-		<value>Σίγουρα όχι. Απλώς έχω τις ίδιες αναμνήσεις με σένα. ...Εκτός από αυτόν τον βρόχο, εννοείται.</value>
+		<value>Σίγουρα όχι. Απλώς έχω τις ίδιες αναμνήσεις με σένα. ...Εκτός από αυτήν τη λούπα, εννοείται.</value>
 	</entry>
 	<entry>
 		<key>Excited3BI started this loop by popping out of a white hole inside the Ash Twin Project, since in the loop before this one I jumped into the black hole.</key>
-		<value>Ξεκίνησα αυτόν τον βρόχο πετάγοντας μέσα από μια λευκή τρύπα στο Πρότζεκτ του Διδύμου της Στάχτης, αφού στον προηγούμενο βρόχο πήδηξα μέσα στη μαύρη τρύπα.</value>
+		<value>Ξεκίνησα αυτήν τη λούπα πετάγοντας μέσα από μια λευκή τρύπα στο Πρότζεκτ του Διδύμου της Στάχτης, αφού στην προηγούμενη λούπα πήδηξα μέσα στη μαύρη τρύπα.</value>
 	</entry>
 	<entry>
 		<key>Excited3AYeah, now you've got it. That was an incredible day.</key>
@@ -1084,11 +1084,11 @@
 	</entry>
 	<entry>
 		<key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-		<value>Για να δούμε... Θα έπρεπε να έχουμε ακριβώς τις ίδιες αναμνήσεις μέχρι το όλο «βγαίνω στο διάστημα και συνειδητοποιώ τον εξωγήινο χρονικό βρόχο».</value>
+		<value>Για να δούμε... Θα έπρεπε να έχουμε ακριβώς τις ίδιες αναμνήσεις μέχρι το όλο «βγαίνω στο διάστημα και συνειδητοποιώ την εξωγήινη χρονική λούπα».</value>
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
-		<value>Έτσι νομίζω. Ξεκίνησα τον τωρινό βρόχο πετάγοντας μέσα από μια λευκή τρύπα στο Πρότζεκτ του Διδύμου της Στάχτης.</value>
+		<value>Έτσι νομίζω. Ξεκίνησα την τωρινή λούπα βγαίνοντας μέσα από μια λευκή τρύπα στο Πρότζεκτ του Διδύμου της Στάχτης.</value>
 	</entry>
 	<entry>
 		<key>SelfLooped1I started at the campfire like usual.</key>
@@ -1096,7 +1096,7 @@
 	</entry>
 	<entry>
 		<key>SelfLooped1What do you remember from before this loop?</key>
-		<value>Τι θυμάσαι από πριν από αυτόν τον βρόχο;</value>
+		<value>Τι θυμάσαι από πριν από αυτήν τη λούπα;</value>
 	</entry>
 	<entry>
 		<key>Wrong1Yeah, duplicating living beings probably wasn't what the Nomai had in mind when they built the Ash Twin Project.</key>
@@ -1216,7 +1216,7 @@
 	</entry>
 	<entry>
 		<key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
-		<value>Αλλάζοντας γρήγορα θέμα: ξέρεις που πήδηξα — ε, &lt;i&gt;πηδήξαμε&lt;/i&gt; — μέσα στη μαύρη τρύπα που άνοιξε στο τέλος του προηγούμενου βρόχου;</value>
+		<value>Αλλάζοντας γρήγορα θέμα: ξέρεις που πήδηξα — ε, &lt;i&gt;πηδήξαμε&lt;/i&gt; — μέσα στη μαύρη τρύπα που άνοιξε στο τέλος της προηγούμενης λούπας;</value>
 	</entry>
 	<entry>
 		<key>Segue2AWhat do you think would happen if you don't jump in this time?</key>
@@ -1236,7 +1236,7 @@
 	</entry>
 	<entry>
 		<key>Segue2BSo hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Έλα ντε, τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτού του βρόχου;</value>
+		<value>Έλα ντε, τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτής της λούπας;</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BHuh. That's a good question.</key>
@@ -1252,7 +1252,7 @@
 	</entry>
 	<entry>
 		<key>Merge1BI think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Έτσι νομίζω, τουλάχιστον. Αν και να μια ερώτηση για σένα — τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτού του βρόχου;</value>
+		<value>Έτσι νομίζω, τουλάχιστον. Αν και να μια ερώτηση για σένα — τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτής της λούπας;</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BHuh. That's a good question.</key>
@@ -1268,7 +1268,7 @@
 	</entry>
 	<entry>
 		<key>MergeHey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Έλα, τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτού του βρόχου;</value>
+		<value>Έλα, τι λες να γίνει αν δεν ξαναπηδήξεις μέσα στη μαύρη τρύπα στο τέλος αυτής της λούπας;</value>
 	</entry>
 	<entry>
 		<key>SelfMergeHuh. That's a good question.</key>
@@ -1316,7 +1316,7 @@
 	</entry>
 	<entry>
 		<key>Merge3AOh geez, Feldspar would just use the time loop to try increasingly outlandish stunts, wouldn't they. Might be a good thing they aren't aware of it.</key>
-		<value>Πω πω, ο Φέλντσπαρ θα χρησιμοποιούσε τον χρονικό βρόχο για όλο και πιο τρελά κόλπα, έτσι δεν είναι; Ίσως είναι καλό που δεν το ξέρει.</value>
+		<value>Πω πω, ο Φέλντσπαρ θα χρησιμοποιούσε τη χρονική λούπα για όλο και πιο τρελά κόλπα, έτσι δεν είναι; Ίσως είναι καλό που δεν το ξέρει.</value>
 	</entry>
 	<entry>
 		<key>RealThanks. You seem real to me, too, so... I guess there's just two of us now!</key>
@@ -1444,7 +1444,7 @@
 	</entry>
 	<entry>
 		<key>should be deadYeah! That feels like ages ago.\\n\\nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?</key>
-		<value>Ναι! Μοιάζει να πέρασαν αιώνες.\\n\\nΠάντως εκείνη την πρώτη φορά θα είχαμε πεθάνει αν δεν υπήρχε ο χρονικός βρόχος. Δεν είναι περίεργο να το σκέφτεσαι;</value>
+		<value>Ναι! Μοιάζει να πέρασαν αιώνες.\\n\\nΠάντως εκείνη την πρώτη φορά θα είχαμε πεθάνει αν δεν υπήρχε η χρονική λούπα. Δεν είναι περίεργο να το σκέφτεσαι;</value>
 	</entry>
 	<entry>
 		<key>Selfshould be deadWeirder than there being two of us now?</key>
@@ -1484,7 +1484,7 @@
 	</entry>
 	<entry>
 		<key>Selfsun stationDid that technically happen, &lt;i&gt;with&lt;/i&gt; how the time loop works?</key>
-		<value>Συνέβη όντως, &lt;i&gt;με&lt;/i&gt; τον τρόπο που λειτουργεί ο χρονικός βρόχος;</value>
+		<value>Συνέβη όντως, &lt;i&gt;με&lt;/i&gt; τον τρόπο που λειτουργεί η χρονική λούπα;</value>
 	</entry>
 	<entry>
 		<key>sun station 2That’s true. &lt;pause&gt; I’m not sure how to factor that in.</key>
@@ -1508,7 +1508,7 @@
 	</entry>
 	<entry>
 		<key>Selfsun station 5But given it only happened in a previous loop...</key>
-		<value>Αλλά δεδομένου ότι έγινε μόνο σε προηγούμενο βρόχο...</value>
+		<value>Αλλά δεδομένου ότι έγινε μόνο σε προηγούμενη λούπα...</value>
 	</entry>
 	<entry>
 		<key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
@@ -1780,11 +1780,11 @@
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro3FNo, it’s me, too. We’re in a time loop.</key>
-		<value>Όχι, κι εγώ. Είμαστε μέσα σε χρονικό βρόχο.</value>
+		<value>Όχι, κι εγώ. Είμαστε μέσα σε χρονική λούπα.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_2Time &lt;i&gt;has&lt;/i&gt; been behaving unusually lately. Yeah, a time loop makes sense. Cool.</key>
-		<value>Ο χρόνος &lt;i&gt;όντως&lt;/i&gt; φέρεται περίεργα τελευταία. Ναι, ένας χρονικός βρόχος βγάζει νόημα. Ωραία.</value>
+		<value>Ο χρόνος &lt;i&gt;όντως&lt;/i&gt; φέρεται περίεργα τελευταία. Ναι, μία χρονική λούπα βγάζει νόημα. Ωραία.</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3F_2You’re taking this pretty well.</key>
@@ -1800,11 +1800,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one.</key>
-		<value>Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονικό βρόχο. Δηλαδή, δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονικό βρόχο πριν από αυτόν.</value>
+		<value>Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονική λούπα. Δηλαδή, δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_4I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά ο βρόχος βγάζει νόημα εδώ. Ας πούμε «βρόχο» προς το παρόν.</value>
+		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
@@ -1812,11 +1812,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
-		<value>Ακόμη κι αν πω στον Χόρνφελς για τον χρονικό βρόχο, δεν το θυμάται ποτέ στον επόμενο. Δεν καταλαβαίνει ότι κάτι είναι διαφορετικό.</value>
+		<value>Ακόμη κι αν πω στον Χόρνφελς για τη χρονική λούπα, δεν το θυμάται ποτέ στην επόμενη. Δεν καταλαβαίνει ότι κάτι είναι διαφορετικό.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
-		<value>Και να κάτι ακόμη πιο περίεργο για σένα — κάθε φορά που πεθαίνω, όλες οι αναμνήσεις μου από εκείνον τον βρόχο περνούν ξανά μπροστά μου. Είμαι αρκετά σίγουρος ότι σχετίζεται με αυτό το μεγάλο πέτρινο άγαλμα των Νομάι που βρήκα σε ένα από τα άλλα νησιά.</value>
+		<value>Και να κάτι ακόμη πιο περίεργο για σένα — κάθε φορά που πεθαίνω, όλες οι αναμνήσεις μου από εκείνη τη λούπα περνούν ξανά μπροστά μου. Είμαι αρκετά σίγουρος ότι σχετίζεται με αυτό το μεγάλο πέτρινο άγαλμα των Νομάι που βρήκα σε ένα από τα άλλα νησιά.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
@@ -1828,11 +1828,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_6You too, huh? Then the Nomai statues must have something to do with why we’re the only ones aware of the time loop. So... no glowing statue, no time loop awareness?</key>
-		<value>Κι εσύ, ε; Τότε τα αγάλματα των Νομάι πρέπει να έχουν σχέση με το γιατί είμαστε οι μόνοι που ξέρουμε για τον χρονικό βρόχο. Άρα... χωρίς λαμπερό άγαλμα, χωρίς επίγνωση του βρόχου;</value>
+		<value>Κι εσύ, ε; Τότε τα αγάλματα των Νομάι πρέπει να έχουν σχέση με το γιατί είμαστε οι μόνοι που ξέρουμε για τη χρονική λούπα. Άρα... χωρίς λαμπερό άγαλμα, χωρίς επίγνωση της λούπας;</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-		<value>Νομίζω ότι αυτή θα είναι η βασική μου θεωρία, αλλά αν μάθεις κάτι καινούριο για τα αγάλματα ή τον χρονικό βρόχο, πες μου, εντάξει; Εδώ θα είμαι.</value>
+		<value>Νομίζω ότι αυτή θα είναι η βασική μου θεωρία, αλλά αν μάθεις κάτι καινούριο για τα αγάλματα ή τη χρονική λούπα, πες μου, εντάξει; Εδώ θα είμαι.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_6Anyway, that’s what’s new with me. But hey, this is your first solo voyage! ...Kind of! Let’s talk about you, you know?</key>
@@ -1896,7 +1896,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικού βρόχου βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
+		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικής λούπας βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -1976,7 +1976,7 @@
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found the source of the time loop.</key>
-		<value>Βρήκα την πηγή του χρονικού βρόχου.</value>
+		<value>Βρήκα την πηγή της χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomethingMenuI found Nomai masks inside the Ash Twin Project.</key>
@@ -2020,15 +2020,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικού βρόχου; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
+		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικής λούπας; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Άρα τώρα ξέρουμε τι προκαλεί τον βρόχο. Και... αν τον προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
+		<value>Άρα τώρα ξέρουμε τι προκαλεί τη λούπα. Και... αν την προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τον χρονικό βρόχο; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2036,11 +2036,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3F...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...Δεν ξέρω, δεν είμαι ειδικός στους χρονικούς βρόχους. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
+		<value>...Δεν ξέρω, δεν είμαι ειδικός στη χρονική λούπα. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bMy head’s still all full of scenarios for what would happen if you turned off the time loop. I’ll probably notice if you decide to mess with it, though, right? Seems like something I’d notice.</key>
-		<value>Το κεφάλι μου είναι ακόμη γεμάτο σενάρια για το τι θα γινόταν αν έκλεινες τον χρονικό βρόχο. Πάντως θα το προσέξω αν αποφασίσεις να τον πειράξεις, σωστά; Μου μοιάζει για κάτι που θα το πρόσεχα.</value>
+		<value>Το κεφάλι μου είναι ακόμη γεμάτο σενάρια για το τι θα γινόταν αν έκλεινες τη χρονική λούπα. Πάντως θα το προσέξω αν αποφασίσεις να την πειράξεις, σωστά; Μου μοιάζει για κάτι που θα το πρόσεχα.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bThis is all pretty wild.</key>
@@ -2048,15 +2048,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε βρόχο που έχουμε περάσει.</value>
+		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε λούπα που έχουμε περάσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλούς χρονικούς βρόχους ή όχι;</value>
+		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλές χρονικές λούπες ή όχι;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτούς τους βρόχους, αλλά τα σώματά μας όχι, γιατί τεχνικά οι βρόχοι δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
@@ -2064,11 +2064,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Σωστά, μου το είπες νωρίτερα ότι ο σκοπός των αγαλμάτων είναι να στέλνουν αναμνήσεις πίσω στον χρόνο. Που μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε βρόχο που έχουμε περάσει.</value>
+		<value>Σωστά, μου το είπες νωρίτερα ότι ο σκοπός των αγαλμάτων είναι να στέλνουν αναμνήσεις πίσω στον χρόνο. Που μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε λούπα που έχουμε περάσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bI thought about it some more, and I think that means our minds have gone through all these loops, but we haven’t actually gone through them ourselves.</key>
-		<value>Το σκέφτηκα κι άλλο, και νομίζω ότι αυτό σημαίνει πως τα μυαλά μας έχουν περάσει όλους αυτούς τους βρόχους, αλλά εμείς οι ίδιοι δεν τους περάσαμε ποτέ.</value>
+		<value>Το σκέφτηκα κι άλλο, και νομίζω ότι αυτό σημαίνει πως τα μυαλά μας έχουν περάσει όλους αυτές τις λούπες, αλλά εμείς οι ίδιοι δεν τους περάσαμε ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bMeaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</key>
@@ -2076,7 +2076,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικού βρόχου; Σοβαρά;</value>
+		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικής λούπας; Σοβαρά;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FDid you figure out why?</key>
@@ -2096,11 +2096,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικού βρόχου.</value>
+		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-		<value>Άρα το κανόνι διαλύεται αμέσως μετά την εκτόξευση, ε. Αυτό εξηγεί τι βλέπω να πέφτει από τον ουρανό κάθε βρόχο.</value>
+		<value>Άρα το κανόνι διαλύεται αμέσως μετά την εκτόξευση, ε. Αυτό εξηγεί τι βλέπω να πέφτει από τον ουρανό κάθε λούπα.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
@@ -2108,7 +2108,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>Από την άλλη, ίσως θα έπρεπε να εντυπωσιαστούμε που έφτιαξαν κάτι που άντεξε ως τις μέρες μας. Και φαίνεται ότι το κανόνι εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικού βρόχου.</value>
+		<value>Από την άλλη, ίσως θα έπρεπε να εντυπωσιαστούμε που έφτιαξαν κάτι που άντεξε ως τις μέρες μας. Και φαίνεται ότι το κανόνι εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
@@ -2192,15 +2192,15 @@
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
-		<value>Λες να είμαστε σε χρονικό βρόχο;</value>
+		<value>Λες να είμαστε σε χρονική λούπα;</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1We’re definitely in a time loop.</key>
-		<value>Σίγουρα είμαστε σε χρονικό βρόχο.</value>
+		<value>Σίγουρα είμαστε σε χρονική λούπα.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_2Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</key>
-		<value>Ναι, ο χρονικός βρόχος βγάζει το περισσότερο νόημα, έτσι; Ή τουλάχιστον, είναι κάποια νευρική δουλειά του χρόνου. Δύσκολο να πεις τι ακριβώς γίνεται με το σχήμα του χρόνου, αλλά ας πούμε «βρόχο» προς το παρόν.</value>
+		<value>Ναι, η χρονική λούπα βγάζει το περισσότερο νόημα, έτσι; Ή τουλάχιστον, είναι κάποια νευρική δουλειά του χρόνου. Δύσκολο να πεις τι ακριβώς γίνεται με το σχήμα του χρόνου, αλλά ας πούμε «λούπα» προς το παρόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_3Oh. Yeah, that makes sense. Cool.</key>
@@ -2216,19 +2216,19 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-		<value>Χεχ, το ίδιο κι εσύ. Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονικό βρόχο.</value>
+		<value>Χεχ, το ίδιο κι εσύ. Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονική λούπα.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-		<value>Λοιπόν. Δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονικό βρόχο πριν από αυτόν, αλλά πάλι, δεν μπορώ και να το ξέρω σίγουρα.</value>
+		<value>Λοιπόν. Δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτόν, αλλά πάλι, δεν μπορώ και να το ξέρω σίγουρα.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά ο βρόχος βγάζει νόημα εδώ. Ας πούμε «βρόχο» προς το παρόν.</value>
+		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-		<value>Οπότε φαίνεται πως εσύ κι εγώ είμαστε οι μόνοι που ξέρουμε ότι είμαστε σε χρονικό βρόχο. Και ακόμη κι αν το πεις σε κάποιον, κανείς δεν το θυμάται στον επόμενο βρόχο. Τι παίζει μ’ αυτό;</value>
+		<value>Οπότε φαίνεται πως εσύ κι εγώ είμαστε οι μόνοι που ξέρουμε ότι είμαστε σε χρονική λούπα. Και ακόμη κι αν το πεις σε κάποιον, κανείς δεν το θυμάται στην επόμενη λούπα. Τι παίζει μ’ αυτό;</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
@@ -2236,11 +2236,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-		<value>Βλέπω τις αναμνήσεις μου να ξαναπαίζουν κάθε φορά που πεθαίνω, ακριβώς όπως όταν το άγαλμα των Νομάι στην παραλία άνοιξε τα μάτια του και με κοίταξε. Οπότε ίσως... χωρίς λαμπερό άγαλμα, χωρίς επίγνωση του βρόχου;</value>
+		<value>Βλέπω τις αναμνήσεις μου να ξαναπαίζουν κάθε φορά που πεθαίνω, ακριβώς όπως όταν το άγαλμα των Νομάι στην παραλία άνοιξε τα μάτια του και με κοίταξε. Οπότε ίσως... χωρίς λαμπερό άγαλμα, χωρίς επίγνωση της λούπας;</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-		<value>Νομίζω ότι αυτή θα είναι η βασική μου θεωρία, αλλά αν μάθεις κάτι καινούριο για τα αγάλματα ή τον χρονικό βρόχο, πες μου, εντάξει; Εδώ θα είμαι.</value>
+		<value>Νομίζω ότι αυτή θα είναι η βασική μου θεωρία, αλλά αν μάθεις κάτι καινούριο για τα αγάλματα ή τη χρονική λούπα, πες μου, εντάξει; Εδώ θα είμαι.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
@@ -2268,7 +2268,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικού βρόχου βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
+		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικής λούπας βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -2312,15 +2312,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικού βρόχου; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
+		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικής λούπας; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Άρα τώρα ξέρουμε τι προκαλεί τον βρόχο. Και... αν τον προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
+		<value>Άρα τώρα ξέρουμε τι προκαλεί τη λούπα. Και... αν τον προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τον χρονικό βρόχο; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2328,19 +2328,19 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>...Δεν ξέρω, δεν είμαι ειδικός στους χρονικούς βρόχους. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
+		<value>...Δεν ξέρω, δεν είμαι ειδικός στις χρονικές λούπες. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε βρόχο που έχουμε περάσει.</value>
+		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε λούπα που έχουμε περάσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλούς χρονικούς βρόχους ή όχι;</value>
+		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλές χρονικές λούπες ή όχι;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτούς τους βρόχους, αλλά τα σώματά μας όχι, γιατί τεχνικά οι βρόχοι δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
@@ -2348,7 +2348,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικού βρόχου; Σοβαρά;</value>
+		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικής λούπας; Σοβαρά;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TDid you figure out why?</key>
@@ -2368,11 +2368,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικού βρόχου.</value>
+		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-		<value>Άρα το κανόνι διαλύεται αμέσως μετά την εκτόξευση, ε. Αυτό εξηγεί τι βλέπω να πέφτει από τον ουρανό κάθε βρόχο.</value>
+		<value>Άρα το κανόνι διαλύεται αμέσως μετά την εκτόξευση, ε. Αυτό εξηγεί τι βλέπω να πέφτει από τον ουρανό κάθε λούπα.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
@@ -2380,7 +2380,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-		<value>Από την άλλη, ίσως θα έπρεπε να εντυπωσιαστούμε που έφτιαξαν κάτι που άντεξε ως τις μέρες μας. Και φαίνεται ότι το κανόνι εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικού βρόχου.</value>
+		<value>Από την άλλη, ίσως θα έπρεπε να εντυπωσιαστούμε που έφτιαξαν κάτι που άντεξε ως τις μέρες μας. Και φαίνεται ότι το κανόνι εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
@@ -2396,7 +2396,7 @@
 	</entry>
 	<entry>
 		<key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
-		<value>Για δες, ο χρονοφίλος μου! Πώς σου φέρεται το διάστημα αυτόν τον βρόχο;</value>
+		<value>Για δες, ο χρονοφίλος μου! Πώς σου φέρεται το διάστημα αυτήν τη λούπα;</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
@@ -2404,11 +2404,11 @@
 	</entry>
 	<entry>
 		<key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
-		<value>Ξέρεις, κάπως θα ήθελα να είχα φτιάξει μια αιώρα εδώ πριν καταλήξουμε σε αυτόν τον χρονικό βρόχο.</value>
+		<value>Ξέρεις, κάπως θα ήθελα να είχα φτιάξει μια αιώρα εδώ πριν καταλήξουμε σε αυτόν τη χρονική λούπα.</value>
 	</entry>
 	<entry>
 		<key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-		<value>Πριν από μερικούς βρόχους, πέρασε ένας κυκλώνας και πέταξε το μικρό μου νησί στο διάστημα. Το να πεθάνεις έτσι ήταν κάπως δυσάρεστο.</value>
+		<value>Πριν από μερικές λούπες, πέρασε ένας κυκλώνας και πέταξε το μικρό μου νησί στο διάστημα. Το να πεθάνεις έτσι ήταν κάπως δυσάρεστο.</value>
 	</entry>
 	<entry>
 		<key>GabbroMain_SecondaryHello again. ...Again.</key>
@@ -2428,7 +2428,7 @@
 	</entry>
 	<entry>
 		<key>MeditateMenuWant me to teach you? It'll be the next loop before you know it.</key>
-		<value>Θες να σου μάθω; Θα έχει έρθει ο επόμενος βρόχος πριν το καταλάβεις.</value>
+		<value>Θες να σου μάθω; Θα έχει έρθει η επόμενη λούπα πριν το καταλάβεις.</value>
 	</entry>
 	<entry>
 		<key>GabbroMeditateMenuSure, why not.</key>
@@ -2464,7 +2464,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικού βρόχου βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
+		<value>Να κάτι που ίσως σου αρέσει — στην αρχή κάθε χρονικής λούπας βλέπω μια έντονη λάμψη στον ουρανό. Κάτι πρέπει να συμβαίνει εκεί πάνω, σε τροχιά γύρω από τον πλανήτη.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -2508,15 +2508,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικού βρόχου; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
+		<value>Στάσου, πω πω, αλήθεια; Οι Νομάι σκάλισαν τον Δίδυμο της Στάχτης και έχτισαν μέσα μια συσκευή χρονικής λούπας; ...Αυτό είναι &lt;i&gt;τρελό&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-		<value>Άρα τώρα ξέρουμε τι προκαλεί τον βρόχο. Και... αν τον προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
+		<value>Άρα τώρα ξέρουμε τι προκαλεί τη λούπα. Και... αν τον προκαλεί μια συσκευή, τότε κάποιος θα πρέπει να την άναψε, σωστά; Χμ...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τον χρονικό βρόχο; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2524,19 +2524,19 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-		<value>Ε, δεν είμαι ειδικός στους χρονικούς βρόχους. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
+		<value>Ε, δεν είμαι ειδικός στις χρονικές λούπες. Εγώ θα κάτσω εδώ να στοχάζομαι τις λεπτότητες του χρόνου και του χώρου. Ίσως πάρω και έναν υπνάκο, αν μου κάτσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε βρόχο που έχουμε περάσει.</value>
+		<value>Λες δηλαδή ότι τα αγάλματα φτιάχτηκαν για να στέλνονται αναμνήσεις πίσω στον χρόνο; Μάλλον βγάζει νόημα, δεδομένου ότι κι οι δυο μας θυμόμαστε κάθε λούπα που έχουμε περάσει.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλούς χρονικούς βρόχους ή όχι;</value>
+		<value>Στάσου, τότε μόνο οι αναμνήσεις μας στέλνονται πίσω σε εμάς, σωστά; Τότε... ζούμε στ’ αλήθεια πολλαπλές χρονικές λούπες ή όχι;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτούς τους βρόχους, αλλά τα σώματά μας όχι, γιατί τεχνικά οι βρόχοι δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλους αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
@@ -2544,7 +2544,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικού βρόχου; Σοβαρά;</value>
+		<value>Πω πω, αυτό είναι το κανόνι που διαλύεται στην αρχή κάθε χρονικής λούπας; Σοβαρά;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeDid you figure out why?</key>
@@ -2564,7 +2564,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικού βρόχου.</value>
+		<value>Αν και τώρα που το σκέφτομαι, «έσπασε» μάλλον δεν είναι η σωστή λέξη. Γιατί φαίνεται ότι το Τροχιακό Κανόνι Βολίδας εξακολουθεί να πυροδοτεί με επιτυχία στην αρχή κάθε χρονικής λούπας.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeOh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
@@ -2864,7 +2864,7 @@
 	</entry>
 	<entry>
 		<key>SlateScientist5You’re lucky I’m in a time loop, because otherwise I’d be super dead.</key>
-		<value>Ευτυχώς για σένα είμαι μέσα σε χρονικό βρόχο, αλλιώς θα είχα πεθάνει για τα καλά.</value>
+		<value>Ευτυχώς για σένα είμαι μέσα σε χρονική λούπα, αλλιώς θα είχα πεθάνει για τα καλά.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist5The autopilot flew my ship directly into the sun!</key>
@@ -9361,7 +9361,7 @@
 	</entry>
 	<entry>
 		<key>ChertQuestionsIf it helps, we’re in a time loop, so we won’t really die.</key>
-		<value>Αν βοηθάει, είμαστε σε χρονικό βρόχο, οπότε δεν θα πεθάνουμε στ’ αλήθεια.</value>
+		<value>Αν βοηθάει, είμαστε σε χρονική λούπα, οπότε δεν θα πεθάνουμε στ’ αλήθεια.</value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsNo, thanks.</key>
@@ -9397,7 +9397,7 @@
 	</entry>
 	<entry>
 		<key>ChertSecondary2A time loop, you said? I like that idea...</key>
-		<value>Χρονικός βρόχος, είπες; Μου αρέσει αυτή η ιδέα...</value>
+		<value>Χρονική λούπα, είπες; Μου αρέσει αυτή η ιδέα...</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersThe stars were beautiful, weren’t they? Even if our star is what ultimately killed us.</key>
@@ -11423,7 +11423,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
-			<value>Ο Γκάμπρο βλέπει μια έντονη λάμψη στον ουρανό στην αρχή κάθε βρόχου. Κάτι πρέπει να συμβαίνει σε τροχιά γύρω από τον Τζάιαντς Ντιπ.</value>
+			<value>Ο Γκάμπρο βλέπει μια έντονη λάμψη στον ουρανό στην αρχή κάθε λούπας. Κάτι πρέπει να συμβαίνει σε τροχιά γύρω από τον Τζάιαντς Ντιπ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
@@ -12363,7 +12363,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro and I seem to be the only ones aware that we're in a time loop.</key>
-			<value>Ο Γκάμπρο κι εγώ φαίνεται να είμαστε οι μόνοι που ξέρουμε ότι βρισκόμαστε σε χρονικό βρόχο.</value>
+			<value>Ο Γκάμπρο κι εγώ φαίνεται να είμαστε οι μόνοι που ξέρουμε ότι βρισκόμαστε σε χρονική λούπα.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction Yard</key>
@@ -12973,7 +12973,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
-			<value>Διαλογισμός ως τον επόμενο βρόχο</value>
+			<value>Διαλογισμός ως την επόμενη λούπα</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
@@ -13761,11 +13761,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
-			<value>ΔΕΝΤΡΑ — ΔΕΞΑΜΕΝΗ ΓΕΜΑΤΗ</value>
+			<value>ΑΝΙΧΝΕΥΣΗ ΔΕΝΤΡΩΝ — ΑΝΑΠΛΗΡΩΣΗ ΟΞΥΓΟΝΟΥ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>435</key>
-			<value>ΓΕΜΙΣΕ ΤΟ ΟΞΥΓΟΝΟ</value>
+			<value>ΑΝΑΠΛΗΡΩΘΗΚΕ ΤΟ ΟΞΥΓΟΝΟ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>436</key>
@@ -13793,7 +13793,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
-			<value>ΟΝ</value>
+			<value>ΦΩΤΑ ΑΝΑΜΜΕΝΑ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>446</key>
@@ -13893,15 +13893,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
-			<value>Ο ΑΥΤΟΜΑΤΟΣ ΠΙΛΟΤΟΣ ΜΑΤΑΙΩΘΗΚΕ</value>
+			<value>Ο ΑΥΤΟΜΑΤΟΣ ΠΙΛΟΤΟΣ ΑΚΥΡΩΘΗΚΕ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
-			<value>Η ΕΞΙΣΩΣΗ ΤΑΧΥΤΗΤΑΣ ΜΑΤΑΙΩΘΗΚΕ</value>
+			<value>Η ΕΞΙΣΩΣΗ ΤΑΧΥΤΗΤΑΣ ΑΚΥΡΩΘΗΚΕ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
-			<value>ΜΑΤΑΙΩΣΗ ΑΥΤΟΜΑΤΟΥ ΠΙΛΟΤΟΥ: ΠΟΛΥ ΚΟΝΤΑ ΣΤΟΝ ΣΤΟΧΟ</value>
+			<value>ΑΚΥΡΩΣΗ ΑΥΤΟΜΑΤΟΥ ΠΙΛΟΤΟΥ: ΠΟΛΥ ΚΟΝΤΑ ΣΤΟΝ ΣΤΟΧΟ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>488</key>
@@ -13925,11 +13925,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>ΕΠΑΝΕΚΚΙΝΗΣΗ ΒΡΟΧΟΥ ΚΑΙ ΕΞΟΔΟΣ ΣΤΟ ΚΥΡΙΟ ΜΕΝΟΥ</value>
+			<value>ΕΠΑΝΕΚΚΙΝΗΣΗ ΛΟΥΠΑΣ ΚΑΙ ΕΞΟΔΟΣ ΣΤΟ ΚΥΡΙΟ ΜΕΝΟΥ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>ΔΙΑΛΟΓΙΣΜΟΣ ΩΣ ΤΟΝ ΕΠΟΜΕΝΟ ΒΡΟΧΟ</value>
+			<value>ΔΙΑΛΟΓΙΣΜΟΣ ΩΣ ΤΗΝ ΕΠΟΜΕΝΗ ΛΟΥΠΑ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
@@ -14761,7 +14761,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> ΚΑΤΕΣΤΡΑΜΜΕΝΟ</value>
+			<value> : ΒΛΑΒΗ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>

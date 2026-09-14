@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3248101081
+CRC: 77772872
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 713cb0114da2cfd24fe108cc62edf383
+    Hash: da10a383cbd56efc18b35c5e6caafa5b
   TypeTreeHash:
     serializedVersion: 2
     Hash: cea17de082da1dfd38b5ed053fc34ca1
@@ -19,5 +19,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Comfortaa-Regular - Greek Baked.ttf
 - Assets/Comfortaa-Regular - Greek.ttf
 Dependencies: []
