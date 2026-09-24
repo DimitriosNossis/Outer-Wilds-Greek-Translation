@@ -1,6 +1,6 @@
 ![Outer Wilds Greek Translation Cover Image](https://raw.githubusercontent.com/DimitriosNossis/outer-wilds-greek-translation/main/outer%20wilds%20greek%20translation3-1.png)
 
-# Outer Wilds — Ελληνική Μετάφραση
+# Outer Wilds - Ελληνική Μετάφραση
 
 Πλήρης, μη επίσημη μετάφραση του **Outer Wilds** και του **Echoes of the Eye DLC** στα ελληνικά.
 
@@ -61,7 +61,7 @@
 - Κείμενα που είναι μέρος εικόνων (πινακίδες, ταμπέλες μέσα στον κόσμο)
   παραμένουν στα αγγλικά — δεν είναι μεταφράσιμα από το mod.
 
-Η έκδοση **0.9.0** σημαίνει ότι η μετάφραση είναι πλήρης αλλά ο έλεγχος μέσα στο
+Η έκδοση **0.9.4** σημαίνει ότι η μετάφραση είναι πλήρης αλλά ο έλεγχος μέσα στο
 παιχνίδι συνεχίζεται.
 
 ## Αναφορά προβλημάτων
@@ -91,7 +91,7 @@ Install through the Outer Wilds Mod Manager; **Interplanetary Polyglot** is
 pulled in automatically as a dependency. Then select **Ελληνικά** under
 Options → Audio & Language → Language.
 
-Version 0.9.0 — the translation is complete, but in-game testing is ongoing.
+Version 0.9.0 - the translation is complete, but in-game testing is ongoing.
 Bug reports are welcome as issues on this repository; screenshots help.
 
 ### Licences
