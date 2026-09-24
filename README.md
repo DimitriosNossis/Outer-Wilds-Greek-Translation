@@ -1,4 +1,4 @@
-![Outer Wilds Greek Translation Cover Image](https://github.com/DimitriosNossis/Outer-Wilds-Greek-Translation/blob/main/outer%20wilds%20greek%20translation3-1.png)
+![Outer Wilds Greek Translation Cover Image](https://raw.githubusercontent.com/DimitriosNossis/outer-wilds-greek-translation/main/outer%20wilds%20greek%20translation3-1.png)
 
 # Outer Wilds — Ελληνική Μετάφραση
 
