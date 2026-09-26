@@ -31,11 +31,19 @@ namespace GreekTranslation
     /// in the game - classifies characters with a hardcoded LatinCharactersRegexPattern = "[0-z]"
     /// (ASCII 0x30-0x7A). No Greek character matches, so they fall through to fixedWidth, which
     /// is 0 on this prefab. Disabling it costs only its letter spacing of 6.
+    ///
+    /// The ship's signalscope screen is a second SignalscopeUI (ShipCockpitUI._signalscopeUI,
+    /// _isPlayerScope false) on its own world-space canvas, so its label and distance text hit
+    /// the same scale-factor problem and render as a speck. It is registered the same way.
     /// </summary>
     [HarmonyPatch]
     public static class CockpitFontFix
     {
         private const bool LogDiagnostics = false;
+
+        /// One-shot dump of the ship signalscope texts on first equip. Turn off once confirmed.
+        private const bool LogSignalscopeDiagnostics = false;
+        private static bool _signalscopeLogged;
 
         /// Set this to the asset path of the baked font once it is in the bundle.
         private const string BakedFontPath = "Assets/Comfortaa-Regular - Greek Baked.ttf";
@@ -138,6 +146,10 @@ namespace GreekTranslation
             if (ConsoleTextIds.Count == 0) return true;
             if (!ConsoleTextIds.Contains(__instance.GetInstanceID())) return true;
             if (__instance.font == null || !__instance.font.dynamic) return true;
+            // Only world-space cockpit screens have the huge scale factor; leave screen-space
+            // texts (e.g. the reticle's distance readout) at their normal resolution.
+            var canvas = __instance.canvas;
+            if (canvas != null && canvas.renderMode != RenderMode.WorldSpace) return true;
             if (!GreekActive()) return true;
 
             __result = 1f;
@@ -173,8 +185,99 @@ namespace GreekTranslation
         [HarmonyPatch(typeof(NotificationDisplayTextLayout), nameof(NotificationDisplayTextLayout.ExpandPool))]
         public static void LayoutExpandPool(NotificationDisplayTextLayout __instance) => Repair(__instance);
 
+        // The ship's signalscope screen. The handheld scope draws on a screen-space canvas and is
+        // fine, so only the cockpit instance is touched.
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(SignalscopeUI), nameof(SignalscopeUI.Start))]
+        public static void SignalscopeUIStart(SignalscopeUI __instance) => RepairShipScope(__instance);
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(SignalscopeUI), nameof(SignalscopeUI.ActivateUI))]
+        public static void SignalscopeUIActivate(SignalscopeUI __instance) => RepairShipScope(__instance);
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipCockpitUI), nameof(ShipCockpitUI.Start))]
+        public static void ShipCockpitStart(ShipCockpitUI __instance)
+        {
+            if (__instance == null) return;
+
+            RepairShipScope(__instance._signalscopeUI);
+            Repair(__instance._sigScopeDisplay);
+            Repair(__instance._probeLauncherDisplay);
+            Repair(__instance._reticuleController);
+        }
+
+        [HarmonyPostfix]
+        [HarmonyPatch(typeof(ShipCockpitUI), nameof(ShipCockpitUI.OnSignalscopeEquipped))]
+        public static void ShipScopeEquipped(ShipCockpitUI __instance)
+        {
+            if (__instance == null) return;
+
+            RepairShipScope(__instance._signalscopeUI);
+            Repair(__instance._sigScopeDisplay);
+            Repair(__instance._reticuleController);
+            LogShipScope(__instance);
+        }
+
+        private static void RepairShipScope(SignalscopeUI scope)
+        {
+            if (scope == null || scope._isPlayerScope || !GreekActive()) return;
+
+            Repair(scope);
+
+            // The labels may live outside the component's own hierarchy.
+            Track(scope._signalscopeLabel);
+            Track(scope._distanceLabel);
+        }
+
+        private static void Track(Text text)
+        {
+            if (text == null) return;
+            if (ConsoleTextIds.Add(text.GetInstanceID())) text.SetAllDirty();
+        }
+
+        private static void LogShipScope(ShipCockpitUI cockpit)
+        {
+            if (!LogSignalscopeDiagnostics || _signalscopeLogged || !GreekActive()) return;
+            if (GreekTranslation.Instance == null) return;
+            _signalscopeLogged = true;
+
+            try
+            {
+                var texts = new List<Text>();
+                var scope = cockpit._signalscopeUI;
+                if (scope != null)
+                {
+                    if (scope._signalscopeLabel != null) texts.Add(scope._signalscopeLabel);
+                    if (scope._distanceLabel != null) texts.Add(scope._distanceLabel);
+                }
+                if (cockpit._sigScopeDisplay != null)
+                    texts.AddRange(cockpit._sigScopeDisplay.GetComponentsInChildren<Text>(true));
+                if (cockpit._reticuleController != null)
+                    texts.AddRange(cockpit._reticuleController.GetComponentsInChildren<Text>(true));
+
+                var seen = new HashSet<int>();
+                foreach (var text in texts)
+                {
+                    if (text == null || !seen.Add(text.GetInstanceID())) continue;
+
+                    var canvas = text.canvas;
+                    GreekTranslation.Instance.ModHelper.Console.WriteLine(
+                        $"[cockpit] scope text '{text.name}': font='{text.font?.name}' " +
+                        $"dynamic={text.font?.dynamic} fontSize={text.fontSize} " +
+                        $"pixelsPerUnit={text.pixelsPerUnit} bestFit={text.resizeTextForBestFit} " +
+                        $"rect={text.rectTransform.rect.size} " +
+                        $"canvas='{canvas?.name}' renderMode={canvas?.renderMode} " +
+                        $"scaleFactor={canvas?.scaleFactor} tracked={ConsoleTextIds.Contains(text.GetInstanceID())} " +
+                        $"text='{text.text}'",
+                        MessageType.Info);
+                }
+            }
+            catch (System.Exception ex) { Log("scope diagnostics failed: " + ex); }
+        }
+
         /// <summary>Idempotent - safe to call on every notification.</summary>
-        private static void Repair(NotificationDisplayTextLayout display)
+        private static void Repair(Component display)
         {
             if (display == null || !GreekActive()) return;
 

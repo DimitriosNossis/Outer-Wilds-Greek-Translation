@@ -4,7 +4,7 @@
   "author": "Dimitrios",
   "name": "Outer Wilds Greek Translation",
   "uniqueName": "Dimitrios.GreekTranslation",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "owmlVersion": "2.16.3",
   "dependencies": [ "xen.LocalizationUtility" ]
 }
