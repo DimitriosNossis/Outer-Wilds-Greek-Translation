@@ -20,7 +20,7 @@ Translation.en.xml  ──export──>  work.csv  ──(you translate)──> 
 | `owxml.py` | Shared parser. Not run directly. |
 | `ow_export.py` | XML → CSV |
 | `ow_import.py` | CSV → XML |
-| `work.csv` | Your working file. 3,725 rows. |
+| `work.csv` | Your working file. 3,727 rows. |
 
 ## Daily loop
 
@@ -42,7 +42,7 @@ python3 ow_export.py Translation.en.xml work_new.csv work.csv
 | Column | |
 |---|---|
 | `row_id` | `section:index`. The join key — **never edit, never reorder, never delete a row.** |
-| `section` | `dialogue` (2,424), `shiplog` (483), `ui` (818) |
+| `section` | `dialogue` (2,424), `shiplog` (483), `ui` (820) |
 | `speaker` | Nomai wall-text speaker where the line has one — 657 rows. Filter on this to translate one character's voice in a single pass. |
 | `chars` | Length of the English. Sort by it to find UI strings with no room. |
 | `flags` | `TAGS` markup present · `NL` contains `\\n` · `ART` ASCII art, leave alone · `CAPS` all-caps UI string |
@@ -69,7 +69,7 @@ more than 35% longer than the English.
 1. **Pilot** — filter to a spread: some Hearthian dialogue, some Nomai wall text
    (pick one speaker), some ship log, some UI. Enough to lock the voice before
    committing to 3,700 entries.
-2. **UI** (818) — short, high visibility, catches font and overflow problems early.
+2. **UI** (820) — short, high visibility, catches font and overflow problems early.
 3. **Ship log** (483) — self-contained, and it's where most proper nouns live, so
    it exercises the glossary hardest.
 4. **Dialogue** (2,424) — the bulk. Filter by `speaker` to keep a voice consistent
