@@ -5,7 +5,7 @@
 Πλήρης, μη επίσημη μετάφραση του **Outer Wilds** και του **Echoes of the Eye DLC** στα ελληνικά.
 
 Μεταφρασμένα **3.715 κείμενα**: όλοι οι διάλογοι, ολόκληρο το Ημερολόγιο Σκάφους,
-κάθε επιγραφή και ολόκληρo το μενού του παιχνιδιού.
+κάθε επιγραφή και ολόκληρο το μενού του παιχνιδιού.
 
 ---
 
@@ -91,7 +91,7 @@ Install through the Outer Wilds Mod Manager; **Interplanetary Polyglot** is
 pulled in automatically as a dependency. Then select **Ελληνικά** under
 Options → Audio & Language → Language.
 
-Version 0.9.0 - the translation is complete, but in-game testing is ongoing.
+Version 0.9.5 - the translation is complete, but in-game testing is ongoing.
 Bug reports are welcome as issues on this repository; screenshots help.
 
 ### Licences
