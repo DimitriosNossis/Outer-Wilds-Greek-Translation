@@ -91,7 +91,7 @@ Install through the Outer Wilds Mod Manager; **Interplanetary Polyglot** is
 pulled in automatically as a dependency. Then select **Ελληνικά** under
 Options → Audio & Language → Language.
 
-Version 0.9.5 - the translation is complete, but in-game testing is ongoing.
+Version 0.9.6 - the translation is complete, but in-game testing is ongoing.
 Bug reports are welcome as issues on this repository; screenshots help.
 
 ### Licences
