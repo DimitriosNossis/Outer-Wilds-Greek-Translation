@@ -97,7 +97,7 @@
 			CASSAVA: Jokes aside, suppose my own fear of never finding the &lt;color=lightblue&gt;Eye&lt;/color&gt; prompted my argument with Poke. That would be immature of me.
 		</key>
 		<value>
-			ΚΑΣΑΒΑ: Αστεία στην άκρη· ας υποθέσουμε ότι ο δικός μου φόβος πως δεν θα βρούμε ποτέ το &lt;color=lightblue&gt;Μάτι&lt;/color&gt; προκάλεσε τον καβγά μου με την Πόουκ. Αυτό θα ήταν ανώριμο εκ μέρους μου.
+			ΚΑΣΑΒΑ: Αστεία στην άκρη· ας υποθέσουμε ότι ο δικός μου φόβος πως δε θα βρούμε ποτέ το &lt;color=lightblue&gt;Μάτι&lt;/color&gt; προκάλεσε τον καβγά μου με την Πόουκ. Αυτό θα ήταν ανώριμο εκ μέρους μου.
 		</value>
 	</entry>
 	<entry>
@@ -129,7 +129,7 @@
 			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
 		</key>
 		<value>
-			ΠΟΟΥΚ: Το να έχω την ευκαιρία να προσπαθήσω είναι συναρπαστικό, αλλά... δεν θέλω να απογοητεύσω κανέναν. &lt;i&gt;Νομίζω&lt;/i&gt; ότι μπορώ να το κάνω (μάλλον), αλλά κι αν ο ενθουσιασμός έχει θολώσει την εκτίμηση των ικανοτήτων μου;
+			ΠΟΟΥΚ: Το να έχω την ευκαιρία να προσπαθήσω είναι συναρπαστικό, αλλά... δε θέλω να απογοητεύσω κανέναν. &lt;i&gt;Νομίζω&lt;/i&gt; ότι μπορώ να το κάνω (μάλλον), αλλά κι αν ο ενθουσιασμός έχει θολώσει την εκτίμηση των ικανοτήτων μου;
 		</value>
 	</entry>
 	<entry>
@@ -467,7 +467,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
 		<value>
-			ΠΛΟΥΜ: Στη σημείωσή της από νωρίτερα, η Φίλιξ αναφέρει ότι αυτό το παράξενο είδος βράχου δεν βρίσκεται πουθενά αλλού στο &lt;color=lightblue&gt;Μπριτλ Χόλοου&lt;/color&gt;. Κι αν δεν προέρχεται εξαρχής από αυτόν τον πλανήτη;
+			ΠΛΟΥΜ: Στη σημείωσή της από νωρίτερα, η Φίλιξ αναφέρει ότι αυτό το παράξενο είδος βράχου δε βρίσκεται πουθενά αλλού στο &lt;color=lightblue&gt;Μπριτλ Χόλοου&lt;/color&gt;. Κι αν δεν προέρχεται εξαρχής από αυτόν τον πλανήτη;
 		</value>
 	</entry>
 	<entry>
@@ -563,7 +563,7 @@
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			ΛΕΒΙ: Συναντιόμαστε στη &lt;color=orange&gt;Σπηλιά του Απολιθωμένου Ψαριού&lt;/color&gt; για να παίξουμε το παιχνίδι! Αν δεν χωράς να σκαρφαλώσεις από την τρύπα στην &lt;color=orange&gt;Προεξοχή του Βατραχόψαρου&lt;/color&gt;:
+			ΛΕΒΙ: Συναντιόμαστε στη &lt;color=orange&gt;Σπηλιά του Απολιθωμένου Ψαριού&lt;/color&gt; για να παίξουμε το παιχνίδι! Αν δε χωράς να σκαρφαλώσεις από την τρύπα στην &lt;color=orange&gt;Προεξοχή του Βατραχόψαρου&lt;/color&gt;:
 		</value>
 	</entry>
 	<entry>
@@ -592,7 +592,7 @@
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>ΛΑΜΙ: Ο Τάγκετ δεν χωράει πια στην τρύπα της &lt;color=orange&gt;Προεξοχής του Βατραχόψαρου&lt;/color&gt;, γιατί μεγάλωσε! Είναι πιο ψηλός από τον Λέβι τώρα.</value>
+		<value>ΛΑΜΙ: Ο Τάγκετ δε χωράει πια στην τρύπα της &lt;color=orange&gt;Προεξοχής του Βατραχόψαρου&lt;/color&gt;, γιατί μεγάλωσε! Είναι πιο ψηλός από τον Λέβι τώρα.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
@@ -852,7 +852,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-		<value>ΠΟΟΥΚ: Πάι, δεν νομίζω ότι θέλουμε αυτή η ύλη να αλληλεπιδράσει μαζί μας. Απ’ ό,τι καταλαβαίνω, η άμεση επαφή μαζί της θα ήταν σχεδόν σίγουρα θανατηφόρα.</value>
+		<value>ΠΟΟΥΚ: Πάι, δε νομίζω ότι θέλουμε αυτή η ύλη να αλληλεπιδράσει μαζί μας. Απ’ ό,τι καταλαβαίνω, η άμεση επαφή μαζί της θα ήταν σχεδόν σίγουρα θανατηφόρα.</value>
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
@@ -916,7 +916,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>ΠΟΟΥΚ: Ακόμη κι αν συνέβαινε, δεν θα μπορούσε κάποιος να την ανακαλέσει πίσω στο &lt;color=orange&gt;κανόνι βαρύτητας&lt;/color&gt; στον &lt;color=lightblue&gt;Δίδυμο της Χόβολης&lt;/color&gt;;</value>
+		<value>ΠΟΟΥΚ: Ακόμη κι αν συνέβαινε, δε θα μπορούσε κάποιος να την ανακαλέσει πίσω στο &lt;color=orange&gt;κανόνι βαρύτητας&lt;/color&gt; στον &lt;color=lightblue&gt;Δίδυμο της Χόβολης&lt;/color&gt;;</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
@@ -928,7 +928,7 @@
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-		<value>ΠΑΪ: Αυτό θα ήταν σοφό, νομίζω, Κλάρυ. Αν δεν σε πειράζει να περιμένεις εδώ μαζί της, η Πόουκ κι εγώ μπορούμε να συνεχίσουμε να ερευνούμε την επιφάνεια.</value>
+		<value>ΠΑΪ: Αυτό θα ήταν σοφό, νομίζω, Κλάρυ. Αν δε σε πειράζει να περιμένεις εδώ μαζί της, η Πόουκ κι εγώ μπορούμε να συνεχίσουμε να ερευνούμε την επιφάνεια.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
@@ -1188,7 +1188,7 @@
 	</entry>
 	<entry>
 		<key>SelfGossan1I very much do not want to discuss that.</key>
-		<value>Δεν θέλω με τίποτα να το συζητήσω αυτό.</value>
+		<value>Δε θέλω με τίποτα να το συζητήσω αυτό.</value>
 	</entry>
 	<entry>
 		<key>Wrong4AMy thoughts exactly.</key>
@@ -1300,7 +1300,7 @@
 	</entry>
 	<entry>
 		<key>Merge2BI mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</key>
-		<value>Δηλαδή, &lt;i&gt;νιώθω&lt;/i&gt; τόσο αληθινός όσο πάντα, οπότε δεν νομίζω ότι είμαι πλάσμα της φαντασίας σου ή κάτι τέτοιο.</value>
+		<value>Δηλαδή, &lt;i&gt;νιώθω&lt;/i&gt; τόσο αληθινός όσο πάντα, οπότε δε νομίζω ότι είμαι πλάσμα της φαντασίας σου ή κάτι τέτοιο.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BThat's just what a figment of my imagination would say!</key>
@@ -1504,7 +1504,7 @@
 	</entry>
 	<entry>
 		<key>Selfsun station 5Just kidding, I don't care how time works.</key>
-		<value>Πλάκα κάνω, δεν με νοιάζει πώς λειτουργεί ο χρόνος.</value>
+		<value>Πλάκα κάνω, δε με νοιάζει πώς λειτουργεί ο χρόνος.</value>
 	</entry>
 	<entry>
 		<key>Selfsun station 5But given it only happened in a previous loop...</key>
@@ -1528,7 +1528,7 @@
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
-		<value>ΠΟΟΥΚ: Δεν χρειάζεται η γωνία ευθυγράμμισης να είναι ακριβής· αρκεί να βρίσκεται εντός πέντε μοιρών από το κέντρο του ουράνιου σώματος.</value>
+		<value>ΠΟΟΥΚ: Δε χρειάζεται η γωνία ευθυγράμμισης να είναι ακριβής· αρκεί να βρίσκεται εντός πέντε μοιρών από το κέντρο του ουράνιου σώματος.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
@@ -1576,7 +1576,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>ΠΟΟΥΚ: Σημείωση: Ο Γιάροου πιστεύει ότι εντόπισε ένα σφάλμα στα σχέδια των πύργων στρέβλωσης: συγκεκριμένα, ότι ένας από τους πύργους στον &lt;color=lightblue&gt;Δίδυμο της Στάχτης&lt;/color&gt; δεν θα ενεργοποιηθεί ποτέ, επειδή ο δέκτης του δεν θα ευθυγραμμιστεί ποτέ από πάνω.</value>
+		<value>ΠΟΟΥΚ: Σημείωση: Ο Γιάροου πιστεύει ότι εντόπισε ένα σφάλμα στα σχέδια των πύργων στρέβλωσης: συγκεκριμένα, ότι ένας από τους πύργους στον &lt;color=lightblue&gt;Δίδυμο της Στάχτης&lt;/color&gt; δε θα ενεργοποιηθεί ποτέ, επειδή ο δέκτης του δε θα ευθυγραμμιστεί ποτέ από πάνω.</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
@@ -1592,7 +1592,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-		<value>ΚΛΑΡΥ: Όχι, ο Γιάροου καταλαβαίνει τη διαφορά. Μάλλον δεν συνειδητοποιεί ότι οι &lt;color=lightblue&gt;Δίδυμοι της Κλεψύδρας&lt;/color&gt; είναι τόσο κοντά μεταξύ τους που λειτουργούν ως ένα ενιαίο ουράνιο σώμα, με κοινό σημείο ευθυγράμμισης ανάμεσά τους.</value>
+		<value>ΚΛΑΡΥ: Όχι, ο Γιάροου καταλαβαίνει τη διαφορά. Μάλλον δε συνειδητοποιεί ότι οι &lt;color=lightblue&gt;Δίδυμοι της Κλεψύδρας&lt;/color&gt; είναι τόσο κοντά μεταξύ τους που λειτουργούν ως ένα ενιαίο ουράνιο σώμα, με κοινό σημείο ευθυγράμμισης ανάμεσά τους.</value>
 	</entry>
 	<entry>
 		<key>
@@ -1668,7 +1668,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: I’m intrigued, love! Everyone here working on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is excited to see it (Pye is beside herself with joy!).</key>
-		<value>ΓΙΑΡΟΟΥ: Τι ενδιαφέρον, αγάπη μου! Όλοι εδώ που δουλεύουμε στο &lt;color=orange&gt;Πρότζεκτ του Διδύμου της Στάχτης&lt;/color&gt; ανυπομονούμε να τον δούμε (η Πάι δεν χωράει από τη χαρά της!).</value>
+		<value>ΓΙΑΡΟΟΥ: Τι ενδιαφέρον, αγάπη μου! Όλοι εδώ που δουλεύουμε στο &lt;color=orange&gt;Πρότζεκτ του Διδύμου της Στάχτης&lt;/color&gt; ανυπομονούμε να τον δούμε (η Πάι δε χωράει από τη χαρά της!).</value>
 	</entry>
 	<entry>
 		<key>POKE: No, it isn’t!</key>
@@ -1720,7 +1720,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-		<value>ΚΟΛΕΟΥΣ: Ανακουφίστηκα με την απόφαση της φυλής μας να χρησιμοποιήσουμε το μετάλλευμα του &lt;color=lightblue&gt;Τίμπερ Χαρθ&lt;/color&gt; μόνο για την κατασκευή του κελύφους. Αν κάποτε η ζωή σε αυτόν τον πλανήτη εξελιχθεί ως το σημείο της προηγμένης μεταλλουργίας, είμαι σίγουρος ότι δεν θα τους έχουμε στερήσει τη δυνατότητα να δημιουργήσουν!</value>
+		<value>ΚΟΛΕΟΥΣ: Ανακουφίστηκα με την απόφαση της φυλής μας να χρησιμοποιήσουμε το μετάλλευμα του &lt;color=lightblue&gt;Τίμπερ Χαρθ&lt;/color&gt; μόνο για την κατασκευή του κελύφους. Αν κάποτε η ζωή σε αυτόν τον πλανήτη εξελιχθεί ως το σημείο της προηγμένης μεταλλουργίας, είμαι σίγουρος ότι δε θα τους έχουμε στερήσει τη δυνατότητα να δημιουργήσουν!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
@@ -1800,11 +1800,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one.</key>
-		<value>Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονική λούπα. Δηλαδή, δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτήν.</value>
+		<value>Προσωπικά, μου αρέσουν οι νέες εμπειρίες, και δεν έχω ξαναβρεθεί σε χρονική λούπα. Δηλαδή, δε &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτήν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_4I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
+		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δε σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
@@ -1920,7 +1920,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -2028,7 +2028,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δε θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3FThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2056,11 +2056,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δε συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δεν θα μας συμβούν ποτέ. Ωραίο, ε;</value>
+		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δε θα μας συμβούν ποτέ. Ωραίο, ε;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
@@ -2072,7 +2072,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3bMeaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</key>
-		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που τεχνικά δεν θα μας συμβούν ποτέ. Ωραίο, ε;</value>
+		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που τεχνικά δε θα μας συμβούν ποτέ. Ωραίο, ε;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2128,7 +2128,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>Πρέπει να ήταν από τότε που ο Χόρνφελς με έστειλε να δω τον δορυφόρο βαθέος διαστήματος. Νόμιζε ότι ο Γερο-Διαστημάκος μπορεί να είχε βλάβη, αλλά δεν βρήκα ούτε ένα πρόβλημα.</value>
+		<value>Πρέπει να ήταν από τότε που ο Χόρνφελς με έστειλε να δω τον δορυφόρο βαθέος διαστήματος. Νόμιζε ότι ο Γερο-Διαστημάκος μπορεί να είχε βλάβη, αλλά δε βρήκα ούτε ένα πρόβλημα.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
@@ -2176,7 +2176,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6cYou didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</key>
-		<value>Δεν σε χτύπησε κανένας βράχος ή μετεωρίτης στο κεφάλι στον δρόμο για εδώ, έτσι; Δεν είναι ντροπή. Εμένα μου συμβαίνει συνέχεια!</value>
+		<value>Δε σε χτύπησε κανένας βράχος ή μετεωρίτης στο κεφάλι στον δρόμο για εδώ, έτσι; Δεν είναι ντροπή. Εμένα μου συμβαίνει συνέχεια!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
@@ -2220,11 +2220,11 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-		<value>Λοιπόν. Δεν &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτήν, αλλά πάλι, δεν μπορώ και να το ξέρω σίγουρα.</value>
+		<value>Λοιπόν. Δε &lt;i&gt;νομίζω&lt;/i&gt; ότι έχω ξαναβρεθεί σε χρονική λούπα πριν από αυτήν, αλλά πάλι, δεν μπορώ και να το ξέρω σίγουρα.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δεν σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
+		<value>Φαντάστηκα ότι θα ήταν κάποια νευρική δουλειά του χρόνου, αλλά δε σκεφτόμουν και πολύ το τι γίνεται με το σχήμα του χρόνου, ξέρεις; Αλλά η λούπα βγάζει νόημα εδώ. Ας πούμε «λούπα» προς το παρόν.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
@@ -2292,7 +2292,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -2320,7 +2320,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δε θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2340,11 +2340,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δε συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δεν θα μας συμβούν ποτέ. Ωραίο, ε;</value>
+		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δε θα μας συμβούν ποτέ. Ωραίο, ε;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2400,7 +2400,7 @@
 	</entry>
 	<entry>
 		<key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
-		<value>Γεια σου, χρονοφίλε. Ευτυχώς που δεν βαριέμαι ποτέ τη βροχή, ε;</value>
+		<value>Γεια σου, χρονοφίλε. Ευτυχώς που δε βαριέμαι ποτέ τη βροχή, ε;</value>
 	</entry>
 	<entry>
 		<key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
@@ -2488,7 +2488,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -2516,7 +2516,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δεν θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
+		<value>Ρε, τι λες να γινόταν αν έκλεινες τη χρονική λούπα; Ένα κομμάτι μου λέει ότι ίσως δε θα έπρεπε, μιας και ο ήλιος ανατινάζεται και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
@@ -2536,11 +2536,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δεν συνέβησαν ποτέ.</value>
+		<value>Αυτό είναι αρκετά βαθύ... Δηλαδή, ίσως οι συνειδήσεις μας να έχουν περάσει όλες αυτές τις λούπες, αλλά τα σώματά μας όχι, γιατί τεχνικά οι λούπες δε συνέβησαν ποτέ.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δεν θα μας συμβούν ποτέ. Ωραίο, ε;</value>
+		<value>Που σημαίνει ότι λαμβάνουμε αναμνήσεις από πράγματα που δε θα μας συμβούν ποτέ. Ωραίο, ε;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2584,7 +2584,7 @@
 	</entry>
 	<entry>
 		<key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-		<value>Ξέρεις, δεν θα με πείραζε να ήμουν δορυφόρος. Είναι ειρηνικά εδώ έξω, ανάμεσα στα μακρινά αστέρια και στο απαλό, βελούδινο σκοτάδι… Βάζω στοίχημα ότι είναι (χασμουρητό) πολύ ωραία και για υπνάκους...</value>
+		<value>Ξέρεις, δε θα με πείραζε να ήμουν δορυφόρος. Είναι ειρηνικά εδώ έξω, ανάμεσα στα μακρινά αστέρια και στο απαλό, βελούδινο σκοτάδι… Βάζω στοίχημα ότι είναι (χασμουρητό) πολύ ωραία και για υπνάκους...</value>
 	</entry>
 	<entry>
 		<key>Recording...</key>
@@ -2652,7 +2652,7 @@
 	</entry>
 	<entry>
 		<key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
-		<value>Η αναζήτησή μας να εξερευνήσουμε τα πιο απομακρυσμένα σημεία του ηλιακού μας συστήματος δεν θα ήταν δυνατή χωρίς γενναιόδωρους επισκέπτες σαν εσένα! Σε ευχαριστούμε θερμότατα για τη στήριξη και ελπίζουμε να σε ξαναδούμε σύντομα.</value>
+		<value>Η αναζήτησή μας να εξερευνήσουμε τα πιο απομακρυσμένα σημεία του ηλιακού μας συστήματος δε θα ήταν δυνατή χωρίς γενναιόδωρους επισκέπτες σαν εσένα! Σε ευχαριστούμε θερμότατα για τη στήριξη και ελπίζουμε να σε ξαναδούμε σύντομα.</value>
 	</entry>
 	<entry>
 		<key>Slate</key>
@@ -2712,7 +2712,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-		<value>Χαίρομαι που ενθουσιάζεσαι, αλλά θυμήσου: αν διαλύσεις το σκάφος, δεν σου φτιάχνω καινούριο. Δεν είμαι φτιαγμένος από ελαφριά κράματα αλουμινίου επανεισόδου, ξέρεις.</value>
+		<value>Χαίρομαι που ενθουσιάζεσαι, αλλά θυμήσου: αν διαλύσεις το σκάφος, δε σου φτιάχνω καινούριο. Δεν είμαι φτιαγμένος από ελαφριά κράματα αλουμινίου επανεισόδου, ξέρεις.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
@@ -2772,7 +2772,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-		<value>Α, και ο Γκόσαν λέει ότι έχει έτοιμο τον θάλαμο μηδενικής βαρύτητας, αν θέλεις να θυμηθείς τις επισκευές σκάφους στο διάστημα. Δεν λέω ότι &lt;i&gt;πρέπει&lt;/i&gt;, αλλά ε, θα με βοηθούσε να μου φύγει ο Γκόσαν από πάνω.</value>
+		<value>Α, και ο Γκόσαν λέει ότι έχει έτοιμο τον θάλαμο μηδενικής βαρύτητας, αν θέλεις να θυμηθείς τις επισκευές σκάφους στο διάστημα. Δε λέω ότι &lt;i&gt;πρέπει&lt;/i&gt;, αλλά ε, θα με βοηθούσε να μου φύγει ο Γκόσαν από πάνω.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
@@ -2824,7 +2824,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer31Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</key>
-		<value>Ε, αν έχεις τους κωδικούς, δεν θα σε σταματήσω εγώ. Καλή τύχη, και πρόσεχε αυτό το σκάφος!</value>
+		<value>Ε, αν έχεις τους κωδικούς, δε θα σε σταματήσω εγώ. Καλή τύχη, και πρόσεχε αυτό το σκάφος!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer32Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</key>
@@ -2832,7 +2832,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer32I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>Δεν θα ρωτήσω πώς βρήκες τους κωδικούς εκτόξευσης, αλλά αφού τους έχεις, κουνήσου! Θέλω να δω αν το καινούριο πιλοτήριο θα μείνει κολλημένο στην απογείωση.</value>
+		<value>Δε θα ρωτήσω πώς βρήκες τους κωδικούς εκτόξευσης, αλλά αφού τους έχεις, κουνήσου! Θέλω να δω αν το καινούριο πιλοτήριο θα μείνει κολλημένο στην απογείωση.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</key>
@@ -2840,7 +2840,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer33I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>Δεν θα ρωτήσω πώς βρήκες τους κωδικούς, οπότε βιάσου και απογειώσου πριν αποφασίσει ο Χόρνφελς να σε καθηλώσει για λόγους υγείας.  Θέλω να δω αν το καινούριο πιλοτήριο θα μείνει κολλημένο στην απογείωση.</value>
+		<value>Δε θα ρωτήσω πώς βρήκες τους κωδικούς, οπότε βιάσου και απογειώσου πριν αποφασίσει ο Χόρνφελς να σε καθηλώσει για λόγους υγείας.  Θέλω να δω αν το καινούριο πιλοτήριο θα μείνει κολλημένο στην απογείωση.</value>
 	</entry>
 	<entry>
 		<key>Scientist4Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</key>
@@ -2888,7 +2888,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
-		<value>Και να χαίρεσαι που δεν σε καθηλώνω στο έδαφος για λόγους υγείας, γιατί δεν έχω ιδέα τι μου λες.</value>
+		<value>Και να χαίρεσαι που δε σε καθηλώνω στο έδαφος για λόγους υγείας, γιατί δεν έχω ιδέα τι μου λες.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Had an exciting dream, did you?</key>
@@ -2900,7 +2900,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer37Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</key>
-		<value>Φρόντισε να μην είναι ο ήλιος ανάμεσα σε σένα και στον προορισμό σου όταν βάζεις αυτόματο πιλότο, και δεν θα έχεις πρόβλημα.</value>
+		<value>Φρόντισε να μην είναι ο ήλιος ανάμεσα σε σένα και στον προορισμό σου όταν βάζεις αυτόματο πιλότο, και δε θα έχεις πρόβλημα.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer38Use your scout to detect it, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</key>
@@ -2924,7 +2924,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
-		<value>Ναι, στη θέση σου θα έμενα στην εξερεύνηση του ηλιακού μας συστήματος. Όσο κι αν δεν θέλω να το παραδεχτώ, τα σκάφη μας δεν κάνουν για βαθύ διάστημα.</value>
+		<value>Ναι, στη θέση σου θα έμενα στην εξερεύνηση του ηλιακού μας συστήματος. Όσο κι αν δε θέλω να το παραδεχτώ, τα σκάφη μας δεν κάνουν για βαθύ διάστημα.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_IntroHey, hold up a sec!</key>
@@ -3124,7 +3124,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
-		<value>&lt;i&gt;Προφανώς&lt;/i&gt;, ναι. Δεν χρειάζεται να είσαι αγενής.</value>
+		<value>&lt;i&gt;Προφανώς&lt;/i&gt;, ναι. Δε χρειάζεται να είσαι αγενής.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
@@ -3264,7 +3264,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
-		<value>Δεν θα έπρεπε να πω στον επίγειο έλεγχο να έρθει να σε πάρει;</value>
+		<value>Δε θα έπρεπε να πω στον επίγειο έλεγχο να έρθει να σε πάρει;</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuNah, I’m good.</key>
@@ -3300,7 +3300,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
-		<value>Δεν θα έπρεπε να πω στον επίγειο έλεγχο να έρθει να σε πάρει;</value>
+		<value>Δε θα έπρεπε να πω στον επίγειο έλεγχο να έρθει να σε πάρει;</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryNah, I’m good.</key>
@@ -3376,7 +3376,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparExploreYour scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</key>
-		<value>Ο ιχνηλάτης σου θα σου πει ότι ο ανιχνευτής είναι σε δύο μέρη ταυτόχρονα, αλλά δεν νομίζω ότι είναι... λάθος, ακριβώς, γιατί ο χώρος εδώ μέσα δεν λειτουργεί σωστά. Αυτός ο σπόρος φαίνεται μικρός, βλέπεις; Αλλά μέσα του είναι μεγαλύτερος.</value>
+		<value>Ο ιχνηλάτης σου θα σου πει ότι ο ανιχνευτής είναι σε δύο μέρη ταυτόχρονα, αλλά δε νομίζω ότι είναι... λάθος, ακριβώς, γιατί ο χώρος εδώ μέσα δε λειτουργεί σωστά. Αυτός ο σπόρος φαίνεται μικρός, βλέπεις; Αλλά μέσα του είναι μεγαλύτερος.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExplore&lt;i&gt;Much&lt;/i&gt; bigger.</key>
@@ -3388,7 +3388,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparExploreWell, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</key>
-		<value>Λοιπόν, αυτή είναι η θεωρία μου. Κράτα τη στο μυαλό σου όσο εξερευνάς τον Νταρκ Μπραμπλ και ίσως δεν χαθείς μέσα του για πάντα.</value>
+		<value>Λοιπόν, αυτή είναι η θεωρία μου. Κράτα τη στο μυαλό σου όσο εξερευνάς τον Νταρκ Μπραμπλ και ίσως δε χαθείς μέσα του για πάντα.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreGood luck!</key>
@@ -3500,7 +3500,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</key>
-		<value>Ε, τουλάχιστον δεν με έφαγαν. Τέλος καλό, όλα καλά, ε, μικρούλη;</value>
+		<value>Ε, τουλάχιστον δε με έφαγαν. Τέλος καλό, όλα καλά, ε, μικρούλη;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
@@ -3508,7 +3508,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething7Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</key>
-		<value>Δεν θα με πείραζε να δοκιμάσω κι εγώ, μικρούλη. Μόλις γυρίσω στο Τίμπερ Χαρθ, ίσως αυτή γίνει η επόμενη στάση μου.</value>
+		<value>Δε θα με πείραζε να δοκιμάσω κι εγώ, μικρούλη. Μόλις γυρίσω στο Τίμπερ Χαρθ, ίσως αυτή γίνει η επόμενη στάση μου.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</key>
@@ -3520,7 +3520,7 @@
 	</entry>
 	<entry>
 		<key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
-		<value>Παρόλο που τις έχω ελέγξει τουλάχιστον χίλιες φορές, οι εικόνες ΑΚΟΜΗ δεν είναι έτοιμες για εκτύπωση στον πύργο ασυρμάτου. Ε, όπως λένε - δορυφόρος που τον κοιτάς δεν στέλνει ποτέ δεδομένα! &lt;size=20&gt;(Χαχα, ένα αστειάκι για σένα, ημερολόγιο. Κανείς δεν το λέει αυτό.)&lt;/size&gt;</value>
+		<value>Παρόλο που τις έχω ελέγξει τουλάχιστον χίλιες φορές, οι εικόνες ΑΚΟΜΗ δεν είναι έτοιμες για εκτύπωση στον πύργο ασυρμάτου. Ε, όπως λένε - δορυφόρος που τον κοιτάς δε στέλνει ποτέ δεδομένα! &lt;size=20&gt;(Χαχα, ένα αστειάκι για σένα, ημερολόγιο. Κανείς δεν το λέει αυτό.)&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignSomeday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</key>
@@ -3552,7 +3552,7 @@
 	</entry>
 	<entry>
 		<key>SignEvery single astral body in our magnificent solar system, looking stunning from every angle in each of these three images. And in color, no less! Now this is art. I could stare at these photos forever. Doesn’t Timber Hearth look tiny from —</key>
-		<value>Κάθε ουράνιο σώμα του μεγαλειώδους ηλιακού μας συστήματος, εκθαμβωτικό από κάθε γωνία, σε καθεμιά από αυτές τις τρεις εικόνες. Και έγχρωμες, μάλιστα! Αυτό είναι τέχνη. Θα μπορούσα να κοιτάζω αυτές τις φωτογραφίες για πάντα. Δεν φαίνεται μικροσκοπικό το Τίμπερ Χαρθ από -</value>
+		<value>Κάθε ουράνιο σώμα του μεγαλειώδους ηλιακού μας συστήματος, εκθαμβωτικό από κάθε γωνία, σε καθεμιά από αυτές τις τρεις εικόνες. Και έγχρωμες, μάλιστα! Αυτό είναι τέχνη. Θα μπορούσα να κοιτάζω αυτές τις φωτογραφίες για πάντα. Δε φαίνεται μικροσκοπικό το Τίμπερ Χαρθ από -</value>
 	</entry>
 	<entry>
 		<key>SignHold on. What is &lt;i&gt;that&lt;/i&gt;?</key>
@@ -3596,7 +3596,7 @@
 	</entry>
 	<entry>
 		<key>NotYetI have awaited this moment for a long time. For so long. It is no trouble to wait a little longer.</key>
-		<value>Περίμενα αυτή τη στιγμή πολύ καιρό. Τόσο πολύ. Δεν με δυσκολεύει να περιμένω λίγο ακόμη.</value>
+		<value>Περίμενα αυτή τη στιγμή πολύ καιρό. Τόσο πολύ. Δε με δυσκολεύει να περιμένω λίγο ακόμη.</value>
 	</entry>
 	<entry>
 		<key>Farewell...How beautiful. It’s different than I’d envisioned.</key>
@@ -3604,7 +3604,7 @@
 	</entry>
 	<entry>
 		<key>FarewellWhatever happens next, I do not think it is to be feared.</key>
-		<value>Ό,τι κι αν ακολουθήσει, δεν νομίζω ότι πρέπει να το φοβόμαστε.</value>
+		<value>Ό,τι κι αν ακολουθήσει, δε νομίζω ότι πρέπει να το φοβόμαστε.</value>
 	</entry>
 	<entry>
 		<key>WaitingForInvitationWhen my kind found the Eye and realized what it was capable of, they were terrified. It was too difficult a truth. Like a light too bright to look upon directly, it burned them.</key>
@@ -3616,7 +3616,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForInvitationMy kind weren’t always like this. We weren’t always so afraid. I did what I could to set things right, yet I am still of my kind, and you know now what they did. I cannot promise our fear won’t stain your mind.</key>
-		<value>Το είδος μου δεν ήταν πάντα έτσι. Δεν ήμασταν πάντα τόσο φοβισμένοι. Έκανα ό,τι μπορούσα για να διορθώσω τα πράγματα, κι όμως ανήκω ακόμη σε αυτό το είδος, και τώρα ξέρεις τι έκαναν. Δεν μπορώ να υποσχεθώ ότι ο φόβος μας δεν θα λερώσει το μυαλό σου.</value>
+		<value>Το είδος μου δεν ήταν πάντα έτσι. Δεν ήμασταν πάντα τόσο φοβισμένοι. Έκανα ό,τι μπορούσα για να διορθώσω τα πράγματα, κι όμως ανήκω ακόμη σε αυτό το είδος, και τώρα ξέρεις τι έκαναν. Δεν μπορώ να υποσχεθώ ότι ο φόβος μας δε θα λερώσει το μυαλό σου.</value>
 	</entry>
 	<entry>
 		<key>WaitingForInvitationAnd so, a choice: Are you certain you want to remember me?</key>
@@ -3636,7 +3636,7 @@
 	</entry>
 	<entry>
 		<key>JoinUsI don’t want to repeat my kind’s mistakes. But if you’re willing to take the risk, then so am I.</key>
-		<value>Δεν θέλω να επαναλάβω τα λάθη του είδους μου. Αλλά αν εσύ είσαι πρόθυμος να πάρεις το ρίσκο, τότε είμαι κι εγώ.</value>
+		<value>Δε θέλω να επαναλάβω τα λάθη του είδους μου. Αλλά αν εσύ είσαι πρόθυμος να πάρεις το ρίσκο, τότε είμαι κι εγώ.</value>
 	</entry>
 	<entry>
 		<key>YourJourneyIsOverMy role in this ended long ago, and now I’ve learned my efforts weren’t in vain. Thank you for facing what was hidden in the dark.</key>
@@ -3708,7 +3708,7 @@
 	</entry>
 	<entry>
 		<key>CONOY: If you don’t mind the trek beneath the surface to the south pole, I’d be delighted to see you! (There are two trailheads, one at &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;'s &lt;color=orange&gt;gravity cannon&lt;/color&gt; and one at the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.)</key>
-		<value>ΚΟΝΟΪ: Αν δεν σε πειράζει η πεζοπορία κάτω από την επιφάνεια ως τον νότιο πόλο, θα χαιρόμουν πολύ να σε δω! (Υπάρχουν δύο αφετηρίες, μία στο &lt;color=orange&gt;κανόνι βαρύτητας&lt;/color&gt; του &lt;color=lightblue&gt;Μπριτλ Χόλοου&lt;/color&gt; και μία στον &lt;color=orange&gt;Πύργο της Κβαντικής Γνώσης&lt;/color&gt;.)</value>
+		<value>ΚΟΝΟΪ: Αν δε σε πειράζει η πεζοπορία κάτω από την επιφάνεια ως τον νότιο πόλο, θα χαιρόμουν πολύ να σε δω! (Υπάρχουν δύο αφετηρίες, μία στο &lt;color=orange&gt;κανόνι βαρύτητας&lt;/color&gt; του &lt;color=lightblue&gt;Μπριτλ Χόλοου&lt;/color&gt; και μία στον &lt;color=orange&gt;Πύργο της Κβαντικής Γνώσης&lt;/color&gt;.)</value>
 	</entry>
 	<entry>
 		<key>DAZ: Conoy, you should’ve seen it! We’d thought it was impossible for any cannon components to sink even partially below the current, but ours sank straight to the core!</key>
@@ -3720,7 +3720,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: However, something strange is happening when I ask the &lt;color=orange&gt;Eye signal locator&lt;/color&gt; to follow the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal: The device’s indicator rotates wildly and never points to just one direction.</key>
-		<value>ΚΟΛΕΟΥΣ: Ωστόσο, κάτι παράξενο συμβαίνει όταν ζητώ από τον &lt;color=orange&gt;εντοπιστή του σήματος του Ματιού&lt;/color&gt; να ακολουθήσει το σήμα του &lt;color=lightblue&gt;Ματιού&lt;/color&gt;: ο δείκτης της συσκευής περιστρέφεται μανιωδώς και δεν δείχνει ποτέ σε μία μόνο κατεύθυνση.</value>
+		<value>ΚΟΛΕΟΥΣ: Ωστόσο, κάτι παράξενο συμβαίνει όταν ζητώ από τον &lt;color=orange&gt;εντοπιστή του σήματος του Ματιού&lt;/color&gt; να ακολουθήσει το σήμα του &lt;color=lightblue&gt;Ματιού&lt;/color&gt;: ο δείκτης της συσκευής περιστρέφεται μανιωδώς και δε δείχνει ποτέ σε μία μόνο κατεύθυνση.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is a curious result. It’s possible the &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped calling out its signal.</key>
@@ -3740,7 +3740,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Then we will build it. Don’t lose hope, Cassava; our search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is what brought our clan to this place. We won’t give up so easily!</key>
-		<value>ΘΑΤΣ: Τότε θα τη χτίσουμε. Μη χάνεις την ελπίδα σου, Κασάβα· η αναζήτηση του &lt;color=lightblue&gt;Ματιού&lt;/color&gt; είναι που έφερε τη φυλή μας εδώ. Δεν θα τα παρατήσουμε τόσο εύκολα!</value>
+		<value>ΘΑΤΣ: Τότε θα τη χτίσουμε. Μη χάνεις την ελπίδα σου, Κασάβα· η αναζήτηση του &lt;color=lightblue&gt;Ματιού&lt;/color&gt; είναι που έφερε τη φυλή μας εδώ. Δε θα τα παρατήσουμε τόσο εύκολα!</value>
 	</entry>
 	<entry>
 		<key>Hal</key>
@@ -4084,7 +4084,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Poke, I’m deeply honored. Idaea, I comprehend your position; however, if we aren’t all but certain the &lt;color=orange&gt;Sun Station&lt;/color&gt; will not cause destruction once we’ve built it, then I won’t support the station’s use.</key>
-		<value>ΠΑΪ: Πόουκ, με τιμάς βαθύτατα. Ιδαία, κατανοώ τη θέση σου· ωστόσο, αν δεν είμαστε σχεδόν απόλυτα βέβαιοι ότι ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δεν θα προκαλέσει καταστροφή μόλις τον χτίσουμε, τότε δεν θα στηρίξω τη χρήση του.</value>
+		<value>ΠΑΪ: Πόουκ, με τιμάς βαθύτατα. Ιδαία, κατανοώ τη θέση σου· ωστόσο, αν δεν είμαστε σχεδόν απόλυτα βέβαιοι ότι ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δε θα προκαλέσει καταστροφή μόλις τον χτίσουμε, τότε δε θα στηρίξω τη χρήση του.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: Note: This door will need to remain closed for some &lt;i&gt;time&lt;/i&gt;! Pye and I are running an experiment based on the extraordinary findings from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
@@ -4160,7 +4160,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I’d hate to leave him in the dark!</key>
-		<value>ΡΑΜΙ: Δεν θα ήθελα να τον αφήσω στο σκοτάδι!</value>
+		<value>ΡΑΜΙ: Δε θα ήθελα να τον αφήσω στο σκοτάδι!</value>
 	</entry>
 	<entry>
 		<key>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</key>
@@ -4240,7 +4240,7 @@
 	</entry>
 	<entry>
 		<key>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</key>
-		<value>ΚΛΕΜ: Θυμάμαι να ακούω αυτή την ιστορία μικρός! Μια μέρα, το &lt;color=orange&gt;Σκάφος&lt;/color&gt; του Έσκαλ απλώς έπαψε να απαντά. Οι άλλες φυλές έψαξαν και έψαξαν, αλλά δεν βρήκαν ίχνος. Σαν οι χαμένοι τους φίλοι να είχαν κάνει στρέβλωση έξω από την ίδια την ύπαρξη.</value>
+		<value>ΚΛΕΜ: Θυμάμαι να ακούω αυτή την ιστορία μικρός! Μια μέρα, το &lt;color=orange&gt;Σκάφος&lt;/color&gt; του Έσκαλ απλώς έπαψε να απαντά. Οι άλλες φυλές έψαξαν και έψαξαν, αλλά δε βρήκαν ίχνος. Σαν οι χαμένοι τους φίλοι να είχαν κάνει στρέβλωση έξω από την ίδια την ύπαρξη.</value>
 	</entry>
 	<entry>
 		<key>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</key>
@@ -4264,7 +4264,7 @@
 	</entry>
 	<entry>
 		<key>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</key>
-		<value>ΝΙΜ: Όχι ακόμη, αλλά παραλίγο. Βρήκαμε μπελάδες κατά τη στρέβλωσή μας: οι τρεις ήλιοι του αστρικού συστήματος Μπράιτ Σπαρκ εξερράγησαν, και ήταν καθαρά τυχερή σύμπτωση που δεν μας πρόλαβε η έκρηξη. Θα σας συναντήσουμε σύντομα, Κάνα!</value>
+		<value>ΝΙΜ: Όχι ακόμη, αλλά παραλίγο. Βρήκαμε μπελάδες κατά τη στρέβλωσή μας: οι τρεις ήλιοι του αστρικού συστήματος Μπράιτ Σπαρκ εξερράγησαν, και ήταν καθαρά τυχερή σύμπτωση που δε μας πρόλαβε η έκρηξη. Θα σας συναντήσουμε σύντομα, Κάνα!</value>
 	</entry>
 	<entry>
 		<key>CANNA: I’m relieved your clan is safe, Neem! It’s good to hear your words. Any Vessels nearby, remember to be extremely cautious of potentially unstable stars (which is most of them, now).</key>
@@ -4296,7 +4296,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</key>
-		<value>ΦΙΛΙΞ: Έσκαλ, στάσου, χρειάζομαι κι άλλο χρόνο για να στείλω εξερχόμενο μήνυμα! Δεν θα έπρεπε να πούμε σε κάποια άλλη φυλή πού πηγαίνουμε;</value>
+		<value>ΦΙΛΙΞ: Έσκαλ, στάσου, χρειάζομαι κι άλλο χρόνο για να στείλω εξερχόμενο μήνυμα! Δε θα έπρεπε να πούμε σε κάποια άλλη φυλή πού πηγαίνουμε;</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</key>
@@ -4316,7 +4316,7 @@
 	</entry>
 	<entry>
 		<key>ESCALL: That shouldn’t create a problem, provided we arrive at or near the signal’s source. Everyone, we’re ready to warp!</key>
-		<value>ΕΣΚΑΛ: Αυτό δεν θα δημιουργήσει πρόβλημα, αρκεί να φτάσουμε στην πηγή του σήματος ή κοντά της. Όλοι, είμαστε έτοιμοι για στρέβλωση!</value>
+		<value>ΕΣΚΑΛ: Αυτό δε θα δημιουργήσει πρόβλημα, αρκεί να φτάσουμε στην πηγή του σήματος ή κοντά της. Όλοι, είμαστε έτοιμοι για στρέβλωση!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: This is it: We’ve finished building the final &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; module and are ready to send it into orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; for assembly!</key>
@@ -4372,7 +4372,7 @@
 	</entry>
 	<entry>
 		<key>LAMI: &lt;i&gt;But&lt;/i&gt;, what if we didn’t use the door and snuck in the &lt;i&gt;other&lt;/i&gt; way? Does anyone want to?</key>
-		<value>ΛΑΜΙ: &lt;i&gt;Όμως&lt;/i&gt;, τι θα γινόταν αν δεν χρησιμοποιούσαμε την πόρτα και τρυπώναμε από την &lt;i&gt;άλλη&lt;/i&gt; μεριά; Θέλει κανείς;</value>
+		<value>ΛΑΜΙ: &lt;i&gt;Όμως&lt;/i&gt;, τι θα γινόταν αν δε χρησιμοποιούσαμε την πόρτα και τρυπώναμε από την &lt;i&gt;άλλη&lt;/i&gt; μεριά; Θέλει κανείς;</value>
 	</entry>
 	<entry>
 		<key>TAGET: Phlox &lt;i&gt;specifically&lt;/i&gt; told us not to do that.</key>
@@ -4424,7 +4424,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</key>
-		<value>ΙΔΑΙΑ: Δεν μπορούμε να το αλλάξουμε αυτό; Δεν μου αρέσει να δουλεύω έχοντας μπροστά μου μια τόσο μακάβρια δήλωση αποστολής.</value>
+		<value>ΙΔΑΙΑ: Δεν μπορούμε να το αλλάξουμε αυτό; Δε μου αρέσει να δουλεύω έχοντας μπροστά μου μια τόσο μακάβρια δήλωση αποστολής.</value>
 	</entry>
 	<entry>
 		<key>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</key>
@@ -4440,7 +4440,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: At least I don’t lack a sense of ethics!</key>
-		<value>ΙΔΑΙΑ: Τουλάχιστον εμένα δεν μου λείπει η αίσθηση της ηθικής!</value>
+		<value>ΙΔΑΙΑ: Τουλάχιστον εμένα δε μου λείπει η αίσθηση της ηθικής!</value>
 	</entry>
 	<entry>
 		<key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
@@ -4464,14 +4464,14 @@
 	</entry>
 	<entry>
 		<key>COLEUS: Annona and those of us originally stranded on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; built a &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; there, but the heat of the &lt;color=lightblue&gt;sun&lt;/color&gt; made its construction challenging. I wouldn’t recommend building on that planet.</key>
-		<value>ΚΟΛΕΟΥΣ: Ο Ανόνα και όσοι από εμάς είχαμε αρχικά αποκλειστεί στον &lt;color=lightblue&gt;Δίδυμο της Χόβολης&lt;/color&gt; χτίσαμε εκεί έναν &lt;color=orange&gt;εντοπιστή της Κβαντικής Σελήνης&lt;/color&gt;, αλλά η ζέστη του &lt;color=lightblue&gt;ήλιου&lt;/color&gt; έκανε την κατασκευή δύσκολη. Δεν θα συνιστούσα να χτίσουμε σε εκείνον τον πλανήτη.</value>
+		<value>ΚΟΛΕΟΥΣ: Ο Ανόνα και όσοι από εμάς είχαμε αρχικά αποκλειστεί στον &lt;color=lightblue&gt;Δίδυμο της Χόβολης&lt;/color&gt; χτίσαμε εκεί έναν &lt;color=orange&gt;εντοπιστή της Κβαντικής Σελήνης&lt;/color&gt;, αλλά η ζέστη του &lt;color=lightblue&gt;ήλιου&lt;/color&gt; έκανε την κατασκευή δύσκολη. Δε θα συνιστούσα να χτίσουμε σε εκείνον τον πλανήτη.</value>
 	</entry>
 	<entry>
 		<key>
 			COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
 		</key>
 		<value>
-			ΚΟΛΕΟΥΣ: Μετά από προσεκτικότερη παρατήρηση, το σημείο εξόρυξης 2a δεν θα ήταν ασφαλές για τη ντόπια ζωή που κατοικεί σε κάποιες από τις λιμνούλες αυτής της σπηλιάς, οπότε (δυστυχώς) θα πρέπει να εξορύξουμε σε κάποιο από τα άλλα σημεία.
+			ΚΟΛΕΟΥΣ: Μετά από προσεκτικότερη παρατήρηση, το σημείο εξόρυξης 2a δε θα ήταν ασφαλές για τη ντόπια ζωή που κατοικεί σε κάποιες από τις λιμνούλες αυτής της σπηλιάς, οπότε (δυστυχώς) θα πρέπει να εξορύξουμε σε κάποιο από τα άλλα σημεία.
 		</value>
 	</entry>
 	<entry>
@@ -4524,7 +4524,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: We’re nearly ready! Filix and I have finished construction, and she says calibrating the device won’t take long.</key>
-		<value>ΚΑΣΑΒΑ: Είμαστε σχεδόν έτοιμοι! Η Φίλιξ κι εγώ τελειώσαμε την κατασκευή, και λέει ότι η βαθμονόμηση της συσκευής δεν θα πάρει πολύ.</value>
+		<value>ΚΑΣΑΒΑ: Είμαστε σχεδόν έτοιμοι! Η Φίλιξ κι εγώ τελειώσαμε την κατασκευή, και λέει ότι η βαθμονόμηση της συσκευής δε θα πάρει πολύ.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
@@ -4576,7 +4576,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
-		<value>ΓΙΑΡΟΟΥ: Το σημαντικό είναι ότι είμαστε πλέον όλοι συνδεδεμένοι μέσω του &lt;color=lightblue&gt;Διδύμου της Στάχτης&lt;/color&gt; - και επίσης ότι δεν χρειάζεται πια να μεσολαβώ στις διαφωνίες σας.</value>
+		<value>ΓΙΑΡΟΟΥ: Το σημαντικό είναι ότι είμαστε πλέον όλοι συνδεδεμένοι μέσω του &lt;color=lightblue&gt;Διδύμου της Στάχτης&lt;/color&gt; - και επίσης ότι δε χρειάζεται πια να μεσολαβώ στις διαφωνίες σας.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Our friends on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; tested the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; today. Mallow tells me the cannon is doing well, and that Avens advocates for more launch power. If anyone can coax the maximum power from a device, Avens can.</key>
@@ -4616,7 +4616,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: These words are difficult to write: The &lt;color=orange&gt;Sun Station&lt;/color&gt; did not work.</key>
-		<value>ΓΙΑΡΟΟΥ: Αυτά τα λόγια είναι δύσκολο να γραφτούν: ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δεν λειτούργησε.</value>
+		<value>ΓΙΑΡΟΟΥ: Αυτά τα λόγια είναι δύσκολο να γραφτούν: ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δε λειτούργησε.</value>
 	</entry>
 	<entry>
 		<key>YARROW: However, this is the closest we have ever been. The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is theoretically sound; we were only unable to power it. Perhaps there is another way.</key>
@@ -4731,7 +4731,7 @@
 			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
 		</key>
 		<value>
-			Το σήμα είναι η φωνή του &lt;color=lightblue&gt;Ματιού&lt;/color&gt;. Μιλά μια γλώσσα που δεν γνωρίζουμε ακόμη.
+			Το σήμα είναι η φωνή του &lt;color=lightblue&gt;Ματιού&lt;/color&gt;. Μιλά μια γλώσσα που δε γνωρίζουμε ακόμη.
 		</value>
 	</entry>
 	<entry>
@@ -4780,7 +4780,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Even if it no longer functions, the old core could be a valuable blueprint, provided we’re able to transport it back here.</key>
-		<value>ΚΑΣΑΒΑ: Ακόμη κι αν δεν λειτουργεί πια, ο παλιός πυρήνας θα μπορούσε να είναι πολύτιμο σχέδιο, αρκεί να καταφέρουμε να τον μεταφέρουμε πίσω εδώ.</value>
+		<value>ΚΑΣΑΒΑ: Ακόμη κι αν δε λειτουργεί πια, ο παλιός πυρήνας θα μπορούσε να είναι πολύτιμο σχέδιο, αρκεί να καταφέρουμε να τον μεταφέρουμε πίσω εδώ.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
@@ -4792,7 +4792,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
-		<value>ΚΟΛΕΟΥΣ: Όσα μάθαμε η Μελόρε κι εγώ από εκείνο το απολίθωμα θα μας βοηθούσαν θεωρητικά να ξεφύγουμε από τα βατραχόψαρα, αλλά η υπόθεσή μας δεν δοκιμάστηκε ποτέ σε ζωντανό δείγμα.</value>
+		<value>ΚΟΛΕΟΥΣ: Όσα μάθαμε η Μελόρε κι εγώ από εκείνο το απολίθωμα θα μας βοηθούσαν θεωρητικά να ξεφύγουμε από τα βατραχόψαρα, αλλά η υπόθεσή μας δε δοκιμάστηκε ποτέ σε ζωντανό δείγμα.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I remember that anglerfish fossil! We used to play in &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; when we were children.</key>
@@ -4835,7 +4835,7 @@
 			SOLANUM: This wouldn’t be so bad, I think.
 		</key>
 		<value>
-			ΣΟΛΑΝΟΥΜ: Αυτό δεν θα ήταν και τόσο κακό, νομίζω.
+			ΣΟΛΑΝΟΥΜ: Αυτό δε θα ήταν και τόσο κακό, νομίζω.
 		</value>
 	</entry>
 	<entry>
@@ -4875,7 +4875,7 @@
 			ILEX: If we built a new Vessel, we could return to our adventurous way of life. Imagine all the new places we could go! Our clan wouldn’t be stuck here in this star system.
 		</key>
 		<value>
-			ΙΛΕΞ: Αν χτίζαμε νέο Σκάφος, θα μπορούσαμε να επιστρέψουμε στον περιπετειώδη τρόπο ζωής μας. Φαντάσου σε πόσα νέα μέρη θα μπορούσαμε να πάμε! Η φυλή μας δεν θα ήταν κολλημένη εδώ, σε αυτό το αστρικό σύστημα.
+			ΙΛΕΞ: Αν χτίζαμε νέο Σκάφος, θα μπορούσαμε να επιστρέψουμε στον περιπετειώδη τρόπο ζωής μας. Φαντάσου σε πόσα νέα μέρη θα μπορούσαμε να πάμε! Η φυλή μας δε θα ήταν κολλημένη εδώ, σε αυτό το αστρικό σύστημα.
 		</value>
 	</entry>
 	<entry>
@@ -4891,7 +4891,7 @@
 			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
 		</key>
 		<value>
-			ΙΛΕΞ: Μάλλον δεν θα ήταν δύσκολο να βρούμε ανταλλακτικά αν σταματούσαμε να χτίζουμε άλλα καινούρια πράγματα, και αν διαλύαμε άλλες κατασκευές (όπως τους πύργους στον &lt;color=lightblue&gt;Δίδυμο της Στάχτης&lt;/color&gt;) για ανταλλακτικά.
+			ΙΛΕΞ: Μάλλον δε θα ήταν δύσκολο να βρούμε ανταλλακτικά αν σταματούσαμε να χτίζουμε άλλα καινούρια πράγματα, και αν διαλύαμε άλλες κατασκευές (όπως τους πύργους στον &lt;color=lightblue&gt;Δίδυμο της Στάχτης&lt;/color&gt;) για ανταλλακτικά.
 		</value>
 	</entry>
 	<entry>
@@ -4960,11 +4960,11 @@
 	</entry>
 	<entry>
 		<key>FILIX: This planet doesn’t appear eager to have guests. We are certainly unwelcome on its surface.</key>
-		<value>ΦΙΛΙΞ: Αυτός ο πλανήτης δεν φαίνεται πρόθυμος να έχει επισκέπτες. Σίγουρα είμαστε ανεπιθύμητοι στην επιφάνειά του.</value>
+		<value>ΦΙΛΙΞ: Αυτός ο πλανήτης δε φαίνεται πρόθυμος να έχει επισκέπτες. Σίγουρα είμαστε ανεπιθύμητοι στην επιφάνειά του.</value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to find shelter, and quickly. The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; won’t be gone for long.</key>
-		<value>ΘΑΤΣ: Πρέπει να βρούμε καταφύγιο, και γρήγορα. Το &lt;color=lightblue&gt;ηφαιστειακό φεγγάρι&lt;/color&gt; δεν θα λείψει για πολύ.</value>
+		<value>ΘΑΤΣ: Πρέπει να βρούμε καταφύγιο, και γρήγορα. Το &lt;color=lightblue&gt;ηφαιστειακό φεγγάρι&lt;/color&gt; δε θα λείψει για πολύ.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I observed several promising sites below the surface, but we’ll need to construct a way for everyone to climb safely down this cliff. Perhaps we could build platforms?</key>
@@ -5056,7 +5056,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</key>
-		<value>ΠΛΟΥΜ: Θυσιάσαμε πάρα πολλά για να φτάσουμε εδώ. Δεν μπορώ να επιτρέψω (&lt;i&gt;δεν θα&lt;/i&gt; επιτρέψω) να πάει χαμένη η μεγαλύτερη απώλεια της φυλής μας.</value>
+		<value>ΠΛΟΥΜ: Θυσιάσαμε πάρα πολλά για να φτάσουμε εδώ. Δεν μπορώ να επιτρέψω (&lt;i&gt;δε θα&lt;/i&gt; επιτρέψω) να πάει χαμένη η μεγαλύτερη απώλεια της φυλής μας.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
@@ -5116,7 +5116,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Then I imagine there’d be none of us left!</key>
-		<value>ΠΛΟΥΜ: Τότε φαντάζομαι ότι δεν θα είχε μείνει κανείς μας!</value>
+		<value>ΠΛΟΥΜ: Τότε φαντάζομαι ότι δε θα είχε μείνει κανείς μας!</value>
 	</entry>
 	<entry>
 		<key>FILIX: Hypothesis: There can exist too much lava.</key>
@@ -5211,7 +5211,7 @@
 			Maybe it doesn’t have to be us.
 		</key>
 		<value>
-			Ίσως δεν χρειάζεται να είμαστε εμείς.
+			Ίσως δε χρειάζεται να είμαστε εμείς.
 		</value>
 	</entry>
 	<entry>
@@ -5437,7 +5437,7 @@
 			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
 		</key>
 		<value>
-			ΜΕΛΟΡΕ: Σημείωση: Πρέπει να βιαστούμε, γιατί το πέρασμα γεμίζει άμμο. Μην αφήσετε να σας θάψει η άμμος, και βεβαιωθείτε ότι δεν χάνεται κανείς!
+			ΜΕΛΟΡΕ: Σημείωση: Πρέπει να βιαστούμε, γιατί το πέρασμα γεμίζει άμμο. Μην αφήσετε να σας θάψει η άμμος, και βεβαιωθείτε ότι δε χάνεται κανείς!
 		</value>
 	</entry>
 	<entry>
@@ -5486,7 +5486,7 @@
 	</entry>
 	<entry>
 		<key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
-		<value>ΛΑΜΙ: Γιατί το αλλάζουμε; Είναι πολύ δύσκολο αν δεν βλέπεις τίποτα!</value>
+		<value>ΛΑΜΙ: Γιατί το αλλάζουμε; Είναι πολύ δύσκολο αν δε βλέπεις τίποτα!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
@@ -5494,7 +5494,7 @@
 	</entry>
 	<entry>
 		<key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
-		<value>ΙΛΕΞ: Ενημέρωση κανόνα: Δεν πειράζει αν τα μικρότερα παιδιά δεν δένουν τα μάτια τους όταν τα φυλάνε. (Οι υπόλοιποι θα τα δένουμε κανονικά, για επιστημονική ακρίβεια και για να είναι πιο δίκαιο το παιχνίδι.)</value>
+		<value>ΙΛΕΞ: Ενημέρωση κανόνα: Δεν πειράζει αν τα μικρότερα παιδιά δε δένουν τα μάτια τους όταν τα φυλάνε. (Οι υπόλοιποι θα τα δένουμε κανονικά, για επιστημονική ακρίβεια και για να είναι πιο δίκαιο το παιχνίδι.)</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</key>
@@ -5541,7 +5541,7 @@
 			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
 		</key>
 		<value>
-			ΚΟΛΕΟΥΣ: Ο περιπλανώμενος βράχος επέστρεψε! Ποτέ άλλοτε δεν χάρηκα τόσο να δω ένα ιζηματογενές δείγμα.
+			ΚΟΛΕΟΥΣ: Ο περιπλανώμενος βράχος επέστρεψε! Ποτέ άλλοτε δε χάρηκα τόσο να δω ένα ιζηματογενές δείγμα.
 		</value>
 	</entry>
 	<entry>
@@ -5573,7 +5573,7 @@
 			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
 		</key>
 		<value>
-			ΜΕΛΟΡΕ: Φίλοι, ο Κόλεους ανακάλυψε έναν νέο κβαντικό κανόνα! (Μου υποσχέθηκε επίσης ότι δεν θα ξαναεξαφανιστεί, ακόμη κι αν &lt;i&gt;όντως&lt;/i&gt; μάθει κάτι χρήσιμο από αυτό!)
+			ΜΕΛΟΡΕ: Φίλοι, ο Κόλεους ανακάλυψε έναν νέο κβαντικό κανόνα! (Μου υποσχέθηκε επίσης ότι δε θα ξαναεξαφανιστεί, ακόμη κι αν &lt;i&gt;όντως&lt;/i&gt; μάθει κάτι χρήσιμο από αυτό!)
 		</value>
 	</entry>
 	<entry>
@@ -5628,7 +5628,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
 		<value>
-			ΣΕΚΑ: Μόλις που ακούγεται πια, αλλά ο φάρος του &lt;color=orange&gt;Σκάφους&lt;/color&gt; εξακολουθεί να εκπέμπει αχνά μέσα από αυτόν τον αγκαθωτό σπόρο. Όμως το άνοιγμα είναι πολύ μικρό ακόμη και για έναν μόνο Νομάι, οπότε η &lt;color=orange&gt;κάψουλα διαφυγής&lt;/color&gt; μας δεν θα μπορούσε να έχει περάσει από εδώ.
+			ΣΕΚΑ: Μόλις που ακούγεται πια, αλλά ο φάρος του &lt;color=orange&gt;Σκάφους&lt;/color&gt; εξακολουθεί να εκπέμπει αχνά μέσα από αυτόν τον αγκαθωτό σπόρο. Όμως το άνοιγμα είναι πολύ μικρό ακόμη και για έναν μόνο Νομάι, οπότε η &lt;color=orange&gt;κάψουλα διαφυγής&lt;/color&gt; μας δε θα μπορούσε να έχει περάσει από εδώ.
 		</value>
 	</entry>
 	<entry>
@@ -5644,7 +5644,7 @@
 			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
 		</key>
 		<value>
-			ΣΕΚΑ: Το να είμαστε τόσο κοντά στη θέση του &lt;color=orange&gt;Σκάφους&lt;/color&gt; και ταυτόχρονα τόσο μακριά είναι... δύσκολο. Χειρότερα, ο φάρος του &lt;color=orange&gt;Σκάφους&lt;/color&gt; σβήνει· σύντομα δεν θα μπορούμε να τον ακούμε.
+			ΣΕΚΑ: Το να είμαστε τόσο κοντά στη θέση του &lt;color=orange&gt;Σκάφους&lt;/color&gt; και ταυτόχρονα τόσο μακριά είναι... δύσκολο. Χειρότερα, ο φάρος του &lt;color=orange&gt;Σκάφους&lt;/color&gt; σβήνει· σύντομα δε θα μπορούμε να τον ακούμε.
 		</value>
 	</entry>
 	<entry>
@@ -5713,11 +5713,11 @@
 	</entry>
 	<entry>
 		<key>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</key>
-		<value>Σάρωση του εξωτερικού περιβάλλοντος... Η σάρωση ολοκληρώθηκε. Δεν ανιχνεύτηκε βαρύτητα. Δεν ανιχνεύτηκε αναπνεύσιμος αέρας. Ανιχνεύτηκαν πολλαπλές μορφές ζωής (πιθανώς εχθρικές). Συμπέρασμα: ΜΗΝ ΒΓΕΙΤΕ ΑΠΟ ΤΗΝ ΚΑΨΟΥΛΑ.</value>
+		<value>Σάρωση του εξωτερικού περιβάλλοντος... Η σάρωση ολοκληρώθηκε. Δεν ανιχνεύτηκε βαρύτητα. Δεν ανιχνεύτηκε αναπνεύσιμος αέρας. Ανιχνεύτηκαν πολλαπλές μορφές ζωής (πιθανώς εχθρικές). Συμπέρασμα: ΜΗ ΒΓΕΙΤΕ ΑΠΟ ΤΗΝ ΚΑΨΟΥΛΑ.</value>
 	</entry>
 	<entry>
 		<key>The arch and the crystal do not naturally meet.</key>
-		<value>Η αψίδα και ο κρύσταλλος δεν συναντιούνται από τη φύση τους.</value>
+		<value>Η αψίδα και ο κρύσταλλος δε συναντιούνται από τη φύση τους.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: I’m curious: Is sending a being’s memories back in time the same as sending the being itself back in time?</key>
@@ -5733,7 +5733,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Wouldn’t both actions be effectively the same?</key>
-		<value>ΚΑΣΑΒΑ: Δεν θα ήταν και οι δύο ενέργειες ουσιαστικά ίδιες;</value>
+		<value>ΚΑΣΑΒΑ: Δε θα ήταν και οι δύο ενέργειες ουσιαστικά ίδιες;</value>
 	</entry>
 	<entry>
 		<key>DAZ: Suppose that time was being rewritten. I believe this is different than receiving memories from what is effectively the future.</key>
@@ -5841,7 +5841,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: I have bad news, Avens. Yarrow says there was a problem with the proposed power source, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; won’t be asked to fire.</key>
-		<value>ΚΑΣΑΒΑ: Έχω άσχημα νέα, Έιβενς. Ο Γιάροου λέει ότι υπήρξε πρόβλημα με την προτεινόμενη πηγή ενέργειας, οπότε δεν θα ζητηθεί από το &lt;color=orange&gt;Τροχιακό Κανόνι Βολίδας&lt;/color&gt; να εκτοξεύσει.</value>
+		<value>ΚΑΣΑΒΑ: Έχω άσχημα νέα, Έιβενς. Ο Γιάροου λέει ότι υπήρξε πρόβλημα με την προτεινόμενη πηγή ενέργειας, οπότε δε θα ζητηθεί από το &lt;color=orange&gt;Τροχιακό Κανόνι Βολίδας&lt;/color&gt; να εκτοξεύσει.</value>
 	</entry>
 	<entry>
 		<key>AVENS: I hope you’re pulling my locomotive limb here, Cassava.</key>
@@ -5869,7 +5869,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: You won’t ask the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to use so much power that it breaks, will you?</key>
-		<value>ΠΡΙΒΕΤ: Δεν θα ζητήσεις από το &lt;color=orange&gt;Τροχιακό Κανόνι Βολίδας&lt;/color&gt; να χρησιμοποιήσει τόση ισχύ που να σπάσει, έτσι;</value>
+		<value>ΠΡΙΒΕΤ: Δε θα ζητήσεις από το &lt;color=orange&gt;Τροχιακό Κανόνι Βολίδας&lt;/color&gt; να χρησιμοποιήσει τόση ισχύ που να σπάσει, έτσι;</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;’s structural integrity slightly?</key>
@@ -5877,7 +5877,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: I would mind, Mallow! I would mind, because we won’t be capable of receiving our probe’s data if the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is destroyed!</key>
-		<value>ΠΡΙΒΕΤ: Εγώ νοιάζομαι, Μάλοου! Νοιάζομαι, γιατί δεν θα μπορούμε να λάβουμε τα δεδομένα της βολίδας μας αν καταστραφεί η &lt;color=orange&gt;Μονάδα Παρακολούθησης Βολίδας&lt;/color&gt;!</value>
+		<value>ΠΡΙΒΕΤ: Εγώ νοιάζομαι, Μάλοου! Νοιάζομαι, γιατί δε θα μπορούμε να λάβουμε τα δεδομένα της βολίδας μας αν καταστραφεί η &lt;color=orange&gt;Μονάδα Παρακολούθησης Βολίδας&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>AVENS: Mallow, my better 50 percent! Cassava is sending the last of the &lt;color=orange&gt;cannon&lt;/color&gt; components. Soon (relatively speaking), we’ll know the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s precise location!</key>
@@ -5937,7 +5937,7 @@
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Sun Station&lt;/color&gt; is useless. It will never, and &lt;i&gt;could&lt;/i&gt; never, cause the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-		<value>ΠΑΪ: Ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; είναι άχρηστος. Δεν θα κάνει ποτέ, και &lt;i&gt;δεν θα μπορούσε&lt;/i&gt; ποτέ να κάνει, τον &lt;color=lightblue&gt;ήλιο&lt;/color&gt; να εκραγεί.</value>
+		<value>ΠΑΪ: Ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; είναι άχρηστος. Δε θα κάνει ποτέ, και &lt;i&gt;δε θα μπορούσε&lt;/i&gt; ποτέ να κάνει, τον &lt;color=lightblue&gt;ήλιο&lt;/color&gt; να εκραγεί.</value>
 	</entry>
 	<entry>
 		<key>PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over.</key>
@@ -6104,7 +6104,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
 		<value>
-			ΠΟΟΥΚ: Δεν διαφωνώ. &lt;i&gt;Θα&lt;/i&gt; σήμαινε ότι κατά λάθος κατέρριψα αρκετές θεμελιώδεις θεωρίες για αυτό το σύμπαν. Θα έπρεπε να αναθεωρήσουμε όλες μας τις πεποιθήσεις για τη φύση του χρόνου.
+			ΠΟΟΥΚ: Δε διαφωνώ. &lt;i&gt;Θα&lt;/i&gt; σήμαινε ότι κατά λάθος κατέρριψα αρκετές θεμελιώδεις θεωρίες για αυτό το σύμπαν. Θα έπρεπε να αναθεωρήσουμε όλες μας τις πεποιθήσεις για τη φύση του χρόνου.
 		</value>
 	</entry>
 	<entry>
@@ -6385,7 +6385,7 @@
 	</entry>
 	<entry>
 		<key>GossanCoach3That’s not what Slate says...</key>
-		<value>Δεν λέει αυτό ο Σλέιτ...</value>
+		<value>Δε λέει αυτό ο Σλέιτ...</value>
 	</entry>
 	<entry>
 		<key>Coach4Is that so? Funny, I seem to recall the first time you strapped on a jetpack, we had to come fish you out of the crater near the south pole.</key>
@@ -6489,7 +6489,7 @@
 	</entry>
 	<entry>
 		<key>NoSuitOi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again.</key>
-		<value>Ε, μην ξεχάσεις να φορέσεις στολή! Δεν θέλω να ξανάρθω να σε ψαρέψω από εκεί μέσα.</value>
+		<value>Ε, μην ξεχάσεις να φορέσεις στολή! Δε θέλω να ξανάρθω να σε ψαρέψω από εκεί μέσα.</value>
 	</entry>
 	<entry>
 		<key>SignHey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher.\\n\\n-Gossan</key>
@@ -6529,7 +6529,7 @@
 	</entry>
 	<entry>
 		<key>Friend4Maybe you should sit down for a bit and take it easy. I’d hate for anything bad to happen if you tried to launch while you’re not feeling great.</key>
-		<value>Ίσως πρέπει να καθίσεις λίγο και να το πάρεις ήρεμα. Θα ήταν κρίμα να συμβεί κάτι κακό αν προσπαθούσες να εκτοξευτείς ενώ δεν νιώθεις καλά.</value>
+		<value>Ίσως πρέπει να καθίσεις λίγο και να το πάρεις ήρεμα. Θα ήταν κρίμα να συμβεί κάτι κακό αν προσπαθούσες να εκτοξευτείς ενώ δε νιώθεις καλά.</value>
 	</entry>
 	<entry>
 		<key>Friend4But hey, when you &lt;i&gt;are&lt;/i&gt; ready, then you can make the most of our translator tool! &lt;color=grey&gt;Sniff...&lt;/color&gt;&lt;Pause/&gt; I can’t believe it’s all grown up and leaving for space already.</key>
@@ -6553,7 +6553,7 @@
 	</entry>
 	<entry>
 		<key>Friend5I don’t think you’re going to get any answers from the museum statue, but Gabbro said they were going back to Giant’s Deep. Dunno which island they’re on, though.</key>
-		<value>Δεν νομίζω ότι θα πάρεις απαντήσεις από το άγαλμα του μουσείου, αλλά ο Γκάμπρο είπε ότι γύριζε στον Τζάιαντς Ντιπ. Δεν ξέρω σε ποιο νησί είναι, όμως.</value>
+		<value>Δε νομίζω ότι θα πάρεις απαντήσεις από το άγαλμα του μουσείου, αλλά ο Γκάμπρο είπε ότι γύριζε στον Τζάιαντς Ντιπ. Δεν ξέρω σε ποιο νησί είναι, όμως.</value>
 	</entry>
 	<entry>
 		<key>Friend5Maybe they’d be able to tell you more? On the other hand, Gabbro’s, y’know, &lt;i&gt;Gabbro&lt;/i&gt;, so maybe you’d be better off searching for more info on your own.</key>
@@ -6661,7 +6661,7 @@
 	</entry>
 	<entry>
 		<key>Marl1That big tree in the village would be the perfect choice. I wouldn’t mind helping out the space program. Just say the word!</key>
-		<value>Εκείνο το μεγάλο δέντρο στο χωριό θα ήταν τέλεια επιλογή. Δεν θα με πείραζε να βοηθήσω το διαστημικό πρόγραμμα. Μια κουβέντα να μου πεις!</value>
+		<value>Εκείνο το μεγάλο δέντρο στο χωριό θα ήταν τέλεια επιλογή. Δε θα με πείραζε να βοηθήσω το διαστημικό πρόγραμμα. Μια κουβέντα να μου πεις!</value>
 	</entry>
 	<entry>
 		<key>MarlMarl1The current launch pad is fine, thanks.</key>
@@ -6821,7 +6821,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
-		<value>Δεν φαίνεται τίποτα φρικτό - απλώς σκαλιά που κατεβαίνουν. Τα σκαλιά τα αντέχω! Αφού μαζέψω τα εφόδιά μου, θα ακολουθήσω το μονοπάτι να δω πού οδηγεί.</value>
+		<value>Δε φαίνεται τίποτα φρικτό - απλώς σκαλιά που κατεβαίνουν. Τα σκαλιά τα αντέχω! Αφού μαζέψω τα εφόδιά μου, θα ακολουθήσω το μονοπάτι να δω πού οδηγεί.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalHurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</key>
@@ -6841,7 +6841,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalAt first I thought this was an old Nomai settlement, but on closer inspection, I don’t think anyone ever lived here. These buildings are atypical for Nomai dwellings.</key>
-		<value>Στην αρχή νόμιζα ότι ήταν παλιός νομαϊκός οικισμός, αλλά κοιτώντας πιο προσεκτικά, δεν νομίζω ότι έζησε ποτέ κανείς εδώ. Αυτά τα κτίρια είναι άτυπα για νομαϊκές κατοικίες.</value>
+		<value>Στην αρχή νόμιζα ότι ήταν παλιός νομαϊκός οικισμός, αλλά κοιτώντας πιο προσεκτικά, δε νομίζω ότι έζησε ποτέ κανείς εδώ. Αυτά τα κτίρια είναι άτυπα για νομαϊκές κατοικίες.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
@@ -6945,7 +6945,7 @@
 	</entry>
 	<entry>
 		<key>LaunchI’ll be watching from a safe distance, obviously, and mostly to make sure nothing catches fire. But watching nonetheless.</key>
-		<value>Θα παρακολουθώ από ασφαλή απόσταση, προφανώς, και κυρίως για να βεβαιωθώ ότι δεν θα πάρει τίποτα φωτιά. Αλλά θα παρακολουθώ.</value>
+		<value>Θα παρακολουθώ από ασφαλή απόσταση, προφανώς, και κυρίως για να βεβαιωθώ ότι δε θα πάρει τίποτα φωτιά. Αλλά θα παρακολουθώ.</value>
 	</entry>
 	<entry>
 		<key>GoodGlad to hear it.</key>
@@ -7133,7 +7133,7 @@
 	</entry>
 	<entry>
 		<key>Intro1Me? I was using the old scout launcher and saw smoke in one of the photos, so I thought I’d come over here myself and take a look.</key>
-		<value>Εγώ; Είδα κάτι να πέφτει πέρα από τον ορίζοντα και δεν μου άρεσε αυτό που έβλεπα στις φωτογραφίες που μου έστελνε ο Μικρός μου Ανιχνευτής, οπότε είπα να έρθω κι εγώ να ρίξω μια ματιά.</value>
+		<value>Εγώ; Είδα κάτι να πέφτει πέρα από τον ορίζοντα και δε μου άρεσε αυτό που έβλεπα στις φωτογραφίες που μου έστελνε ο Μικρός μου Ανιχνευτής, οπότε είπα να έρθω κι εγώ να ρίξω μια ματιά.</value>
 	</entry>
 	<entry>
 		<key>TektiteIntro1So what crashed?</key>
@@ -7193,11 +7193,11 @@
 	</entry>
 	<entry>
 		<key>Tektite3I don’t like the look of this thing, hatchling, and that’s a fact. Think I’ll set Marl and Hal loose on it. Best get rid of this mess sooner rather than later, and no one can remove an unwanted plant faster than a tree keeper can.</key>
-		<value>Δεν μου αρέσει καθόλου η όψη αυτού του πράγματος, μικρούλη, και είναι γεγονός. Λέω να βάλω τον Μαρλ και τον Χαλ να το αναλάβουν. Καλύτερα να ξεφορτωθούμε αυτή τη σαβούρα το συντομότερο, και κανείς δεν ξεριζώνει ανεπιθύμητο φυτό πιο γρήγορα από έναν δεντροκόμο.</value>
+		<value>Δε μου αρέσει καθόλου η όψη αυτού του πράγματος, μικρούλη, και είναι γεγονός. Λέω να βάλω τον Μαρλ και τον Χαλ να το αναλάβουν. Καλύτερα να ξεφορτωθούμε αυτή τη σαβούρα το συντομότερο, και κανείς δεν ξεριζώνει ανεπιθύμητο φυτό πιο γρήγορα από έναν δεντροκόμο.</value>
 	</entry>
 	<entry>
 		<key>Tektite3I’ll have to get a look at what’s inside the seed, first, though. Don’t want to set anybody to hacking up a potentially dangerous plant without a better idea of what’s lurking inside there.</key>
-		<value>Πρέπει όμως πρώτα να δω τι υπάρχει μέσα στον σπόρο. Δεν θέλω να βάλω κανέναν να πελεκάει ένα πιθανώς επικίνδυνο φυτό χωρίς να ξέρουμε καλύτερα τι παραμονεύει εκεί μέσα.</value>
+		<value>Πρέπει όμως πρώτα να δω τι υπάρχει μέσα στον σπόρο. Δε θέλω να βάλω κανέναν να πελεκάει ένα πιθανώς επικίνδυνο φυτό χωρίς να ξέρουμε καλύτερα τι παραμονεύει εκεί μέσα.</value>
 	</entry>
 	<entry>
 		<key>Tektite3Tuff can help me haul the old &lt;color=orange&gt;scout launcher&lt;/color&gt; over here. Obviously the opening is too small for someone to fit inside, and anyway, I’m not gonna blindly stick my hands into anything that looks as unpleasant as that seed does.</key>
@@ -7249,7 +7249,7 @@
 	</entry>
 	<entry>
 		<key>Tektite6Listen here, don’t go telling Gneiss about the harmonica music, okay? They’ll never let me get rid of this darn seed if they suspect it has any musical talent.</key>
-		<value>Άκου εδώ, μην πας να πεις στον Γκνάις για τη μουσική της φυσαρμόνικας, εντάξει; Δεν θα με αφήσει ποτέ να ξεφορτωθώ αυτόν τον καταραμένο σπόρο αν υποψιαστεί ότι έχει μουσικό ταλέντο.</value>
+		<value>Άκου εδώ, μην πας να πεις στον Γκνάις για τη μουσική της φυσαρμόνικας, εντάξει; Δε θα με αφήσει ποτέ να ξεφορτωθώ αυτόν τον καταραμένο σπόρο αν υποψιαστεί ότι έχει μουσικό ταλέντο.</value>
 	</entry>
 	<entry>
 		<key>Tektite7Back in my younger days, I explored everywhere there is to go on Timber Hearth and saw everything there is to see, and then some. Trust me, we don’t have anything like this.</key>
@@ -7281,7 +7281,7 @@
 	</entry>
 	<entry>
 		<key>HideAndSeek2We &lt;i&gt;wanted&lt;/i&gt; to play hide and seek, but Moraine won’t let us borrow their signalscope because it’s “really delicate” and “not supposed to be thrown around like that.”</key>
-		<value>&lt;i&gt;Θέλαμε&lt;/i&gt; να παίξουμε κρυφτό, αλλά ο Μορέιν δεν μας δανείζει το σηματοσκόπιό του γιατί είναι «πολύ ευαίσθητο» και «δεν είναι για να το πετάτε έτσι».</value>
+		<value>&lt;i&gt;Θέλαμε&lt;/i&gt; να παίξουμε κρυφτό, αλλά ο Μορέιν δε μας δανείζει το σηματοσκόπιό του γιατί είναι «πολύ ευαίσθητο» και «δεν είναι για να το πετάτε έτσι».</value>
 	</entry>
 	<entry>
 		<key>HideAndSeek2Hey, hey, can we use &lt;i&gt;your&lt;/i&gt; signalscope? Can we? Can we, please? We’ll even let you be “it”!</key>
@@ -7293,7 +7293,7 @@
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek2Sorry, can’t today.</key>
-		<value>Συγγνώμη, σήμερα δεν γίνεται.</value>
+		<value>Συγγνώμη, σήμερα δε γίνεται.</value>
 	</entry>
 	<entry>
 		<key>AgreeToPlayWoohoo! Okay, here are the rules. Galena and me will hide with these radios, and you’ll use your signalscope to find us.</key>
@@ -7341,7 +7341,7 @@
 	</entry>
 	<entry>
 		<key>ShyKidB1Are you going into space and never coming back like Feldspar did?</key>
-		<value>Θα πας στο διάστημα και δεν θα ξαναγυρίσεις ποτέ, όπως ο Φέλντσπαρ;</value>
+		<value>Θα πας στο διάστημα και δε θα ξαναγυρίσεις ποτέ, όπως ο Φέλντσπαρ;</value>
 	</entry>
 	<entry>
 		<key>TephraShyKidB1...What?</key>
@@ -7357,11 +7357,11 @@
 	</entry>
 	<entry>
 		<key>WhatYeah, um, Hornfels says Feldspar went away into space and didn’t come back. Hornfels says Feldspar was the best pilot ever, but no one knows what happened to them.</key>
-		<value>Ναι, εμ, ο Χόρνφελς λέει ότι ο Φέλντσπαρ έφυγε για το διάστημα και δεν γύρισε. Ο Χόρνφελς λέει ότι ο Φέλντσπαρ ήταν ο καλύτερος πιλότος που υπήρξε ποτέ, αλλά κανείς δεν ξέρει τι του συνέβη.</value>
+		<value>Ναι, εμ, ο Χόρνφελς λέει ότι ο Φέλντσπαρ έφυγε για το διάστημα και δε γύρισε. Ο Χόρνφελς λέει ότι ο Φέλντσπαρ ήταν ο καλύτερος πιλότος που υπήρξε ποτέ, αλλά κανείς δεν ξέρει τι του συνέβη.</value>
 	</entry>
 	<entry>
 		<key>TephraWhatHornfels probably shouldn’t be telling you stuff like this.</key>
-		<value>Ο Χόρνφελς μάλλον δεν θα έπρεπε να σου λέει τέτοια πράγματα.</value>
+		<value>Ο Χόρνφελς μάλλον δε θα έπρεπε να σου λέει τέτοια πράγματα.</value>
 	</entry>
 	<entry>
 		<key>TephraWhatThat’s not something I want to think about right now.</key>
@@ -7381,11 +7381,11 @@
 	</entry>
 	<entry>
 		<key>ComebackThat’s what Feldspar said, too, but they never did.</key>
-		<value>Αυτό έλεγε κι ο Φέλντσπαρ, αλλά δεν γύρισε ποτέ.</value>
+		<value>Αυτό έλεγε κι ο Φέλντσπαρ, αλλά δε γύρισε ποτέ.</value>
 	</entry>
 	<entry>
 		<key>ComebackHornfels will be really sad if you don’t come back, like how sad it makes them to talk about Feldspar. So you should make sure you don’t get lost in space, too.</key>
-		<value>Ο Χόρνφελς θα στεναχωρηθεί πολύ αν δεν γυρίσεις, όπως στεναχωριέται όταν μιλάει για τον Φέλντσπαρ. Οπότε πρέπει να φροντίσεις να μη χαθείς κι εσύ στο διάστημα.</value>
+		<value>Ο Χόρνφελς θα στεναχωρηθεί πολύ αν δε γυρίσεις, όπως στεναχωριέται όταν μιλάει για τον Φέλντσπαρ. Οπότε πρέπει να φροντίσεις να μη χαθείς κι εσύ στο διάστημα.</value>
 	</entry>
 	<entry>
 		<key>DisturbingBut Hornfels says no one knows what happened to Feldspar. Hornfels says they got lost in space even though they were the best pilot ever.</key>
@@ -7449,7 +7449,7 @@
 	</entry>
 	<entry>
 		<key>TuffZeroYou don’t &lt;i&gt;look&lt;/i&gt; fine...</key>
-		<value>Δεν &lt;i&gt;φαίνεσαι&lt;/i&gt; καλά...</value>
+		<value>Δε &lt;i&gt;φαίνεσαι&lt;/i&gt; καλά...</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYeah, I’m going to drift around down there for a while.</key>
@@ -7525,7 +7525,7 @@
 	</entry>
 	<entry>
 		<key>DirtSome fresh dirt? Not much happening down here lately. Let me think...</key>
-		<value>Φρέσκα νέα; Δεν γίνονται και πολλά εδώ κάτω τελευταία. Άσε με να σκεφτώ...</value>
+		<value>Φρέσκα νέα; Δε γίνονται και πολλά εδώ κάτω τελευταία. Άσε με να σκεφτώ...</value>
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
@@ -7553,7 +7553,7 @@
 	</entry>
 	<entry>
 		<key>Probe2Well, I better get back to work. This ore’s not going to mine itself, you know.</key>
-		<value>Λοιπόν, καλύτερα να γυρίσω στη δουλειά. Αυτό το μετάλλευμα δεν θα εξορυχτεί μόνο του, ξέρεις.</value>
+		<value>Λοιπόν, καλύτερα να γυρίσω στη δουλειά. Αυτό το μετάλλευμα δε θα εξορυχτεί μόνο του, ξέρεις.</value>
 	</entry>
 	<entry>
 		<key>TooSickHurgh...</key>
@@ -7709,7 +7709,7 @@
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Aren’t you gonna go into space? Aren’t you? You better not have changed your mind!</key>
-		<value>Δεν θα πας στο διάστημα; Δεν θα πας; Καλύτερα να μην άλλαξες γνώμη!</value>
+		<value>Δε θα πας στο διάστημα; Δε θα πας; Καλύτερα να μην άλλαξες γνώμη!</value>
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1Hey, I’m still going!</key>
@@ -7937,7 +7937,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
-		<value>Καλή τύχη με την εξερεύνηση. Εμ, αν μάθεις τίποτα για τους Νομάι, θα χαιρόμουν πολύ να το ακούσω, &lt;size=20&gt;αν δεν σου είναι κόπος;&lt;/size&gt;</value>
+		<value>Καλή τύχη με την εξερεύνηση. Εμ, αν μάθεις τίποτα για τους Νομάι, θα χαιρόμουν πολύ να το ακούσω, &lt;size=20&gt;αν δε σου είναι κόπος;&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
@@ -7981,7 +7981,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_ExitOh, okay. If you do learn something new about the Nomai, though, I’d love to hear it! Um, if you don’t mind, I mean.</key>
-		<value>Α, εντάξει. Αν πάντως μάθεις κάτι καινούριο για τους Νομάι, θα χαιρόμουν πολύ να το ακούσω! Εμ, αν δεν σε πειράζει, εννοώ.</value>
+		<value>Α, εντάξει. Αν πάντως μάθεις κάτι καινούριο για τους Νομάι, θα χαιρόμουν πολύ να το ακούσω! Εμ, αν δε σε πειράζει, εννοώ.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1Wow! So then, the Nomai probably came here from somewhere outside the solar system. And they must have been in trouble when they launched their escape pod... but what kind of trouble?</key>
@@ -8017,7 +8017,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3It really makes you appreciate living somewhere like Timber Hearth. You know, somewhere that isn’t being constantly bombarded with meteors and rocks and stuff.</key>
-		<value>Σε κάνει πραγματικά να εκτιμάς το ότι ζεις κάπου σαν το Τίμπερ Χαρθ. Ξέρεις, κάπου που δεν βομβαρδίζεται συνέχεια με μετεωρίτες και βράχους και τα λοιπά.</value>
+		<value>Σε κάνει πραγματικά να εκτιμάς το ότι ζεις κάπου σαν το Τίμπερ Χαρθ. Ξέρεις, κάπου που δε βομβαρδίζεται συνέχεια με μετεωρίτες και βράχους και τα λοιπά.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
@@ -8077,7 +8077,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7I guess if I hadn’t wanted to learn why the Nomai disappeared, I’d never have left Timber Hearth and come out here, or had any of these adventures.</key>
-		<value>Υποθέτω ότι αν δεν είχα θελήσει να μάθω γιατί εξαφανίστηκαν οι Νομάι, δεν θα είχα φύγει ποτέ από το Τίμπερ Χαρθ, ούτε θα είχα ζήσει καμία από αυτές τις περιπέτειες.</value>
+		<value>Υποθέτω ότι αν δεν είχα θελήσει να μάθω γιατί εξαφανίστηκαν οι Νομάι, δε θα είχα φύγει ποτέ από το Τίμπερ Χαρθ, ούτε θα είχα ζήσει καμία από αυτές τις περιπέτειες.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7...Don’t get me wrong, space is terrifying! But, you know, it has its moments.</key>
@@ -8085,7 +8085,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8AHHH! That doesn’t make any sense! I don’t understand! I am very excited for you, though! P-please stop yelling!</key>
-		<value>ΑΑΑΧ! Αυτό δεν βγάζει κανένα νόημα! Δεν καταλαβαίνω! Πάντως χαίρομαι πολύ για σένα! Σ-σε παρακαλώ σταμάτα να φωνάζεις!</value>
+		<value>ΑΑΑΧ! Αυτό δε βγάζει κανένα νόημα! Δεν καταλαβαίνω! Πάντως χαίρομαι πολύ για σένα! Σ-σε παρακαλώ σταμάτα να φωνάζεις!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
@@ -8121,7 +8121,7 @@
 	</entry>
 	<entry>
 		<key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
-		<value>Το σώμα των Νομάι ήταν πιθανότατα προσαρμοσμένο για ζωή αποκλειστικά στη στεριά. Οι διαφορές στην ανατομία τους, όπως η εντυπωσιακά εύθραυστη οστική τους δομή, μας δείχνουν ότι οι Χάρθιαν δεν θα μπορούσαν να έχουν προέλθει από αυτούς.</value>
+		<value>Το σώμα των Νομάι ήταν πιθανότατα προσαρμοσμένο για ζωή αποκλειστικά στη στεριά. Οι διαφορές στην ανατομία τους, όπως η εντυπωσιακά εύθραυστη οστική τους δομή, μας δείχνουν ότι οι Χάρθιαν δε θα μπορούσαν να έχουν προέλθει από αυτούς.</value>
 	</entry>
 	<entry>
 		<key>SignIt’s not clear where the Nomai originated from, or why they disappeared. We hope to find more clues to this puzzle as we explore our solar system.</key>
@@ -8373,7 +8373,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: That would be Pye. I told her we wouldn’t be traveling there by &lt;color=orange&gt;shuttle&lt;/color&gt;, and that the &lt;color=orange&gt;Sun Station&lt;/color&gt; doesn’t even have a landing pad, but she said she knew.</key>
-		<value>ΙΔΑΙΑ: Αυτή θα είναι η Πάι. Της είπα ότι δεν θα ταξιδεύαμε εκεί με &lt;color=orange&gt;άκατο&lt;/color&gt; και ότι ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δεν έχει καν πλατφόρμα προσγείωσης, αλλά είπε ότι το ήξερε.</value>
+		<value>ΙΔΑΙΑ: Αυτή θα είναι η Πάι. Της είπα ότι δε θα ταξιδεύαμε εκεί με &lt;color=orange&gt;άκατο&lt;/color&gt; και ότι ο &lt;color=orange&gt;Ηλιακός Σταθμός&lt;/color&gt; δεν έχει καν πλατφόρμα προσγείωσης, αλλά είπε ότι το ήξερε.</value>
 	</entry>
 	<entry>
 		<key>PYE: It’s a purely theoretical exercise on my part, Yarrow. Who doesn’t love computing a good low stellar orbit shuttle trajectory!</key>
@@ -8657,7 +8657,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: But I don’t fear the &lt;color=lightblue&gt;Eye&lt;/color&gt;, anymore. In fact, it became my fondest hope to see the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself, someday, but I fear this may be beyond my reach.</key>
-		<value>ΣΟΛΑΝΟΥΜ: Αλλά δεν φοβάμαι πια το &lt;color=lightblue&gt;Μάτι&lt;/color&gt;. Μάλιστα, έγινε η πιο γλυκιά μου ελπίδα να δω κάποτε το ίδιο το &lt;color=lightblue&gt;Μάτι&lt;/color&gt;, αλλά φοβάμαι ότι αυτό ίσως είναι πέρα από τις δυνάμεις μου.</value>
+		<value>ΣΟΛΑΝΟΥΜ: Αλλά δε φοβάμαι πια το &lt;color=lightblue&gt;Μάτι&lt;/color&gt;. Μάλιστα, έγινε η πιο γλυκιά μου ελπίδα να δω κάποτε το ίδιο το &lt;color=lightblue&gt;Μάτι&lt;/color&gt;, αλλά φοβάμαι ότι αυτό ίσως είναι πέρα από τις δυνάμεις μου.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: You may think I’m strange, but I have a hypothesis that I may not be entirely alive. Perhaps my journey has reached its end.</key>
@@ -8717,7 +8717,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: It’s comforting to know the statues will not pair until the project succeeds. Otherwise, I imagine the experience would be hard to endure!</key>
-		<value>ΡΑΜΙ: Είναι παρήγορο να ξέρω ότι τα αγάλματα δεν θα συζευχθούν παρά μόνο όταν το εγχείρημα πετύχει. Αλλιώς, φαντάζομαι ότι η εμπειρία θα ήταν δύσκολο να την αντέξεις!</value>
+		<value>ΡΑΜΙ: Είναι παρήγορο να ξέρω ότι τα αγάλματα δε θα συζευχθούν παρά μόνο όταν το εγχείρημα πετύχει. Αλλιώς, φαντάζομαι ότι η εμπειρία θα ήταν δύσκολο να την αντέξεις!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Ideally, they’ll only need to activate once the project succeeds; as a safety measure, however, the statues will also activate in the event of equipment failure.</key>
@@ -8821,11 +8821,11 @@
 	</entry>
 	<entry>
 		<key>PYE: How curious; Ramie thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Idaea.</key>
-		<value>ΠΑΪ: Πόσο περίεργο· η Ράμι λέει ότι είμαι σκέτο αέριο του γέλιου. Και δεν θυμάμαι να ζήτησα να παρακολουθείς αυτή τη συνομιλία, Ιδαία.</value>
+		<value>ΠΑΪ: Πόσο περίεργο· η Ράμι λέει ότι είμαι σκέτο αέριο του γέλιου. Και δε θυμάμαι να ζήτησα να παρακολουθείς αυτή τη συνομιλία, Ιδαία.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: I don’t see what state of matter you are has to do with this. And I don’t recall supporting the &lt;color=orange&gt;Sun Station&lt;/color&gt;’s construction, but here we are.</key>
-		<value>ΙΔΑΙΑ: Δεν βλέπω τι σχέση έχει με αυτό η κατάσταση της ύλης σου. Και δεν θυμάμαι να στήριξα την κατασκευή του &lt;color=orange&gt;Ηλιακού Σταθμού&lt;/color&gt;, κι όμως να ’μαστε.</value>
+		<value>ΙΔΑΙΑ: Δε βλέπω τι σχέση έχει με αυτό η κατάσταση της ύλης σου. Και δε θυμάμαι να στήριξα την κατασκευή του &lt;color=orange&gt;Ηλιακού Σταθμού&lt;/color&gt;, κι όμως να ’μαστε.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Hypothesis: Time spent away from the station would be beneficial to you both.</key>
@@ -8905,7 +8905,7 @@
 	</entry>
 	<entry>
 		<key>Chert2To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-		<value>Για να είμαι ειλικρινής, δεν έχω φύγει από αυτόν τον βυθό λίμνης. Δεν θέλω να καυχηθώ, αλλά είμαι πραγματικά πολύ καλός με τον Μικρό Ανιχνευτή, οπότε φωτογραφίζω τα πάντα από εδώ, από την κατασκήνωσή μου.</value>
+		<value>Για να είμαι ειλικρινής, δεν έχω φύγει από αυτόν τον βυθό λίμνης. Δε θέλω να καυχηθώ, αλλά είμαι πραγματικά πολύ καλός με τον Μικρό Ανιχνευτή, οπότε φωτογραφίζω τα πάντα από εδώ, από την κατασκήνωσή μου.</value>
 	</entry>
 	<entry>
 		<key>Chert2Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
@@ -8929,7 +8929,7 @@
 	</entry>
 	<entry>
 		<key>Chert3Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-		<value>Α, αν θέλεις να δεις κάτι ενδιαφέρον, ρίξε μια ματιά στον άλλο Δίδυμο μόλις αδειάσει λίγη ακόμη άμμος από πάνω του. Σου υπόσχομαι ότι δεν θα απογοητευτείς.</value>
+		<value>Α, αν θέλεις να δεις κάτι ενδιαφέρον, ρίξε μια ματιά στον άλλο Δίδυμο μόλις αδειάσει λίγη ακόμη άμμος από πάνω του. Σου υπόσχομαι ότι δε θα απογοητευτείς.</value>
 	</entry>
 	<entry>
 		<key>Chert4Supernovae look like extra bright stars to the naked eye, but if you zoom in with your signalscope you can tell that they're actually enormous explosions.</key>
@@ -9029,7 +9029,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4Oh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-		<value>Α, ναι, όλοι αγαπούν ένα καλό μυστήριο, έτσι δεν είναι; Ποιος δεν θα αναρωτιόταν για ένα φεγγάρι που άλλοτε είναι εκεί κι άλλοτε όχι!</value>
+		<value>Α, ναι, όλοι αγαπούν ένα καλό μυστήριο, έτσι δεν είναι; Ποιος δε θα αναρωτιόταν για ένα φεγγάρι που άλλοτε είναι εκεί κι άλλοτε όχι!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
@@ -9125,7 +9125,7 @@
 	</entry>
 	<entry>
 		<key>Chert2bTo be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-		<value>Για να είμαι ειλικρινής, δεν έχω φύγει από αυτόν τον βυθό λίμνης. Δεν θέλω να καυχηθώ, αλλά είμαι πραγματικά πολύ καλός με τον Μικρό Ανιχνευτή, οπότε φωτογραφίζω τα πάντα από εδώ, από την κατασκήνωσή μου.</value>
+		<value>Για να είμαι ειλικρινής, δεν έχω φύγει από αυτόν τον βυθό λίμνης. Δε θέλω να καυχηθώ, αλλά είμαι πραγματικά πολύ καλός με τον Μικρό Ανιχνευτή, οπότε φωτογραφίζω τα πάντα από εδώ, από την κατασκήνωσή μου.</value>
 	</entry>
 	<entry>
 		<key>Chert2bHave you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
@@ -9149,7 +9149,7 @@
 	</entry>
 	<entry>
 		<key>Chert3bOh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-		<value>Α, αν θέλεις να δεις κάτι ενδιαφέρον, ρίξε μια ματιά στον άλλο Δίδυμο μόλις αδειάσει λίγη ακόμη άμμος από πάνω του. Σου υπόσχομαι ότι δεν θα απογοητευτείς.</value>
+		<value>Α, αν θέλεις να δεις κάτι ενδιαφέρον, ρίξε μια ματιά στον άλλο Δίδυμο μόλις αδειάσει λίγη ακόμη άμμος από πάνω του. Σου υπόσχομαι ότι δε θα απογοητευτείς.</value>
 	</entry>
 	<entry>
 		<key>Chert4I have no idea! Massive stars go supernova when they reach the end of their life spans, so it's possible that the stars are older than we realized. Or maybe our models are wrong and they don't live as long as we expected.</key>
@@ -9157,7 +9157,7 @@
 	</entry>
 	<entry>
 		<key>Chert4Honestly, I'm not fond of either option! If our charts are wrong, what else is wrong? And our sun...</key>
-		<value>Ειλικρινά, δεν μου αρέσει καμία από τις δύο εκδοχές! Αν οι χάρτες μας είναι λάθος, τι άλλο είναι λάθος; Και ο ήλιος μας...</value>
+		<value>Ειλικρινά, δε μου αρέσει καμία από τις δύο εκδοχές! Αν οι χάρτες μας είναι λάθος, τι άλλο είναι λάθος; Και ο ήλιος μας...</value>
 	</entry>
 	<entry>
 		<key>Chert4No, I shouldn't jump to conclusions. I- I'm probably overlooking something. That's it, I just need to collect more data.</key>
@@ -9213,7 +9213,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4bOh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-		<value>Α, ναι, όλοι αγαπούν ένα καλό μυστήριο, έτσι δεν είναι; Ποιος δεν θα αναρωτιόταν για ένα φεγγάρι που άλλοτε είναι εκεί κι άλλοτε όχι!</value>
+		<value>Α, ναι, όλοι αγαπούν ένα καλό μυστήριο, έτσι δεν είναι; Ποιος δε θα αναρωτιόταν για ένα φεγγάρι που άλλοτε είναι εκεί κι άλλοτε όχι!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4bI’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
@@ -9285,7 +9285,7 @@
 	</entry>
 	<entry>
 		<key>ChertNextThe star charts! Why? Why did I want to update them so badly? I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-		<value>Οι αστρικοί χάρτες! Γιατί; Γιατί ήθελα τόσο πολύ να τους ενημερώσω; Δεν χρειαζόταν να ξέρω, αλλά όχι, α όχι, έπρεπε να ενημερώσω τους αστρικούς χάρτες! Έπρεπε να πάω να ψάξω πράγματα που δεν έπρεπε! Και τώρα ο ήλιος μας πρόκειται να... πρόκειται να... ωχ...</value>
+		<value>Οι αστρικοί χάρτες! Γιατί; Γιατί ήθελα τόσο πολύ να τους ενημερώσω; Δε χρειαζόταν να ξέρω, αλλά όχι, α όχι, έπρεπε να ενημερώσω τους αστρικούς χάρτες! Έπρεπε να πάω να ψάξω πράγματα που δεν έπρεπε! Και τώρα ο ήλιος μας πρόκειται να... πρόκειται να... ωχ...</value>
 	</entry>
 	<entry>
 		<key>ChertNext...I don’t feel well. I’d like to be alone, please.</key>
@@ -9313,7 +9313,7 @@
 	</entry>
 	<entry>
 		<key>Chert2Where should you &lt;i&gt;go&lt;/i&gt;? Where can anyone go? Can’t you see it’s too late now?</key>
-		<value>Πού να &lt;i&gt;πας&lt;/i&gt;; Πού μπορεί να πάει κανείς; Δεν βλέπεις ότι είναι πια πολύ αργά;</value>
+		<value>Πού να &lt;i&gt;πας&lt;/i&gt;; Πού μπορεί να πάει κανείς; Δε βλέπεις ότι είναι πια πολύ αργά;</value>
 	</entry>
 	<entry>
 		<key>Chert2Oh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!</key>
@@ -9345,7 +9345,7 @@
 	</entry>
 	<entry>
 		<key>Chert5I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I &lt;i&gt;won’t&lt;/i&gt; believe it!</key>
-		<value>Δεν το πιστεύω αυτό. Δεν πιστεύω ότι συμβαίνει. Δεν μπορώ... Δεν θα το πιστέψω! &lt;i&gt;Δεν θα&lt;/i&gt; το πιστέψω!</value>
+		<value>Δεν το πιστεύω αυτό. Δεν πιστεύω ότι συμβαίνει. Δεν μπορώ... Δε θα το πιστέψω! &lt;i&gt;Δε θα&lt;/i&gt; το πιστέψω!</value>
 	</entry>
 	<entry>
 		<key>ChertIntroOh, hello...</key>
@@ -9361,7 +9361,7 @@
 	</entry>
 	<entry>
 		<key>ChertQuestionsIf it helps, we’re in a time loop, so we won’t really die.</key>
-		<value>Αν βοηθάει, είμαστε σε χρονική λούπα, οπότε δεν θα πεθάνουμε στ’ αλήθεια.</value>
+		<value>Αν βοηθάει, είμαστε σε χρονική λούπα, οπότε δε θα πεθάνουμε στ’ αλήθεια.</value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsNo, thanks.</key>
@@ -9425,7 +9425,7 @@
 	</entry>
 	<entry>
 		<key>NotYetTake your time! I don’t think there’s anything left to go supernova.</key>
-		<value>Με την ησυχία σου! Δεν νομίζω ότι έχει μείνει τίποτα για να γίνει σουπερνόβα.</value>
+		<value>Με την ησυχία σου! Δε νομίζω ότι έχει μείνει τίποτα για να γίνει σουπερνόβα.</value>
 	</entry>
 	<entry>
 		<key>FarewellEven if it’s over now, I had a good time learning.</key>
@@ -9449,7 +9449,7 @@
 	</entry>
 	<entry>
 		<key>Esker1Ground control didn’t tell me you were launching. Long time no see!</key>
-		<value>Ο επίγειος έλεγχος δεν μου είπε ότι θα εκτοξευόσουν. Χρόνια και ζαμάνια!</value>
+		<value>Ο επίγειος έλεγχος δε μου είπε ότι θα εκτοξευόσουν. Χρόνια και ζαμάνια!</value>
 	</entry>
 	<entry>
 		<key>Esker1Actually. I guess it’s been a long time since I’ve seen anyone.</key>
@@ -9561,7 +9561,7 @@
 	</entry>
 	<entry>
 		<key>MusicThe north pole is marked in red on your &lt;color=orange&gt;mini map&lt;/color&gt;, but the Attlerock is a pretty small moon, really. Just go north. You can’t miss it.</key>
-		<value>Ο βόρειος πόλος είναι σημειωμένος με κόκκινο στον &lt;color=orange&gt;μίνι χάρτη&lt;/color&gt; σου, αλλά το Άτλροκ είναι αρκετά μικρό φεγγάρι, βασικά. Απλώς πήγαινε βόρεια. Δεν γίνεται να το χάσεις.</value>
+		<value>Ο βόρειος πόλος είναι σημειωμένος με κόκκινο στον &lt;color=orange&gt;μίνι χάρτη&lt;/color&gt; σου, αλλά το Άτλροκ είναι αρκετά μικρό φεγγάρι, βασικά. Απλώς πήγαινε βόρεια. Δε γίνεται να το χάσεις.</value>
 	</entry>
 	<entry>
 		<key>PlaceHa ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</key>
@@ -9585,11 +9585,11 @@
 	</entry>
 	<entry>
 		<key>MarlDon’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</key>
-		<value>Μην του το πεις, αλλά καμιά φορά ρίχνω κάτω τον Μικρό μου Ανιχνευτή για να βεβαιωθώ ότι ο Μαρλ δεν κάνει καμιά βλακεία. Ανησυχώ ότι εκείνο το μεγάλο δέντρο στο χωριό δεν θα είχε ελπίδα αλλιώς.</value>
+		<value>Μην του το πεις, αλλά καμιά φορά ρίχνω κάτω τον Μικρό μου Ανιχνευτή για να βεβαιωθώ ότι ο Μαρλ δεν κάνει καμιά βλακεία. Ανησυχώ ότι εκείνο το μεγάλο δέντρο στο χωριό δε θα είχε ελπίδα αλλιώς.</value>
 	</entry>
 	<entry>
 		<key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
-		<value>Γεια σου ξανά. Δεν χορταίνεις το φεγγάρι; ...Πλάκα κάνω.</value>
+		<value>Γεια σου ξανά. Δε χορταίνεις το φεγγάρι; ...Πλάκα κάνω.</value>
 	</entry>
 	<entry>
 		<key>FirstConversationDo you hear music?</key>
@@ -9613,7 +9613,7 @@
 	</entry>
 	<entry>
 		<key>StartPlayingOk, I won’t let you down!</key>
-		<value>Εντάξει, δεν θα σε απογοητεύσω!</value>
+		<value>Εντάξει, δε θα σε απογοητεύσω!</value>
 	</entry>
 	<entry>
 		<key>NotYetOh, ok. I’ll– I’ll get to play soon though, right?</key>
@@ -9633,7 +9633,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersNice to have company around a campfire, isn’t it? Go on, go get the others. Wouldn’t want ’em to miss out!</key>
-		<value>Ωραίο να έχεις παρέα γύρω από μια φωτιά, έτσι; Άντε, πήγαινε να φέρεις και τους άλλους. Δεν θα θέλαμε να το χάσουν!</value>
+		<value>Ωραίο να έχεις παρέα γύρω από μια φωτιά, έτσι; Άντε, πήγαινε να φέρεις και τους άλλους. Δε θα θέλαμε να το χάσουν!</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayWhaddya say, then — should I get out the ol’ harmonica?</key>
@@ -9673,7 +9673,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
-		<value>Πω &lt;i&gt;πω&lt;/i&gt;! Ποτέ δεν φανταζόμουν ότι θα έβλεπα ένα από αυτά τα θηρία έξω από τον Τζάιαντς Ντιπ! Ήταν πολύ χρήσιμα εκεί - ίσως μια μέδουσα να φανεί χρήσιμη κι εδώ;</value>
+		<value>Πω &lt;i&gt;πω&lt;/i&gt;! Ποτέ δε φανταζόμουν ότι θα έβλεπα ένα από αυτά τα θηρία έξω από τον Τζάιαντς Ντιπ! Ήταν πολύ χρήσιμα εκεί - ίσως μια μέδουσα να φανεί χρήσιμη κι εδώ;</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalBLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?</key>
@@ -9741,7 +9741,7 @@
 	</entry>
 	<entry>
 		<key>ExplanationMergeIt didn’t seem bad, just... weird? Were we the only ones who saw that happen?</key>
-		<value>Δεν φαινόταν κακό, απλώς... περίεργο; Ήμασταν οι μόνοι που το είδαμε να συμβαίνει;</value>
+		<value>Δε φαινόταν κακό, απλώς... περίεργο; Ήμασταν οι μόνοι που το είδαμε να συμβαίνει;</value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeI tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</key>
@@ -9805,7 +9805,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanetThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -9921,7 +9921,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -10029,7 +10029,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δεν δούλεψε.</value>
+		<value>Υπάρχει ένα ισχυρό ρεύμα αρκετά κάτω από την επιφάνεια που εμποδίζει οτιδήποτε να βυθιστεί πιο κάτω. Σοβαρά, δοκίμασα ό,τι μπορούσα να σκεφτώ για να περάσω αυτό το ρεύμα, και καμία από τις δύο ιδέες δε δούλεψε.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
@@ -10045,7 +10045,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersGo on, go find the others. I’ll be here. You don’t need me yet, but you will.</key>
-		<value>Άντε, πήγαινε να βρεις τους άλλους. Εγώ θα είμαι εδώ. Δεν με χρειάζεσαι ακόμη, αλλά θα με χρειαστείς.</value>
+		<value>Άντε, πήγαινε να βρεις τους άλλους. Εγώ θα είμαι εδώ. Δε με χρειάζεσαι ακόμη, αλλά θα με χρειαστείς.</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayWhat do you say, time buddy? Ready to start the music?</key>
@@ -10065,7 +10065,7 @@
 	</entry>
 	<entry>
 		<key>NotYetNo rush, I’m not going anywhere.</key>
-		<value>Δεν βιάζομαι, δεν πάω πουθενά.</value>
+		<value>Δε βιάζομαι, δεν πάω πουθενά.</value>
 	</entry>
 	<entry>
 		<key>FarewellI tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</key>
@@ -10181,7 +10181,7 @@
 	</entry>
 	<entry>
 		<key>Curator6Haha! Overwhelmed by the options, perhaps? I don’t blame you.</key>
-		<value>Χαχα! Σε ζάλισαν οι επιλογές, ίσως; Δεν σε κατηγορώ.</value>
+		<value>Χαχα! Σε ζάλισαν οι επιλογές, ίσως; Δε σε κατηγορώ.</value>
 	</entry>
 	<entry>
 		<key>Curator6If you need help getting started, you could go visit Esker on the moon. They’re alone on the Attlerock most of the time, so I’m sure they’d appreciate it.</key>
@@ -10285,7 +10285,7 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
-		<value>Ως επίγειος έλεγχος και αργότερα έφορος του μουσείου, δεν δούλεψα με τον Φέλντσπαρ τόσο στενά όσο ο Σλέιτ και ο Γκόσαν. &lt;i&gt;Μπορώ&lt;/i&gt; όμως να σου πω ότι ο Φέλντσπαρ ήταν απολύτως άφοβος. Τίποτα δεν τον τρόμαζε.</value>
+		<value>Ως επίγειος έλεγχος και αργότερα έφορος του μουσείου, δε δούλεψα με τον Φέλντσπαρ τόσο στενά όσο ο Σλέιτ και ο Γκόσαν. &lt;i&gt;Μπορώ&lt;/i&gt; όμως να σου πω ότι ο Φέλντσπαρ ήταν απολύτως άφοβος. Τίποτα δεν τον τρόμαζε.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
@@ -10293,7 +10293,7 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
-		<value>Και μετά μια μέρα, απλώς... δεν γύρισε. Δεν ξέρουμε τι συνέβη, ούτε πού πήγε ο Φέλντσπαρ, ούτε καν αν ζει ακόμη.</value>
+		<value>Και μετά μια μέρα, απλώς... δε γύρισε. Δεν ξέρουμε τι συνέβη, ούτε πού πήγε ο Φέλντσπαρ, ούτε καν αν ζει ακόμη.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparIt’s been a long time since they left.</key>
@@ -10437,11 +10437,11 @@
 	</entry>
 	<entry>
 		<key>SignalscopeKid6I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</key>
-		<value>Ανησυχώ ότι ο Μαρλ θα κόψει αυτό το δέντρο αν δεν υπάρχει κανείς πάνω του, οπότε δεν θέλω να το αφήσω για πολλή ώρα.</value>
+		<value>Ανησυχώ ότι ο Μαρλ θα κόψει αυτό το δέντρο αν δεν υπάρχει κανείς πάνω του, οπότε δε θέλω να το αφήσω για πολλή ώρα.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6Mayor Rutile says Marl isn’t supposed to cut it down, but I don’t think they see eyes-to-eyes on this one.</key>
-		<value>Ο δήμαρχος Ρούταϊλ λέει ότι ο Μαρλ δεν επιτρέπεται να το κόψει, αλλά δεν νομίζω ότι βλέπουν τα πράγματα με τα ίδια μάτια σε αυτό.</value>
+		<value>Ο δήμαρχος Ρούταϊλ λέει ότι ο Μαρλ δεν επιτρέπεται να το κόψει, αλλά δε νομίζω ότι βλέπουν τα πράγματα με τα ίδια μάτια σε αυτό.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6Um, I’ll still watch your launch, though! I’ll have a good view from up here.</key>
@@ -10473,7 +10473,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersNo rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</key>
-		<value>Δεν βιάζομαι! Με την ησυχία σου. &lt;size=20&gt;Μπορεί να μην υπάρχει καν εδώ...&lt;/size&gt;</value>
+		<value>Δε βιάζομαι! Με την ησυχία σου. &lt;size=20&gt;Μπορεί να μην υπάρχει καν εδώ...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayShould I begin?</key>
@@ -10501,7 +10501,7 @@
 	</entry>
 	<entry>
 		<key>FarewellThe past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</key>
-		<value>Το παρελθόν είναι πια παρελθόν, αλλά αυτό... ξέρεις, δεν πειράζει! Ποτέ δεν χάνεται εντελώς. Το μέλλον χτίζεται πάντα πάνω στο παρελθόν, ακόμη κι αν δεν προλάβουμε να το δούμε.</value>
+		<value>Το παρελθόν είναι πια παρελθόν, αλλά αυτό... ξέρεις, δεν πειράζει! Ποτέ δε χάνεται εντελώς. Το μέλλον χτίζεται πάντα πάνω στο παρελθόν, ακόμη κι αν δεν προλάβουμε να το δούμε.</value>
 	</entry>
 	<entry>
 		<key>FarewellStill, it’s, um, time for something new, now.</key>
@@ -10573,7 +10573,7 @@
 	</entry>
 	<entry>
 		<key>Farewell3But unless they are collapsed by an observer, they will never be more than possibilities.</key>
-		<value>Αλλά αν δεν τις κάνει να καταρρεύσουν κάποιος παρατηρητής, δεν θα γίνουν ποτέ τίποτα περισσότερο από πιθανότητες.</value>
+		<value>Αλλά αν δεν τις κάνει να καταρρεύσουν κάποιος παρατηρητής, δε θα γίνουν ποτέ τίποτα περισσότερο από πιθανότητες.</value>
 	</entry>
 	<entry>
 		<key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
@@ -10581,7 +10581,7 @@
 	</entry>
 	<entry>
 		<key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
-		<value>Μεγάλες ευχαριστίες σε αυτά τα επιπλέον ιδρυτικά μέλη της Outer Wilds Ventures, χωρίς τα οποία δεν θα είχαμε σηκωθεί ποτέ από το έδαφος:</value>
+		<value>Μεγάλες ευχαριστίες σε αυτά τα επιπλέον ιδρυτικά μέλη της Outer Wilds Ventures, χωρίς τα οποία δε θα είχαμε σηκωθεί ποτέ από το έδαφος:</value>
 	</entry>
 	<entry>
 		<key>SignMatthew Steinhauer</key>
@@ -11275,7 +11275,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>Ο Φέλντσπαρ δεν πιστεύει ότι ο ιχνηλάτης του ανιχνευτή μου κάνει λάθος όταν δείχνει τον ανιχνευτή σε δύο μέρη ταυτόχρονα. Έχει τη θεωρία ότι ο χώρος δεν λειτουργεί το ίδιο μέσα στον Νταρκ Μπραμπλ.</value>
+			<value>Ο Φέλντσπαρ δεν πιστεύει ότι ο ιχνηλάτης του ανιχνευτή μου κάνει λάθος όταν δείχνει τον ανιχνευτή σε δύο μέρη ταυτόχρονα. Έχει τη θεωρία ότι ο χώρος δε λειτουργεί το ίδιο μέσα στον Νταρκ Μπραμπλ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
@@ -11503,7 +11503,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-			<value>Μια Νομάι που την έλεγαν Πρίβετ αντέτεινε ότι δεν θα μπορούσαν να λάβουν τα δεδομένα της βολίδας αν καταστρεφόταν η Μονάδα Παρακολούθησης Βολίδας.</value>
+			<value>Μια Νομάι που την έλεγαν Πρίβετ αντέτεινε ότι δε θα μπορούσαν να λάβουν τα δεδομένα της βολίδας αν καταστρεφόταν η Μονάδα Παρακολούθησης Βολίδας.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control Module</key>
@@ -11527,7 +11527,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-			<value>Ένας τεράστιος τεχνητός δακτυλιοειδής κόσμος, κρυμμένος μέσα σε κάποιου είδους πεδίο απόκρυψης. Δεν φαίνεται να είναι ούτε χαρθιανής ούτε νομαϊκής προέλευσης.</value>
+			<value>Ένας τεράστιος τεχνητός δακτυλιοειδής κόσμος, κρυμμένος μέσα σε κάποιου είδους πεδίο απόκρυψης. Δε φαίνεται να είναι ούτε χαρθιανής ούτε νομαϊκής προέλευσης.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River Lowlands</key>
@@ -11835,7 +11835,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</key>
-			<value>Περιέστρεψα τον μηχανισμό μπροστά από την κρύπτη, κάνοντάς την να τεντωθεί πάνω στις αλυσίδες που την κρατούσαν κλειστή. Λίγες στιγμές αργότερα, ακτίνες πράσινου φωτός ξεχύθηκαν από μέσα.</value>
+			<value>Περιέστρεψα τον μηχανισμό μπροστά από την κρύπτη, κάνοντάς τη να τεντωθεί πάνω στις αλυσίδες που την κρατούσαν κλειστή. Λίγες στιγμές αργότερα, ακτίνες πράσινου φωτός ξεχύθηκαν από μέσα.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed Vault</key>
@@ -12587,7 +12587,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai built something called the Sun Station, but not everyone supported its construction.</key>
-			<value>Οι Νομάι έχτισαν κάτι που ονόμαζαν Ηλιακό Σταθμό, αλλά δεν στήριζαν όλοι την κατασκευή του.</value>
+			<value>Οι Νομάι έχτισαν κάτι που ονόμαζαν Ηλιακό Σταθμό, αλλά δε στήριζαν όλοι την κατασκευή του.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Sun Station was designed to make the sun go supernova.</key>
@@ -12595,7 +12595,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationThe Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.</key>
-			<value>Οι Νομάι πυροδότησαν τον Ηλιακό Σταθμό, αλλά δεν είχε καμία επίδραση στον ήλιο. Κατέληξαν ότι ο Ηλιακός Σταθμός δεν θα μπορούσε ποτέ να κάνει τον ήλιο να γίνει σουπερνόβα.</value>
+			<value>Οι Νομάι πυροδότησαν τον Ηλιακό Σταθμό, αλλά δεν είχε καμία επίδραση στον ήλιο. Κατέληξαν ότι ο Ηλιακός Σταθμός δε θα μπορούσε ποτέ να κάνει τον ήλιο να γίνει σουπερνόβα.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sun StationAfter the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.</key>
@@ -12699,7 +12699,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThe Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.</key>
-			<value>Ο Ηλιακός Σταθμός δεν λειτούργησε. Παρόλο που το Πρότζεκτ του Διδύμου της Στάχτης ήταν θεωρητικά σωστό, οι Νομάι δεν κατάφεραν να το τροφοδοτήσουν.</value>
+			<value>Ο Ηλιακός Σταθμός δε λειτούργησε. Παρόλο που το Πρότζεκτ του Διδύμου της Στάχτης ήταν θεωρητικά σωστό, οι Νομάι δεν κατάφεραν να το τροφοδοτήσουν.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ash Twin ProjectThere is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project.</key>
